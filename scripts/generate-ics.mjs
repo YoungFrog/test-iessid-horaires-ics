@@ -60,16 +60,14 @@ generateIcss("salles", salles)
  */
 function  generateIcss(dir, list) {
   for (const key in list) {
-    console.log(`${key}`);
     ics.createEvents(list[key], (error, value) => {
       if (error) {
         console.log(error)
         return
       }
-      console.log(value);
       fs.writeFile(`${icalRoot}/${dir}/${key}.ics`, value, (err) => {
         if (err) throw err;
-        console.log('The file has been saved!');
+        console.log(`${icalRoot}/${dir}/${key}.ics generated`);
       });
     })
   }
