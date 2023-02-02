@@ -1,0 +1,364 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1766-32-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T060000Z
+DTEND:20230420T080000Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1766-33-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T060000Z
+DTEND:20230427T080000Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1766-35-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230511T060000Z
+DTEND:20230511T080000Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1766-37-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230525T060000Z
+DTEND:20230525T080000Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1766-38-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230601T060000Z
+DTEND:20230601T080000Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1771-32-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T081500Z
+DTEND:20230420T101500Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1771-33-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T081500Z
+DTEND:20230427T101500Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1771-35-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230511T081500Z
+DTEND:20230511T101500Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1771-37-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230525T081500Z
+DTEND:20230525T101500Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1771-38-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230601T081500Z
+DTEND:20230601T101500Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1772-37-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T111500Z
+DTEND:20230523T131500Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1773-37-Usagers_-_Enquete-Index-Education
+SUMMARY:Usagers - Enquête - Assenmaker - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T133000Z
+DTEND:20230523T153000Z
+DESCRIPTION:Usagers - Enquête - Assenmaker - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2487-32-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T111500Z
+DTEND:20230419T131500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2488-29-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T111500Z
+DTEND:20230329T131500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2489-27-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T121500Z
+DTEND:20230315T141500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2490-23-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T121500Z
+DTEND:20230215T141500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2493-22-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230208T121500Z
+DTEND:20230208T141500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2527-21-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230201T121500Z
+DTEND:20230201T141500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-22-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230208T091500Z
+DTEND:20230208T111500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-23-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T091500Z
+DTEND:20230215T111500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-27-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T091500Z
+DTEND:20230315T111500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-29-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T081500Z
+DTEND:20230329T101500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-32-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T081500Z
+DTEND:20230419T101500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-33-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230426T081500Z
+DTEND:20230426T101500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2430-22-TP_Gestion_projets-Index-Education
+SUMMARY:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230209T163000Z
+DTEND:20230209T203000Z
+DESCRIPTION:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2430-37-TP_Gestion_projets-Index-Education
+SUMMARY:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230525T153000Z
+DTEND:20230525T193000Z
+DESCRIPTION:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2430-38-TP_Gestion_projets-Index-Education
+SUMMARY:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230601T153000Z
+DTEND:20230601T193000Z
+DESCRIPTION:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2442-23-TP_Gestion_projets-Index-Education
+SUMMARY:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T183000Z
+DTEND:20230216T203000Z
+DESCRIPTION:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2443-25-TP_Gestion_projets-Index-Education
+SUMMARY:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T183000Z
+DTEND:20230302T203000Z
+DESCRIPTION:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2444-22-TP_Gestion_projets-Index-Education
+SUMMARY:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230210T070000Z
+DTEND:20230210T170000Z
+DESCRIPTION:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2445-22-TP_Gestion_projets-Index-Education
+SUMMARY:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230211T070000Z
+DTEND:20230211T170000Z
+DESCRIPTION:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3036-28-TP_Gestion_projets-Index-Education
+SUMMARY:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T183000Z
+DTEND:20230323T203000Z
+DESCRIPTION:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3036-33-TP_Gestion_projets-Index-Education
+SUMMARY:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T173000Z
+DTEND:20230427T193000Z
+DESCRIPTION:TP Gestion projets - Assenmaker\, Maeyens - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2419-26-Projet_international-Index-Education
+SUMMARY:Projet international - Assenmaker - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230306T163000Z
+DTEND:20230306T203000Z
+DESCRIPTION:Projet international - Assenmaker - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2419-27-Projet_international-Index-Education
+SUMMARY:Projet international - Assenmaker - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T163000Z
+DTEND:20230313T203000Z
+DESCRIPTION:Projet international - Assenmaker - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2419-36-Projet_international-Index-Education
+SUMMARY:Projet international - Assenmaker - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T153000Z
+DTEND:20230515T193000Z
+DESCRIPTION:Projet international - Assenmaker - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2421-32-Projet_international-Index-Education
+SUMMARY:Projet international - Assenmaker - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T153000Z
+DTEND:20230417T193000Z
+DESCRIPTION:Projet international - Assenmaker - MIAS 2
+LOCATION:006
+END:VEVENT
+END:VCALENDAR

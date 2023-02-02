@@ -1,0 +1,1050 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1932-32-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T060000Z
+DTEND:20230417T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1932-33-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T060000Z
+DTEND:20230424T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1934-35-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T060000Z
+DTEND:20230508T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1935-36-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T060000Z
+DTEND:20230515T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1938-37-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230522T060000Z
+DTEND:20230522T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2740-32-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T081500Z
+DTEND:20230417T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2740-33-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T081500Z
+DTEND:20230424T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2740-35-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T081500Z
+DTEND:20230508T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2740-36-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T081500Z
+DTEND:20230515T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2740-37-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230522T081500Z
+DTEND:20230522T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2745-32-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T060000Z
+DTEND:20230418T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2745-33-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T060000Z
+DTEND:20230425T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2745-35-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T060000Z
+DTEND:20230509T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2745-37-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T060000Z
+DTEND:20230523T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2745-38-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230530T060000Z
+DTEND:20230530T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2749-32-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T081500Z
+DTEND:20230418T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2749-33-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T081500Z
+DTEND:20230425T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2749-35-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T081500Z
+DTEND:20230509T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2749-37-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T081500Z
+DTEND:20230523T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2749-38-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230530T081500Z
+DTEND:20230530T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2769-32-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T060000Z
+DTEND:20230420T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2769-33-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T060000Z
+DTEND:20230427T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2769-35-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230511T060000Z
+DTEND:20230511T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2769-37-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230525T060000Z
+DTEND:20230525T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2774-32-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T081500Z
+DTEND:20230420T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2774-33-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T081500Z
+DTEND:20230427T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2774-35-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230511T081500Z
+DTEND:20230511T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2774-37-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230525T081500Z
+DTEND:20230525T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2792-29-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230331T060000Z
+DTEND:20230331T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2792-32-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230421T060000Z
+DTEND:20230421T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2792-33-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T060000Z
+DTEND:20230428T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2792-35-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230512T060000Z
+DTEND:20230512T080000Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2793-29-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230331T081500Z
+DTEND:20230331T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2793-32-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230421T081500Z
+DTEND:20230421T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2793-33-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T081500Z
+DTEND:20230428T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2793-35-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230512T081500Z
+DTEND:20230512T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1883-22-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T070000Z
+DTEND:20230206T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1884-23-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T070000Z
+DTEND:20230213T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1885-27-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T070000Z
+DTEND:20230313T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1886-28-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230320T070000Z
+DTEND:20230320T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1887-29-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230327T060000Z
+DTEND:20230327T080000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1898-22-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T091500Z
+DTEND:20230206T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1898-23-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T091500Z
+DTEND:20230213T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1900-27-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T091500Z
+DTEND:20230313T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1902-28-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230320T091500Z
+DTEND:20230320T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2741-29-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230327T081500Z
+DTEND:20230327T101500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2744-22-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T070000Z
+DTEND:20230207T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2744-23-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230214T070000Z
+DTEND:20230214T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2744-27-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T070000Z
+DTEND:20230314T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2744-29-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230328T060000Z
+DTEND:20230328T080000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2766-21-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230202T070000Z
+DTEND:20230202T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2766-22-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230209T070000Z
+DTEND:20230209T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2766-23-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T070000Z
+DTEND:20230216T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2766-27-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T070000Z
+DTEND:20230316T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2766-29-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T060000Z
+DTEND:20230330T080000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2767-21-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230202T091500Z
+DTEND:20230202T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2767-22-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230209T091500Z
+DTEND:20230209T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2767-23-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T091500Z
+DTEND:20230216T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2767-27-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T091500Z
+DTEND:20230316T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2767-29-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T081500Z
+DTEND:20230330T101500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2789-21-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230203T070000Z
+DTEND:20230203T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2789-22-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230210T070000Z
+DTEND:20230210T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2789-23-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230217T070000Z
+DTEND:20230217T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2789-27-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230317T070000Z
+DTEND:20230317T090000Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2791-21-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230203T091500Z
+DTEND:20230203T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2791-22-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230210T091500Z
+DTEND:20230210T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2791-23-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230217T091500Z
+DTEND:20230217T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2791-27-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230317T091500Z
+DTEND:20230317T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2815-22-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T091500Z
+DTEND:20230207T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2816-23-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230214T091500Z
+DTEND:20230214T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2816-27-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T091500Z
+DTEND:20230314T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2816-29-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230328T081500Z
+DTEND:20230328T101500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-208-14-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Simar\, Van Keerberghen - AS2 - Groupe 
+	D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221216T070000Z
+DTEND:20221216T111500Z
+DESCRIPTION:Not droit pén et proc pén - Simar\, Van Keerberghen - AS2 - Gro
+	upe D1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-209-7-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Simar\, Van Keerberghen - AS2 - Groupe 
+	C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T060000Z
+DTEND:20221026T101500Z
+DESCRIPTION:Not droit pén et proc pén - Simar\, Van Keerberghen - AS2 - Gro
+	upe C1\, AS2 - Groupe C2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-287-3-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T111500Z
+DTEND:20220926T131500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-290-4-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T081500Z
+DTEND:20221006T101500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-290-5-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T081500Z
+DTEND:20221013T101500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-301-12-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T121500Z
+DTEND:20221201T141500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-4-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T060000Z
+DTEND:20221006T080000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-5-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T060000Z
+DTEND:20221013T080000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-6-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T060000Z
+DTEND:20221020T080000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-11-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T070000Z
+DTEND:20221124T090000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-12-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T070000Z
+DTEND:20221201T090000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-13-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221208T070000Z
+DTEND:20221208T090000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-831-7-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T060000Z
+DTEND:20221027T080000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1177-3-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T133000Z
+DTEND:20220926T153000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1180-2-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20220922T133000Z
+DTEND:20220922T153000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1181-3-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20220929T060000Z
+DTEND:20220929T080000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1293-6-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T081500Z
+DTEND:20221020T101500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1293-7-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T081500Z
+DTEND:20221027T101500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1294-11-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T121500Z
+DTEND:20221124T141500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1294-13-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221208T121500Z
+DTEND:20221208T141500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1393-2-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220922T111500Z
+DTEND:20220922T131500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1394-3-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220929T081500Z
+DTEND:20220929T101500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1633-18-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230112T121500Z
+DTEND:20230112T141500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109\, 115\, 118
+END:VEVENT
+END:VCALENDAR

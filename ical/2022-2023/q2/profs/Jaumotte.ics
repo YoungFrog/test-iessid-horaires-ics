@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-214-3-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T111500Z
+DTEND:20220926T131500Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-214-4-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221003T111500Z
+DTEND:20221003T131500Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-214-5-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T111500Z
+DTEND:20221010T131500Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-214-6-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221017T111500Z
+DTEND:20221017T131500Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-214-7-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221024T111500Z
+DTEND:20221024T131500Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-214-9-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T121500Z
+DTEND:20221107T141500Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-214-10-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T121500Z
+DTEND:20221114T141500Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-214-11-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T121500Z
+DTEND:20221121T141500Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-214-12-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T121500Z
+DTEND:20221128T141500Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-914-4-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221004T133000Z
+DTEND:20221004T153000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-914-5-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T133000Z
+DTEND:20221011T153000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-914-6-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221018T133000Z
+DTEND:20221018T153000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-914-7-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221025T133000Z
+DTEND:20221025T153000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-914-9-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T143000Z
+DTEND:20221108T163000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-916-10-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T143000Z
+DTEND:20221115T163000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-917-12-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T143000Z
+DTEND:20221128T163000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-920-15-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221219T121500Z
+DTEND:20221219T141500Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1376-7-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T111500Z
+DTEND:20221027T131500Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1390-3-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T133000Z
+DTEND:20220926T153000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1390-4-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221003T133000Z
+DTEND:20221003T153000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1390-6-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221017T133000Z
+DTEND:20221017T153000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1390-9-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T143000Z
+DTEND:20221107T163000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1390-10-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T143000Z
+DTEND:20221114T163000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1390-11-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 - Gro
+	upe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T143000Z
+DTEND:20221121T163000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1625-19-Droit_public_belge_&_europ-Index-Education
+SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
+	upe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230119T080000Z
+DTEND:20230119T100000Z
+DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
+	 Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:006\, 109\, 115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-666-9-Droit_2-Index-Education
+SUMMARY:Droit 2 - Jaumotte - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221110T121500Z
+DTEND:20221110T151500Z
+DESCRIPTION:Droit 2 - Jaumotte - BD2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-666-10-Droit_2-Index-Education
+SUMMARY:Droit 2 - Jaumotte - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221117T121500Z
+DTEND:20221117T151500Z
+DESCRIPTION:Droit 2 - Jaumotte - BD2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-666-11-Droit_2-Index-Education
+SUMMARY:Droit 2 - Jaumotte - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T121500Z
+DTEND:20221124T151500Z
+DESCRIPTION:Droit 2 - Jaumotte - BD2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-666-13-Droit_2-Index-Education
+SUMMARY:Droit 2 - Jaumotte - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221208T121500Z
+DTEND:20221208T151500Z
+DESCRIPTION:Droit 2 - Jaumotte - BD2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1362-7-Droit_2-Index-Education
+SUMMARY:Droit 2 - Jaumotte - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T133000Z
+DTEND:20221027T153000Z
+DESCRIPTION:Droit 2 - Jaumotte - BD2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1374-2-Droit_2-Index-Education
+SUMMARY:Droit 2 - Jaumotte - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20220922T133000Z
+DTEND:20220922T153000Z
+DESCRIPTION:Droit 2 - Jaumotte - BD2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1374-3-Droit_2-Index-Education
+SUMMARY:Droit 2 - Jaumotte - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20220929T133000Z
+DTEND:20220929T153000Z
+DESCRIPTION:Droit 2 - Jaumotte - BD2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1377-5-Droit_2-Index-Education
+SUMMARY:Droit 2 - Jaumotte - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T111500Z
+DTEND:20221013T131500Z
+DESCRIPTION:Droit 2 - Jaumotte - BD2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1377-6-Droit_2-Index-Education
+SUMMARY:Droit 2 - Jaumotte - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T111500Z
+DTEND:20221020T131500Z
+DESCRIPTION:Droit 2 - Jaumotte - BD2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1598-18-Droit_2-Index-Education
+SUMMARY:Droit 2 - Jaumotte - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230109T091500Z
+DTEND:20230109T111500Z
+DESCRIPTION:Droit 2 - Jaumotte - BD2
+END:VEVENT
+END:VCALENDAR

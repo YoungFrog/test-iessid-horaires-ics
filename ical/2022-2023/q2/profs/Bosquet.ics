@@ -1,0 +1,1242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-303-4-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T081500Z
+DTEND:20221005T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T081500Z
+DTEND:20221012T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T081500Z
+DTEND:20221019T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T081500Z
+DTEND:20221026T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T091500Z
+DTEND:20221123T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T091500Z
+DTEND:20221130T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T091500Z
+DTEND:20221214T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-15-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach - AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T091500Z
+DTEND:20221221T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach - AS2 - Groupe D2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1332-15-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T070000Z
+DTEND:20221221T090000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1335-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221017T133000Z
+DTEND:20221017T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1337-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T121500Z
+DTEND:20221214T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1339-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T143000Z
+DTEND:20221214T163000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1421-15-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221223T121500Z
+DTEND:20221223T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-4-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T111500Z
+DTEND:20221006T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T111500Z
+DTEND:20221013T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T111500Z
+DTEND:20221020T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T111500Z
+DTEND:20221027T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T121500Z
+DTEND:20221124T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T121500Z
+DTEND:20221201T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-4-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T081500Z
+DTEND:20221006T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T081500Z
+DTEND:20221013T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T081500Z
+DTEND:20221020T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T081500Z
+DTEND:20221027T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T091500Z
+DTEND:20221124T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T091500Z
+DTEND:20221201T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221215T091500Z
+DTEND:20221215T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1651-15-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221222T121500Z
+DTEND:20221222T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T133000Z
+DTEND:20221013T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T133000Z
+DTEND:20221020T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T133000Z
+DTEND:20221027T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T143000Z
+DTEND:20221124T163000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T143000Z
+DTEND:20221201T163000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2925-25-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T121500Z
+DTEND:20230302T141500Z
+DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2925-26-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230309T121500Z
+DTEND:20230309T141500Z
+DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2925-27-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T121500Z
+DTEND:20230316T141500Z
+DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2925-28-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T121500Z
+DTEND:20230323T141500Z
+DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2925-29-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T111500Z
+DTEND:20230330T131500Z
+DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2929-23-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - 
+	Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T143000Z
+DTEND:20230216T163000Z
+DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS
+	2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2929-25-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T143000Z
+DTEND:20230302T163000Z
+DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2929-26-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230309T143000Z
+DTEND:20230309T163000Z
+DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2929-27-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T143000Z
+DTEND:20230316T163000Z
+DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2929-28-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T143000Z
+DTEND:20230323T163000Z
+DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2929-29-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T133000Z
+DTEND:20230330T153000Z
+DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1826-32-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T111500Z
+DTEND:20230420T153000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1831-32-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230421T060000Z
+DTEND:20230421T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:004\, 005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1837-33-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T111500Z
+DTEND:20230427T153000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1839-33-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T060000Z
+DTEND:20230428T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1841-36-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T070000Z
+DTEND:20230515T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1843-36-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T111500Z
+DTEND:20230515T143000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1844-37-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230525T111500Z
+DTEND:20230525T153000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1846-37-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230526T060000Z
+DTEND:20230526T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1309-4-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T133000Z
+DTEND:20221005T153000Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1316-4-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T111500Z
+DTEND:20221005T131500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1316-6-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T111500Z
+DTEND:20221019T131500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1316-7-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T111500Z
+DTEND:20221026T131500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1320-6-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T133000Z
+DTEND:20221019T153000Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1320-7-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T133000Z
+DTEND:20221026T153000Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1331-11-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T121500Z
+DTEND:20221123T141500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1331-12-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T121500Z
+DTEND:20221130T141500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1331-13-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221207T121500Z
+DTEND:20221207T141500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1334-11-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T143000Z
+DTEND:20221123T163000Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1334-12-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T143000Z
+DTEND:20221130T163000Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1334-13-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221207T143000Z
+DTEND:20221207T163000Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1630-18-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet\, Fonteneau - AS2 - Groupe C
+	1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230109T101500Z
+DTEND:20230109T111500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet\, Fonteneau - AS2 - Grou
+	pe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-474-2-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T081500Z
+DTEND:20220919T101500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-474-3-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T081500Z
+DTEND:20220926T101500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-474-5-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T081500Z
+DTEND:20221010T101500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-474-9-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T091500Z
+DTEND:20221107T111500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-474-10-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T091500Z
+DTEND:20221114T111500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-476-3-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T133000Z
+DTEND:20220926T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-477-2-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T111500Z
+DTEND:20220919T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-477-5-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T111500Z
+DTEND:20221010T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-477-9-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T121500Z
+DTEND:20221107T141500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-477-10-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T121500Z
+DTEND:20221114T141500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-479-3-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T111500Z
+DTEND:20220926T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-480-2-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T133000Z
+DTEND:20220919T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-480-5-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T133000Z
+DTEND:20221010T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-480-9-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T143000Z
+DTEND:20221107T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-480-10-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T143000Z
+DTEND:20221114T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-484-2-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220920T111500Z
+DTEND:20220920T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-485-9-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T070000Z
+DTEND:20221108T090000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1138-4-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221004T060000Z
+DTEND:20221004T080000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1138-11-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221122T070000Z
+DTEND:20221122T090000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1216-5-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T081500Z
+DTEND:20221011T101500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2706-25-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1\, AS3 - G
+	roupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230228T080000Z
+DTEND:20230228T111500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1\, AS3
+	 - Groupe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2713-25-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1\, AS3 - G
+	roupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230228T121500Z
+DTEND:20230228T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1\, AS3
+	 - Groupe F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2909-26-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230306T143000Z
+DTEND:20230306T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-22-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T143000Z
+DTEND:20230207T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-23-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230214T143000Z
+DTEND:20230214T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-26-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230307T143000Z
+DTEND:20230307T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-27-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T143000Z
+DTEND:20230314T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-32-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T133000Z
+DTEND:20230418T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-33-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T133000Z
+DTEND:20230425T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-35-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T133000Z
+DTEND:20230509T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-37-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T133000Z
+DTEND:20230523T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2915-22-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T121500Z
+DTEND:20230207T141500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2915-23-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230214T121500Z
+DTEND:20230214T141500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2915-26-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230307T121500Z
+DTEND:20230307T141500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2915-27-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T121500Z
+DTEND:20230314T141500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2915-32-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T111500Z
+DTEND:20230418T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2915-33-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T111500Z
+DTEND:20230425T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2915-35-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T111500Z
+DTEND:20230509T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2915-37-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T111500Z
+DTEND:20230523T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2915-38-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet
+DTSTAMP:20230202T152100Z
+DTSTART:20230530T111500Z
+DTEND:20230530T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3050-23-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T121500Z
+DTEND:20230213T141500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3050-26-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230306T121500Z
+DTEND:20230306T141500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3050-27-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T121500Z
+DTEND:20230313T141500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3050-32-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T111500Z
+DTEND:20230417T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3050-35-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T111500Z
+DTEND:20230508T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3051-26-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230307T091500Z
+DTEND:20230307T111500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3137-37-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230522T111500Z
+DTEND:20230522T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3149-23-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T143000Z
+DTEND:20230213T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3149-27-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T143000Z
+DTEND:20230313T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3149-32-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T133000Z
+DTEND:20230417T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3149-35-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T133000Z
+DTEND:20230508T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3149-37-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230522T133000Z
+DTEND:20230522T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3173-33-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T111500Z
+DTEND:20230424T131500Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3174-33-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T133000Z
+DTEND:20230424T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3177-22-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T143000Z
+DTEND:20230206T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1643-14-Casus_-_Dispositif_commun_UE03-Index-Education
+SUMMARY:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe
+	 C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221216T091500Z
+DTEND:20221216T111500Z
+DESCRIPTION:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Gr
+	oupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1644-13-Casus_-_Dispositif_commun_UE03-Index-Education
+SUMMARY:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221209T070000Z
+DTEND:20221209T090000Z
+DESCRIPTION:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Gr
+	oupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1645-14-Casus_-_Dispositif_commun_UE03-Index-Education
+SUMMARY:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe
+	 D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221215T121500Z
+DTEND:20221215T141500Z
+DESCRIPTION:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Gr
+	oupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1646-13-Casus_-_Dispositif_commun_UE03-Index-Education
+SUMMARY:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221209T091500Z
+DTEND:20221209T111500Z
+DESCRIPTION:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Gr
+	oupe D2
+LOCATION:005
+END:VEVENT
+END:VCALENDAR

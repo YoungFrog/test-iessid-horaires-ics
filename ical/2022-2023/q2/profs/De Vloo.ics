@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-3059-33-Etudes_de_sit_soc_pluri-Index-Education
+SUMMARY:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice - A
+	S3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230426T060000Z
+DTEND:20230426T153000Z
+DESCRIPTION:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice
+	 - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3060-22-Etudes_de_sit_soc_pluri-Index-Education
+SUMMARY:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice - A
+	S3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T121500Z
+DTEND:20230206T141500Z
+DESCRIPTION:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice
+	 - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3062-25-Etudes_de_sit_soc_pluri-Index-Education
+SUMMARY:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice - A
+	S3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230227T143000Z
+DTEND:20230227T163000Z
+DESCRIPTION:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice
+	 - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3077-26-Etudes_de_sit_soc_pluri-Index-Education
+SUMMARY:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice - A
+	S3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230306T070000Z
+DTEND:20230306T111500Z
+DESCRIPTION:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice
+	 - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3136-32-Etudes_de_sit_soc_pluri-Index-Education
+SUMMARY:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice - A
+	S3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T060000Z
+DTEND:20230417T101500Z
+DESCRIPTION:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice
+	 - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1449-5-AIP-Index-Education
+SUMMARY:AIP - De Vloo
+DTSTAMP:20230202T152100Z
+DTSTART:20221014T110000Z
+DTEND:20221014T143000Z
+DESCRIPTION:AIP - De Vloo
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1434-5-Reunions-Index-Education
+SUMMARY:Réunions - De Vloo
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T070000Z
+DTEND:20221012T100000Z
+DESCRIPTION:Réunions - De Vloo
+LOCATION:115
+END:VEVENT
+END:VCALENDAR

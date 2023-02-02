@@ -1,0 +1,1149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-296-1-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar
+DTSTAMP:20230202T152100Z
+DTSTART:20220915T060000Z
+DTEND:20220915T080000Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-297-2-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20220920T081500Z
+DTEND:20220920T101500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-297-4-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221004T081500Z
+DTEND:20221004T101500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:109\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-297-5-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T081500Z
+DTEND:20221011T101500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:118\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-297-6-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221018T081500Z
+DTEND:20221018T101500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:005\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-297-7-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221025T081500Z
+DTEND:20221025T101500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:005\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-297-9-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T091500Z
+DTEND:20221108T111500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:005\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-297-10-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T091500Z
+DTEND:20221115T111500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:007\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-297-11-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221122T091500Z
+DTEND:20221122T111500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:007\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-297-12-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221129T091500Z
+DTEND:20221129T111500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:007\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-297-15-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221220T091500Z
+DTEND:20221220T111500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:007\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-958-15-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T091500Z
+DTEND:20221221T111500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:007\, 115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-959-9-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221109T070000Z
+DTEND:20221109T090000Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:007\, 115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-960-10-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221116T070000Z
+DTEND:20221116T090000Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-961-9-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221109T091500Z
+DTEND:20221109T111500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:007\, 115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-2-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20220920T111500Z
+DTEND:20220920T131500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-4-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221004T111500Z
+DTEND:20221004T131500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:118\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-5-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T111500Z
+DTEND:20221011T131500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:118\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-6-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221018T111500Z
+DTEND:20221018T131500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:005\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-7-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221025T111500Z
+DTEND:20221025T131500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:005\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-9-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T121500Z
+DTEND:20221108T141500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:005\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-10-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T121500Z
+DTEND:20221115T141500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:007\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-11-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221122T121500Z
+DTEND:20221122T141500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:007\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-12-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221129T121500Z
+DTEND:20221129T141500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:007\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-15-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221220T121500Z
+DTEND:20221220T141500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:007\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-963-10-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221116T091500Z
+DTEND:20221116T111500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-964-15-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T121500Z
+DTEND:20221221T141500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:007\, 115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1612-19-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230117T080000Z
+DTEND:20230117T140000Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-4-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T081500Z
+DTEND:20221005T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T081500Z
+DTEND:20221012T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T081500Z
+DTEND:20221019T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T081500Z
+DTEND:20221026T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T091500Z
+DTEND:20221123T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T091500Z
+DTEND:20221130T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T091500Z
+DTEND:20221214T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1332-15-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T070000Z
+DTEND:20221221T090000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1335-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221017T133000Z
+DTEND:20221017T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1337-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T121500Z
+DTEND:20221214T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1339-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T143000Z
+DTEND:20221214T163000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1421-15-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221223T121500Z
+DTEND:20221223T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-4-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T111500Z
+DTEND:20221006T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T111500Z
+DTEND:20221013T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T111500Z
+DTEND:20221020T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T111500Z
+DTEND:20221027T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T121500Z
+DTEND:20221124T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T121500Z
+DTEND:20221201T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-4-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T081500Z
+DTEND:20221006T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T081500Z
+DTEND:20221013T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T081500Z
+DTEND:20221020T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T081500Z
+DTEND:20221027T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T091500Z
+DTEND:20221124T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T091500Z
+DTEND:20221201T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221215T091500Z
+DTEND:20221215T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1651-15-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221222T121500Z
+DTEND:20221222T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T133000Z
+DTEND:20221013T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T133000Z
+DTEND:20221020T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T133000Z
+DTEND:20221027T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T143000Z
+DTEND:20221124T163000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T143000Z
+DTEND:20221201T163000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2308-22-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230208T143000Z
+DTEND:20230208T163000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2309-23-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T143000Z
+DTEND:20230215T163000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2755-22-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T143000Z
+DTEND:20230207T163000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2755-23-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230214T143000Z
+DTEND:20230214T163000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2755-27-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T143000Z
+DTEND:20230314T163000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2755-29-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230328T133000Z
+DTEND:20230328T153000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2755-32-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T133000Z
+DTEND:20230418T153000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2755-33-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T133000Z
+DTEND:20230425T153000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2755-35-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T133000Z
+DTEND:20230509T153000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2755-37-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T133000Z
+DTEND:20230523T153000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2755-38-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230530T133000Z
+DTEND:20230530T153000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2756-22-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T121500Z
+DTEND:20230207T141500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2756-23-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230214T121500Z
+DTEND:20230214T141500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2756-27-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T121500Z
+DTEND:20230314T141500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2756-29-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230328T111500Z
+DTEND:20230328T131500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2756-32-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T111500Z
+DTEND:20230418T131500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2756-33-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T111500Z
+DTEND:20230425T131500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2756-35-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T111500Z
+DTEND:20230509T131500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2756-37-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T111500Z
+DTEND:20230523T131500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2756-38-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230530T111500Z
+DTEND:20230530T131500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2762-23-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T091500Z
+DTEND:20230215T111500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2762-27-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T091500Z
+DTEND:20230315T111500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2762-29-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\, AS
+	1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T081500Z
+DTEND:20230329T101500Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe B1\
+	, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2666-23-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 
+	- Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T070000Z
+DTEND:20230216T090000Z
+DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, 
+	AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2666-25-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T070000Z
+DTEND:20230302T090000Z
+DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, 
+	AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2666-26-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230309T070000Z
+DTEND:20230309T090000Z
+DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, 
+	AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2666-27-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T070000Z
+DTEND:20230316T090000Z
+DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, 
+	AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2666-29-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T060000Z
+DTEND:20230330T080000Z
+DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, 
+	AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2696-28-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T070000Z
+DTEND:20230323T090000Z
+DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, 
+	AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3184-25-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T091500Z
+DTEND:20230302T111500Z
+DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, 
+	AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3184-26-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230309T091500Z
+DTEND:20230309T111500Z
+DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, 
+	AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3184-27-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T091500Z
+DTEND:20230316T111500Z
+DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, 
+	AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3184-28-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T091500Z
+DTEND:20230323T111500Z
+DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, 
+	AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3184-29-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T081500Z
+DTEND:20230330T101500Z
+DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, 
+	AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1826-32-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T111500Z
+DTEND:20230420T153000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1831-32-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230421T060000Z
+DTEND:20230421T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:004\, 005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1837-33-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T111500Z
+DTEND:20230427T153000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1839-33-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T060000Z
+DTEND:20230428T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1841-36-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T070000Z
+DTEND:20230515T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1843-36-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T111500Z
+DTEND:20230515T143000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1844-37-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230525T111500Z
+DTEND:20230525T153000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1846-37-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230526T060000Z
+DTEND:20230526T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1482-7-AIP-Index-Education
+SUMMARY:AIP - Meulemeester
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T113000Z
+DTEND:20221026T143000Z
+DESCRIPTION:AIP - Meulemeester
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1586-10-AIP-Index-Education
+SUMMARY:AIP - Meulemeester
+DTSTAMP:20230202T152100Z
+DTSTART:20221118T083000Z
+DTEND:20221118T113000Z
+DESCRIPTION:AIP - Meulemeester
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1657-12-AIP-Index-Education
+SUMMARY:AIP - Meulemeester
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T123000Z
+DTEND:20221130T153000Z
+DESCRIPTION:AIP - Meulemeester
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1658-12-AIP-Index-Education
+SUMMARY:AIP - Meulemeester
+DTSTAMP:20230202T152100Z
+DTSTART:20221202T080000Z
+DTEND:20221202T110000Z
+DESCRIPTION:AIP - Meulemeester
+LOCATION:004
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1457-9-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T091500Z
+DTEND:20221107T111500Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1458-10-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T070000Z
+DTEND:20221114T090000Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1459-11-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T121500Z
+DTEND:20221121T141500Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1460-12-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1\, AS3 - 
+	Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221129T143000Z
+DTEND:20221129T163000Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1\, AS
+	3 - Groupe E2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1461-13-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221205T121500Z
+DTEND:20221205T141500Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1462-9-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T143000Z
+DTEND:20221107T163000Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1464-11-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T143000Z
+DTEND:20221121T163000Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1466-13-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221205T143000Z
+DTEND:20221205T163000Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1467-9-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T091500Z
+DTEND:20221108T111500Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1468-10-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1\, AS3 - 
+	Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T091500Z
+DTEND:20221114T111500Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1\, AS
+	3 - Groupe F2
+LOCATION:004\, 115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1469-12-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221129T121500Z
+DTEND:20221129T141500Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1470-13-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221206T121500Z
+DTEND:20221206T141500Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1471-14-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1\, AS3 - 
+	Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221212T091500Z
+DTEND:20221212T111500Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1\, AS
+	3 - Groupe F2
+LOCATION:005\, 006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1472-13-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221206T070000Z
+DTEND:20221206T090000Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1473-15-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221219T091500Z
+DTEND:20221219T111500Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1475-9-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T121500Z
+DTEND:20221107T141500Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1536-13-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1\, AS3 - 
+	Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221206T143000Z
+DTEND:20221206T163000Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1\, AS
+	3 - Groupe E2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1091-15-Stage_&_formation_animation-Index-Education
+SUMMARY:Stage & formation animation - Jamaoui - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221220T121500Z
+DTEND:20221220T151500Z
+DESCRIPTION:Stage & formation animation - Jamaoui - BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1491-14-Stage_&_formation_animation-Index-Education
+SUMMARY:Stage & formation animation - Jamaoui - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221213T121500Z
+DTEND:20221213T151500Z
+DESCRIPTION:Stage & formation animation - Jamaoui - BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1492-15-Stage_&_formation_animation-Index-Education
+SUMMARY:Stage & formation animation - Jamaoui - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221219T121500Z
+DTEND:20221219T151500Z
+DESCRIPTION:Stage & formation animation - Jamaoui - BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1535-15-Stage_&_formation_animation-Index-Education
+SUMMARY:Stage & formation animation - Jamaoui - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T070000Z
+DTEND:20221221T090000Z
+DESCRIPTION:Stage & formation animation - Jamaoui - BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-696-9-Formation_des_utilisateurs-Index-Education
+SUMMARY:Formation des utilisateurs - Jamaoui - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T070000Z
+DTEND:20221107T090000Z
+DESCRIPTION:Formation des utilisateurs - Jamaoui - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1488-10-Formation_des_utilisateurs-Index-Education
+SUMMARY:Formation des utilisateurs - Jamaoui - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221116T070000Z
+DTEND:20221116T090000Z
+DESCRIPTION:Formation des utilisateurs - Jamaoui - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1493-11-Formation_des_utilisateurs-Index-Education
+SUMMARY:Formation des utilisateurs - Jamaoui - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T070000Z
+DTEND:20221121T090000Z
+DESCRIPTION:Formation des utilisateurs - Jamaoui - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1494-12-Formation_des_utilisateurs-Index-Education
+SUMMARY:Formation des utilisateurs - Jamaoui - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T070000Z
+DTEND:20221128T090000Z
+DESCRIPTION:Formation des utilisateurs - Jamaoui - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1495-14-Formation_des_utilisateurs-Index-Education
+SUMMARY:Formation des utilisateurs - Jamaoui - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221212T070000Z
+DTEND:20221212T090000Z
+DESCRIPTION:Formation des utilisateurs - Jamaoui - BD2
+LOCATION:004
+END:VEVENT
+END:VCALENDAR

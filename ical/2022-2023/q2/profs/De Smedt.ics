@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1890-28-AIP-Index-Education
+SUMMARY:AIP - Barbana\, Belyamani\, De Smedt\, Zamora - AS1 - Groupe A1\, A
+	S1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230321T070000Z
+DTEND:20230321T163000Z
+DESCRIPTION:AIP - Barbana\, Belyamani\, De Smedt\, Zamora - AS1 - Groupe A1
+	\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1893-28-AIP-Index-Education
+SUMMARY:AIP - Barbana\, Belyamani\, De Smedt\, Zamora - AS1 - Groupe A1\, A
+	S1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230322T070000Z
+DTEND:20230322T163000Z
+DESCRIPTION:AIP - Barbana\, Belyamani\, De Smedt\, Zamora - AS1 - Groupe A1
+	\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-151-4-AIP-Index-Education
+SUMMARY:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - Grou
+	pe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T060000Z
+DTEND:20221006T140000Z
+DESCRIPTION:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - 
+	Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:004\, 203\, 302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-151-6-AIP-Index-Education
+SUMMARY:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - Grou
+	pe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T060000Z
+DTEND:20221020T140000Z
+DESCRIPTION:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - 
+	Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-151-9-AIP-Index-Education
+SUMMARY:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - Grou
+	pe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221110T070000Z
+DTEND:20221110T150000Z
+DESCRIPTION:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - 
+	Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-151-10-AIP-Index-Education
+SUMMARY:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - Grou
+	pe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221117T070000Z
+DTEND:20221117T150000Z
+DESCRIPTION:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - 
+	Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-151-12-AIP-Index-Education
+SUMMARY:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - Grou
+	pe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T070000Z
+DTEND:20221201T150000Z
+DESCRIPTION:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - 
+	Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-151-15-AIP-Index-Education
+SUMMARY:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - Grou
+	pe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221222T070000Z
+DTEND:20221222T150000Z
+DESCRIPTION:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - 
+	Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1456-11-AIP-Index-Education
+SUMMARY:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - Grou
+	pe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T070000Z
+DTEND:20221124T110000Z
+DESCRIPTION:AIP - Barbana\, Belyamani\, De Smedt - AS1 - Groupe A1\, AS1 - 
+	Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:004\, 109\, 302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1897-32-AIP-Index-Education
+SUMMARY:AIP - Barbana\, Belyamani\, De Smedt\, Zamora
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T060000Z
+DTEND:20230420T153000Z
+DESCRIPTION:AIP - Barbana\, Belyamani\, De Smedt\, Zamora
+LOCATION:004\, 006\, 007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-892-5-AIP-Index-Education
+SUMMARY:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - Grou
+	pe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T111500Z
+DTEND:20221011T153000Z
+DESCRIPTION:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - 
+	Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:005\, 204\, 208\, 302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1301-4-AIP-Index-Education
+SUMMARY:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - Grou
+	pe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221004T111500Z
+DTEND:20221004T153000Z
+DESCRIPTION:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - 
+	Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1302-6-AIP-Index-Education
+SUMMARY:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - Grou
+	pe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221018T111500Z
+DTEND:20221018T153000Z
+DESCRIPTION:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - 
+	Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1303-7-AIP-Index-Education
+SUMMARY:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - Grou
+	pe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221025T111500Z
+DTEND:20221025T153000Z
+DESCRIPTION:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - 
+	Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:007\, 109\, 204\, 208\, 302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1506-10-AIP-Index-Education
+SUMMARY:AIP - De Smedt
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T070000Z
+DTEND:20221114T111500Z
+DESCRIPTION:AIP - De Smedt
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1511-10-AIP-Index-Education
+SUMMARY:AIP - De Smedt
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T121500Z
+DTEND:20221114T163000Z
+DESCRIPTION:AIP - De Smedt
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1514-10-AIP-Index-Education
+SUMMARY:AIP - De Smedt
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T070000Z
+DTEND:20221115T111500Z
+DESCRIPTION:AIP - De Smedt
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1519-10-AIP-Index-Education
+SUMMARY:AIP - De Smedt
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T121500Z
+DTEND:20221115T163000Z
+DESCRIPTION:AIP - De Smedt
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1524-12-AIP-Index-Education
+SUMMARY:AIP - De Smedt
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T070000Z
+DTEND:20221128T111500Z
+DESCRIPTION:AIP - De Smedt
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1527-12-AIP-Index-Education
+SUMMARY:AIP - De Smedt
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T121500Z
+DTEND:20221128T163000Z
+DESCRIPTION:AIP - De Smedt
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1533-12-AIP-Index-Education
+SUMMARY:AIP - De Smedt
+DTSTAMP:20230202T152100Z
+DTSTART:20221129T121500Z
+DTEND:20221129T163000Z
+DESCRIPTION:AIP - De Smedt
+LOCATION:208
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1891-28-Theatre_forum-Index-Education
+SUMMARY:Théâtre forum - Barbana\, Belyamani\, De Smedt\, Zamora - AS1 - Gro
+	upe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230324T070000Z
+DTEND:20230324T163000Z
+DESCRIPTION:Théâtre forum - Barbana\, Belyamani\, De Smedt\, Zamora - AS1 -
+	 Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1892-28-Theatre_forum-Index-Education
+SUMMARY:Théâtre forum - Barbana\, Belyamani\, De Smedt\, Zamora - AS1 - Gro
+	upe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T070000Z
+DTEND:20230323T163000Z
+DESCRIPTION:Théâtre forum - Barbana\, Belyamani\, De Smedt\, Zamora - AS1 -
+	 Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+END:VEVENT
+END:VCALENDAR

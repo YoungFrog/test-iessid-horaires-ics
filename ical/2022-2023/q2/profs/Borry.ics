@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-728-3-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20220929T081500Z
+DTEND:20220929T101500Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:208
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-728-5-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T081500Z
+DTEND:20221013T101500Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:208
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-728-7-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T081500Z
+DTEND:20221027T101500Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-728-10-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221117T091500Z
+DTEND:20221117T111500Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-793-3-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20220928T060000Z
+DTEND:20220928T080000Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-794-2-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20220923T060000Z
+DTEND:20220923T080000Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-794-4-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221007T060000Z
+DTEND:20221007T080000Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1097-2-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20220920T081500Z
+DTEND:20220920T101500Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1097-6-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221018T081500Z
+DTEND:20221018T101500Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1098-4-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221007T081500Z
+DTEND:20221007T101500Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:004\, 302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1099-5-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T111500Z
+DTEND:20221012T131500Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1104-10-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T070000Z
+DTEND:20221114T090000Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1603-18-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230109T091500Z
+DTEND:20230109T111500Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-706-5-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T081500Z
+DTEND:20221012T101500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-735-2-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20220920T060000Z
+DTEND:20220920T080000Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-789-6-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221018T111500Z
+DTEND:20221018T131500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-790-7-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T081500Z
+DTEND:20221026T101500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-791-10-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221117T070000Z
+DTEND:20221117T090000Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-792-2-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T060000Z
+DTEND:20220921T080000Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-792-4-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T060000Z
+DTEND:20221005T080000Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-792-10-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221116T070000Z
+DTEND:20221116T090000Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1105-5-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T081500Z
+DTEND:20221011T101500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1105-7-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221025T081500Z
+DTEND:20221025T101500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1105-10-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T091500Z
+DTEND:20221115T111500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1108-6-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T111500Z
+DTEND:20221019T131500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1602-18-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230109T070000Z
+DTEND:20230109T090000Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2428-23-Gestion_connaiss_et_competence-Index-Education
+SUMMARY:Gestion connaiss et compétence - Borry - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T163000Z
+DTEND:20230213T183000Z
+DESCRIPTION:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2428-27-Gestion_connaiss_et_competence-Index-Education
+SUMMARY:Gestion connaiss et compétence - Borry - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T163000Z
+DTEND:20230313T183000Z
+DESCRIPTION:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2428-29-Gestion_connaiss_et_competence-Index-Education
+SUMMARY:Gestion connaiss et compétence - Borry - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230327T153000Z
+DTEND:20230327T173000Z
+DESCRIPTION:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2428-33-Gestion_connaiss_et_competence-Index-Education
+SUMMARY:Gestion connaiss et compétence - Borry - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T153000Z
+DTEND:20230424T173000Z
+DESCRIPTION:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2428-36-Gestion_connaiss_et_competence-Index-Education
+SUMMARY:Gestion connaiss et compétence - Borry - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T153000Z
+DTEND:20230515T173000Z
+DESCRIPTION:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2454-25-Gestion_connaiss_et_competence-Index-Education
+SUMMARY:Gestion connaiss et compétence - Borry - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230304T123000Z
+DTEND:20230304T163000Z
+DESCRIPTION:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2455-28-Gestion_connaiss_et_competence-Index-Education
+SUMMARY:Gestion connaiss et compétence - Borry - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230325T080000Z
+DTEND:20230325T163000Z
+DESCRIPTION:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION:109
+END:VEVENT
+END:VCALENDAR

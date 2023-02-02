@@ -1,0 +1,468 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-2283-25-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T070000Z
+DTEND:20230302T090000Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2283-26-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230309T070000Z
+DTEND:20230309T090000Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2283-27-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T070000Z
+DTEND:20230316T090000Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2283-28-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T070000Z
+DTEND:20230323T090000Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2283-29-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T060000Z
+DTEND:20230330T080000Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2283-32-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T060000Z
+DTEND:20230420T080000Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2283-33-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T060000Z
+DTEND:20230427T080000Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2283-35-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230511T060000Z
+DTEND:20230511T080000Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2283-37-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230525T060000Z
+DTEND:20230525T080000Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2283-38-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230601T060000Z
+DTEND:20230601T080000Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-25-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T091500Z
+DTEND:20230302T111500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-26-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230309T091500Z
+DTEND:20230309T111500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-27-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T091500Z
+DTEND:20230316T111500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-28-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T091500Z
+DTEND:20230323T111500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-29-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T081500Z
+DTEND:20230330T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-32-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T081500Z
+DTEND:20230420T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-33-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T081500Z
+DTEND:20230427T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-35-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230511T081500Z
+DTEND:20230511T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-37-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230525T081500Z
+DTEND:20230525T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-38-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230601T081500Z
+DTEND:20230601T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-518-2-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220920T060000Z
+DTEND:20220920T080000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-518-4-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221004T060000Z
+DTEND:20221004T080000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-518-5-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T060000Z
+DTEND:20221011T080000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-518-9-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T070000Z
+DTEND:20221108T090000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-518-11-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221122T070000Z
+DTEND:20221122T090000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-518-12-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221129T070000Z
+DTEND:20221129T090000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-518-13-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221206T070000Z
+DTEND:20221206T090000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-518-15-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221220T070000Z
+DTEND:20221220T090000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-521-2-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T133000Z
+DTEND:20220921T153000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-522-3-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220928T133000Z
+DTEND:20220928T153000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-523-4-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T133000Z
+DTEND:20221006T153000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-525-4-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221007T111500Z
+DTEND:20221007T131500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-527-2-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220920T081500Z
+DTEND:20220920T101500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-528-4-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T133000Z
+DTEND:20221005T153000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-530-12-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221129T091500Z
+DTEND:20221129T111500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-531-3-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220929T133000Z
+DTEND:20220929T153000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-533-14-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221213T070000Z
+DTEND:20221213T090000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-534-15-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221220T091500Z
+DTEND:20221220T111500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-825-10-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T091500Z
+DTEND:20221115T111500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1134-14-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221213T091500Z
+DTEND:20221213T111500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1136-2-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220922T133000Z
+DTEND:20220922T153000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1171-11-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221122T091500Z
+DTEND:20221122T111500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1171-13-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221206T091500Z
+DTEND:20221206T111500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1388-15-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221220T121500Z
+DTEND:20221220T141500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1632-18-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3
+	 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230110T080000Z
+DTEND:20230110T100000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2\,
+	 AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:005\, 006\, 109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2503-21-Approche_de_la_therapie_instit-Index-Education
+SUMMARY:Approche de la thérapie instit - Didier - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230204T140000Z
+DTEND:20230204T160000Z
+DESCRIPTION:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2503-25-Approche_de_la_therapie_instit-Index-Education
+SUMMARY:Approche de la thérapie instit - Didier - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230304T140000Z
+DTEND:20230304T160000Z
+DESCRIPTION:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2503-27-Approche_de_la_therapie_instit-Index-Education
+SUMMARY:Approche de la thérapie instit - Didier - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230318T140000Z
+DTEND:20230318T160000Z
+DESCRIPTION:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2503-28-Approche_de_la_therapie_instit-Index-Education
+SUMMARY:Approche de la thérapie instit - Didier - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230325T140000Z
+DTEND:20230325T160000Z
+DESCRIPTION:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2503-32-Approche_de_la_therapie_instit-Index-Education
+SUMMARY:Approche de la thérapie instit - Didier - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230422T130000Z
+DTEND:20230422T150000Z
+DESCRIPTION:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2503-37-Approche_de_la_therapie_instit-Index-Education
+SUMMARY:Approche de la thérapie instit - Didier - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230527T130000Z
+DTEND:20230527T150000Z
+DESCRIPTION:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION:007
+END:VEVENT
+END:VCALENDAR

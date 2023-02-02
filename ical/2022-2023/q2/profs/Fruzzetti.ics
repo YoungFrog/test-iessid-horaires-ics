@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1051-10-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T143000Z
+DTEND:20221115T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1559-11-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221122T143000Z
+DTEND:20221122T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1568-12-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221129T143000Z
+DTEND:20221129T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1572-12-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T121500Z
+DTEND:20221201T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1670-13-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221206T121500Z
+DTEND:20221206T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1671-13-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221208T121500Z
+DTEND:20221208T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1674-14-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221213T121500Z
+DTEND:20221213T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1676-14-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221215T121500Z
+DTEND:20221215T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1678-15-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221220T121500Z
+DTEND:20221220T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+END:VCALENDAR

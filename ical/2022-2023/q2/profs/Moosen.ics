@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1057-15-Lecture_publ_paysage_cult-Index-Education
+SUMMARY:Lecture publ paysage cult - Moosen - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221222T091500Z
+DTEND:20221222T111500Z
+DESCRIPTION:Lecture publ paysage cult - Moosen - BD1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1058-15-Lecture_publ_paysage_cult-Index-Education
+SUMMARY:Lecture publ paysage cult - Moosen - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221222T070000Z
+DTEND:20221222T090000Z
+DESCRIPTION:Lecture publ paysage cult - Moosen - BD1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1059-15-Lecture_publ_paysage_cult-Index-Education
+SUMMARY:Lecture publ paysage cult - Moosen - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221222T121500Z
+DTEND:20221222T141500Z
+DESCRIPTION:Lecture publ paysage cult - Moosen - BD1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1719-23-Serv_docs_-_hist_livreslitt_b-Index-Education
+SUMMARY:Serv docs - hist livres/litt b - Moosen - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T080000Z
+DTEND:20230216T153000Z
+DESCRIPTION:Serv docs - hist livres/litt b - Moosen - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1719-25-Serv_docs_-_hist_livreslitt_b-Index-Education
+SUMMARY:Serv docs - hist livres/litt b - Moosen - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T080000Z
+DTEND:20230302T153000Z
+DESCRIPTION:Serv docs - hist livres/litt b - Moosen - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1719-26-Serv_docs_-_hist_livreslitt_b-Index-Education
+SUMMARY:Serv docs - hist livres/litt b - Moosen - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230309T080000Z
+DTEND:20230309T153000Z
+DESCRIPTION:Serv docs - hist livres/litt b - Moosen - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1719-27-Serv_docs_-_hist_livreslitt_b-Index-Education
+SUMMARY:Serv docs - hist livres/litt b - Moosen - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T080000Z
+DTEND:20230316T153000Z
+DESCRIPTION:Serv docs - hist livres/litt b - Moosen - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1719-28-Serv_docs_-_hist_livreslitt_b-Index-Education
+SUMMARY:Serv docs - hist livres/litt b - Moosen - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T080000Z
+DTEND:20230323T153000Z
+DESCRIPTION:Serv docs - hist livres/litt b - Moosen - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1781-35-Usagers_-_Tic-Index-Education
+SUMMARY:Usagers - Tic - Moosen - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T070000Z
+DTEND:20230509T133000Z
+DESCRIPTION:Usagers - Tic - Moosen - BD1
+LOCATION:203
+END:VEVENT
+END:VCALENDAR

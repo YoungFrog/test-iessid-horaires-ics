@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1850-37-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230522T133000Z
+DTEND:20230522T153000Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1851-37-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230522T111500Z
+DTEND:20230522T131500Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1852-35-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T111500Z
+DTEND:20230509T131500Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1852-37-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T111500Z
+DTEND:20230523T131500Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1852-38-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230530T111500Z
+DTEND:20230530T131500Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1853-28-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230322T121500Z
+DTEND:20230322T141500Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1853-29-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T111500Z
+DTEND:20230329T131500Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1853-35-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230510T111500Z
+DTEND:20230510T131500Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1853-36-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230517T111500Z
+DTEND:20230517T131500Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1853-37-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230524T111500Z
+DTEND:20230524T131500Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1853-38-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230531T111500Z
+DTEND:20230531T131500Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1854-33-Source_d'info_science_&_tech-Index-Education
+SUMMARY:Source d'info science & tech - Wastiaux - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T111500Z
+DTEND:20230427T131500Z
+DESCRIPTION:Source d'info science & tech - Wastiaux - BD2
+LOCATION:004
+END:VEVENT
+END:VCALENDAR

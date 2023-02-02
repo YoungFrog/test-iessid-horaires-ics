@@ -1,0 +1,564 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-303-4-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T081500Z
+DTEND:20221005T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T081500Z
+DTEND:20221012T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T081500Z
+DTEND:20221019T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T081500Z
+DTEND:20221026T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T091500Z
+DTEND:20221123T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T091500Z
+DTEND:20221130T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T091500Z
+DTEND:20221214T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-303-15-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach - AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T091500Z
+DTEND:20221221T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach - AS2 - Groupe D2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1332-15-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T070000Z
+DTEND:20221221T090000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1335-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221017T133000Z
+DTEND:20221017T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1337-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T121500Z
+DTEND:20221214T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1339-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T143000Z
+DTEND:20221214T163000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1421-15-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221223T121500Z
+DTEND:20221223T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-4-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T111500Z
+DTEND:20221006T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T111500Z
+DTEND:20221013T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T111500Z
+DTEND:20221020T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T111500Z
+DTEND:20221027T131500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T121500Z
+DTEND:20221124T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1649-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T121500Z
+DTEND:20221201T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-4-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T081500Z
+DTEND:20221006T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T081500Z
+DTEND:20221013T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T081500Z
+DTEND:20221020T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T081500Z
+DTEND:20221027T101500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T091500Z
+DTEND:20221124T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T091500Z
+DTEND:20221201T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1650-14-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221215T091500Z
+DTEND:20221215T111500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1651-15-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221222T121500Z
+DTEND:20221222T141500Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe C2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-5-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T133000Z
+DTEND:20221013T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-6-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T133000Z
+DTEND:20221020T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-7-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T133000Z
+DTEND:20221027T153000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-11-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T143000Z
+DTEND:20221124T163000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1652-12-Methodologies_serv_soc-Index-Education
+SUMMARY:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 -
+	 Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T143000Z
+DTEND:20221201T163000Z
+DESCRIPTION:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - A
+	S2 - Groupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2930-25-Methodo_serv_soc_de_groupe-Index-Education
+SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T143000Z
+DTEND:20230302T163000Z
+DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2930-26-Methodo_serv_soc_de_groupe-Index-Education
+SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230309T143000Z
+DTEND:20230309T163000Z
+DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2930-27-Methodo_serv_soc_de_groupe-Index-Education
+SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T143000Z
+DTEND:20230316T163000Z
+DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2930-28-Methodo_serv_soc_de_groupe-Index-Education
+SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T143000Z
+DTEND:20230323T163000Z
+DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2930-29-Methodo_serv_soc_de_groupe-Index-Education
+SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T133000Z
+DTEND:20230330T153000Z
+DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2931-25-Methodo_serv_soc_de_groupe-Index-Education
+SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T121500Z
+DTEND:20230302T141500Z
+DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2931-26-Methodo_serv_soc_de_groupe-Index-Education
+SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230309T121500Z
+DTEND:20230309T141500Z
+DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2931-27-Methodo_serv_soc_de_groupe-Index-Education
+SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T121500Z
+DTEND:20230316T141500Z
+DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2931-28-Methodo_serv_soc_de_groupe-Index-Education
+SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T121500Z
+DTEND:20230323T141500Z
+DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2931-29-Methodo_serv_soc_de_groupe-Index-Education
+SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T111500Z
+DTEND:20230330T131500Z
+DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2932-23-Methodo_serv_soc_de_groupe-Index-Education
+SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T091500Z
+DTEND:20230216T111500Z
+DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe C1\, AS2 
+	- Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1826-32-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T111500Z
+DTEND:20230420T153000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1831-32-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230421T060000Z
+DTEND:20230421T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:004\, 005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1837-33-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T111500Z
+DTEND:20230427T153000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1839-33-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T060000Z
+DTEND:20230428T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1841-36-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T070000Z
+DTEND:20230515T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1843-36-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T111500Z
+DTEND:20230515T143000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1844-37-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230525T111500Z
+DTEND:20230525T153000Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe C1\, AS2 - Groupe C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1846-37-Methodo_integree-Index-Education
+SUMMARY:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Group
+	e D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230526T060000Z
+DTEND:20230526T101500Z
+DESCRIPTION:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - G
+	roupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+END:VCALENDAR

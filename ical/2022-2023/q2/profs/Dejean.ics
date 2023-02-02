@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-513-3-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T111500Z
+DTEND:20220926T131500Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-514-4-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20221003T133000Z
+DTEND:20221003T153000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-514-10-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T143000Z
+DTEND:20221114T163000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-514-12-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T143000Z
+DTEND:20221128T163000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:118\, 204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-514-14-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20221212T143000Z
+DTEND:20221212T163000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:118\, 204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-514-15-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20221219T143000Z
+DTEND:20221219T163000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:118\, 204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-516-5-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T111500Z
+DTEND:20221010T131500Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
+	pe F2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-516-10-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T121500Z
+DTEND:20221114T141500Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
+	pe F2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-516-12-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T121500Z
+DTEND:20221128T141500Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
+	pe F2
+LOCATION:118\, 204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-517-3-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T133000Z
+DTEND:20220926T153000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
+	pe F2
+LOCATION:204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-517-11-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T143000Z
+DTEND:20221121T163000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
+	pe F2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-517-13-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20221205T143000Z
+DTEND:20221205T163000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
+	pe F2
+LOCATION:004\, 204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2824-22-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T121500Z
+DTEND:20230207T141500Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2825-32-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T111500Z
+DTEND:20230418T151500Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2828-25-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20230227T070000Z
+DTEND:20230227T090000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2842-23-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T121500Z
+DTEND:20230213T141500Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
+	pe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2842-27-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T121500Z
+DTEND:20230313T141500Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
+	pe F2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2845-32-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T060000Z
+DTEND:20230418T101500Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
+	pe F2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2845-35-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T060000Z
+DTEND:20230509T101500Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
+	pe F2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3135-35-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T060000Z
+DTEND:20230508T100000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-551-11-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - G
+	roupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T091500Z
+DTEND:20221121T111500Z
+DESCRIPTION:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3
+	 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-551-13-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - G
+	roupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221205T091500Z
+DTEND:20221205T111500Z
+DESCRIPTION:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3
+	 - Groupe E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-559-9-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - G
+	roupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T091500Z
+DTEND:20221108T111500Z
+DESCRIPTION:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3
+	 - Groupe E2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-560-10-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Dejean - AS3 - Groupe F1\, AS3 - G
+	roupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T070000Z
+DTEND:20221115T090000Z
+DESCRIPTION:Méthodo trav soc communautaire - Dejean - AS3 - Groupe F1\, AS3
+	 - Groupe F2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1395-13-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Dejean - AS3 - Groupe F1\, AS3 - G
+	roupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221205T121500Z
+DTEND:20221205T141500Z
+DESCRIPTION:Méthodo trav soc communautaire - Dejean - AS3 - Groupe F1\, AS3
+	 - Groupe F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1396-9-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Dejean - AS3 - Groupe F1\, AS3 - G
+	roupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T070000Z
+DTEND:20221107T090000Z
+DESCRIPTION:Méthodo trav soc communautaire - Dejean - AS3 - Groupe F1\, AS3
+	 - Groupe F2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1882-22-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - G
+	roupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T070000Z
+DTEND:20230207T111500Z
+DESCRIPTION:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3
+	 - Groupe E2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2721-22-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - G
+	roupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T070000Z
+DTEND:20230206T111500Z
+DESCRIPTION:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3
+	 - Groupe E2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2722-26-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - G
+	roupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230307T121500Z
+DTEND:20230307T163000Z
+DESCRIPTION:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3
+	 - Groupe E2
+LOCATION:006
+END:VEVENT
+END:VCALENDAR

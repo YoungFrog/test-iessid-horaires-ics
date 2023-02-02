@@ -1,0 +1,532 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-2191-21-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230201T091500Z
+DTEND:20230201T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2209-21-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230201T070000Z
+DTEND:20230201T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-22-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T091500Z
+DTEND:20230206T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-23-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T091500Z
+DTEND:20230213T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-27-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T091500Z
+DTEND:20230313T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-28-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230320T091500Z
+DTEND:20230320T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-29-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230327T081500Z
+DTEND:20230327T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-32-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T081500Z
+DTEND:20230417T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-33-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T081500Z
+DTEND:20230424T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-35-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T081500Z
+DTEND:20230508T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-36-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T081500Z
+DTEND:20230515T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-37-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230522T081500Z
+DTEND:20230522T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-22-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T070000Z
+DTEND:20230206T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-23-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T070000Z
+DTEND:20230213T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-27-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T070000Z
+DTEND:20230313T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-28-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230320T070000Z
+DTEND:20230320T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-29-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230327T060000Z
+DTEND:20230327T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-32-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T060000Z
+DTEND:20230417T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-33-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T060000Z
+DTEND:20230424T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-35-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T060000Z
+DTEND:20230508T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-36-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T060000Z
+DTEND:20230515T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-37-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230522T060000Z
+DTEND:20230522T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2746-22-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T091500Z
+DTEND:20230207T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2746-23-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230214T091500Z
+DTEND:20230214T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2746-27-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T091500Z
+DTEND:20230314T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2746-29-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230328T081500Z
+DTEND:20230328T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2746-32-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T081500Z
+DTEND:20230418T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2746-33-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T081500Z
+DTEND:20230425T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2746-35-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T081500Z
+DTEND:20230509T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2746-37-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T081500Z
+DTEND:20230523T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2746-38-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230530T081500Z
+DTEND:20230530T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-23-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230214T070000Z
+DTEND:20230214T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-27-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T070000Z
+DTEND:20230314T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-29-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230328T060000Z
+DTEND:20230328T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-32-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T060000Z
+DTEND:20230418T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-33-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T060000Z
+DTEND:20230425T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-35-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T060000Z
+DTEND:20230509T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-37-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T060000Z
+DTEND:20230523T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-38-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230530T060000Z
+DTEND:20230530T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2814-22-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T070000Z
+DTEND:20230207T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-892-5-AIP-Index-Education
+SUMMARY:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - Grou
+	pe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T111500Z
+DTEND:20221011T153000Z
+DESCRIPTION:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - 
+	Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:005\, 204\, 208\, 302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1301-4-AIP-Index-Education
+SUMMARY:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - Grou
+	pe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221004T111500Z
+DTEND:20221004T153000Z
+DESCRIPTION:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - 
+	Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1302-6-AIP-Index-Education
+SUMMARY:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - Grou
+	pe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221018T111500Z
+DTEND:20221018T153000Z
+DESCRIPTION:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - 
+	Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1303-7-AIP-Index-Education
+SUMMARY:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - Grou
+	pe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221025T111500Z
+DTEND:20221025T153000Z
+DESCRIPTION:AIP - De Smedt\, Mol\, Sculier\, Servais\, Vandenbosch - AS2 - 
+	Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:007\, 109\, 204\, 208\, 302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1517-10-AIP-Index-Education
+SUMMARY:AIP - Mol
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T070000Z
+DTEND:20221115T111500Z
+DESCRIPTION:AIP - Mol
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1518-10-AIP-Index-Education
+SUMMARY:AIP - Mol
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T121500Z
+DTEND:20221115T163000Z
+DESCRIPTION:AIP - Mol
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1523-11-AIP-Index-Education
+SUMMARY:AIP - Mol
+DTSTAMP:20230202T152100Z
+DTSTART:20221122T070000Z
+DTEND:20221122T163000Z
+DESCRIPTION:AIP - Mol
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1539-12-AIP-Index-Education
+SUMMARY:AIP - Mol
+DTSTAMP:20230202T152100Z
+DTSTART:20221129T121500Z
+DTEND:20221129T163000Z
+DESCRIPTION:AIP - Mol
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1541-13-AIP-Index-Education
+SUMMARY:AIP - Mol
+DTSTAMP:20230202T152100Z
+DTSTART:20221205T070000Z
+DTEND:20221205T163000Z
+DESCRIPTION:AIP - Mol
+LOCATION:302
+END:VEVENT
+END:VCALENDAR

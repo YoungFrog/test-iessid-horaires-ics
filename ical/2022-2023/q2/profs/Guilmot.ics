@@ -1,0 +1,1247 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-2302-23-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230217T091500Z
+DTEND:20230217T111500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2302-25-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230303T091500Z
+DTEND:20230303T111500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2302-26-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230310T091500Z
+DTEND:20230310T111500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2302-27-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230317T091500Z
+DTEND:20230317T111500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2302-28-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230324T091500Z
+DTEND:20230324T111500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2302-29-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230331T081500Z
+DTEND:20230331T101500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2302-32-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230421T081500Z
+DTEND:20230421T101500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2302-33-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T081500Z
+DTEND:20230428T101500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2302-35-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230512T081500Z
+DTEND:20230512T101500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2302-36-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230519T081500Z
+DTEND:20230519T101500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2302-37-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230526T081500Z
+DTEND:20230526T101500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2302-38-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230602T081500Z
+DTEND:20230602T101500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-23-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230217T121500Z
+DTEND:20230217T141500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-25-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230303T121500Z
+DTEND:20230303T141500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-26-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230310T121500Z
+DTEND:20230310T141500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-27-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230317T121500Z
+DTEND:20230317T141500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-28-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230324T121500Z
+DTEND:20230324T141500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-29-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230331T111500Z
+DTEND:20230331T131500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-32-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230421T111500Z
+DTEND:20230421T131500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-33-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T111500Z
+DTEND:20230428T131500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-35-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230512T111500Z
+DTEND:20230512T131500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-36-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230519T111500Z
+DTEND:20230519T131500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-37-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230526T111500Z
+DTEND:20230526T131500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2665-38-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230602T111500Z
+DTEND:20230602T131500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2980-32-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T081500Z
+DTEND:20230420T101500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2981-33-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T081500Z
+DTEND:20230427T101500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2982-35-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230511T081500Z
+DTEND:20230511T101500Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2983-32-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T060000Z
+DTEND:20230420T080000Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2984-33-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T060000Z
+DTEND:20230427T080000Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2985-35-Droit_de_la_jeunesse-Index-Education
+SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230511T060000Z
+DTEND:20230511T080000Z
+DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2991-23-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Gro
+	upe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T091500Z
+DTEND:20230213T111500Z
+DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 -
+	 Groupe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2991-25-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Gro
+	upe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230227T091500Z
+DTEND:20230227T111500Z
+DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 -
+	 Groupe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2991-27-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Gro
+	upe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T091500Z
+DTEND:20230313T111500Z
+DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 -
+	 Groupe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2992-25-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Gro
+	upe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230228T121500Z
+DTEND:20230228T141500Z
+DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 -
+	 Groupe E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3168-25-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 - Gro
+	upe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230228T091500Z
+DTEND:20230228T111500Z
+DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 -
+	 Groupe F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3168-26-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 - Gro
+	upe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230307T091500Z
+DTEND:20230307T111500Z
+DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 -
+	 Groupe F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3168-27-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 - Gro
+	upe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T091500Z
+DTEND:20230314T111500Z
+DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 -
+	 Groupe F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3169-25-Methodo_serv_soc_individuel-Index-Education
+SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 - Gro
+	upe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230227T121500Z
+DTEND:20230227T141500Z
+DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 -
+	 Groupe F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3000-29-TFE-Index-Education
+SUMMARY:TFE - Guilmot\, Simar - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - G
+	roupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230328T133000Z
+DTEND:20230328T153000Z
+DESCRIPTION:TFE - Guilmot\, Simar - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3
+	 - Groupe F1\, AS3 - Groupe F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3001-25-TFE-Index-Education
+SUMMARY:TFE - Guilmot\, Simar - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230228T143000Z
+DTEND:20230228T163000Z
+DESCRIPTION:TFE - Guilmot\, Simar - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3150-38-TFE-Index-Education
+SUMMARY:TFE - Guilmot\, Simar - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - G
+	roupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230531T111500Z
+DTEND:20230531T131500Z
+DESCRIPTION:TFE - Guilmot\, Simar - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3
+	 - Groupe F1\, AS3 - Groupe F2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3153-29-TFE-Index-Education
+SUMMARY:TFE - Guilmot\, Simar - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - G
+	roupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230327T133000Z
+DTEND:20230327T153000Z
+DESCRIPTION:TFE - Guilmot\, Simar - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3
+	 - Groupe F1\, AS3 - Groupe F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3157-22-TFE-Index-Education
+SUMMARY:TFE - Guilmot\, Simar - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T121500Z
+DTEND:20230207T141500Z
+DESCRIPTION:TFE - Guilmot\, Simar - AS3 - Groupe F2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3158-22-TFE-Index-Education
+SUMMARY:TFE - Guilmot\, Simar - AS3 - Groupe E2\, AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T143000Z
+DTEND:20230207T163000Z
+DESCRIPTION:TFE - Guilmot\, Simar - AS3 - Groupe E2\, AS3 - Groupe F1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3159-22-TFE-Index-Education
+SUMMARY:TFE - Guilmot\, Simar - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T143000Z
+DTEND:20230206T163000Z
+DESCRIPTION:TFE - Guilmot\, Simar - AS3 - Groupe E1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3170-26-TFE-Index-Education
+SUMMARY:TFE - Guilmot\, Simar - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230306T121500Z
+DTEND:20230306T141500Z
+DESCRIPTION:TFE - Guilmot\, Simar - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-399-3-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T060000Z
+DTEND:20220926T080000Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
+	 E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-400-3-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T081500Z
+DTEND:20220926T101500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-403-4-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221003T060000Z
+DTEND:20221003T080000Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
+	 E2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-404-4-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221003T081500Z
+DTEND:20221003T101500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-407-12-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T121500Z
+DTEND:20221128T141500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
+	 E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-408-12-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T143000Z
+DTEND:20221128T163000Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-416-9-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T070000Z
+DTEND:20221107T090000Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
+	 E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-417-9-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T091500Z
+DTEND:20221107T111500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-427-2-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T060000Z
+DTEND:20220921T080000Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
+	 E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-429-14-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221213T143000Z
+DTEND:20221213T163000Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
+	 E2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-431-10-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T121500Z
+DTEND:20221115T141500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-433-2-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T081500Z
+DTEND:20220921T101500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-435-14-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221213T121500Z
+DTEND:20221213T141500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-492-10-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T143000Z
+DTEND:20221115T163000Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
+	 E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1130-2-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220922T060000Z
+DTEND:20220922T080000Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
+	 E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1131-2-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220922T081500Z
+DTEND:20220922T101500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1267-3-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220930T081500Z
+DTEND:20220930T101500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
+	 E2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1268-3-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220930T111500Z
+DTEND:20220930T131500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1274-11-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221122T143000Z
+DTEND:20221122T163000Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
+	 E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1275-11-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221122T121500Z
+DTEND:20221122T141500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1299-4-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221004T133000Z
+DTEND:20221004T153000Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
+	 E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1300-4-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221004T111500Z
+DTEND:20221004T131500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-376-2-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T111500Z
+DTEND:20220919T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-377-2-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T133000Z
+DTEND:20220919T153000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-381-10-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T143000Z
+DTEND:20221114T163000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-386-3-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20220929T111500Z
+DTEND:20220929T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-387-3-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220929T081500Z
+DTEND:20220929T101500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-390-4-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T060000Z
+DTEND:20221005T080000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-391-4-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T081500Z
+DTEND:20221005T101500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-392-4-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T111500Z
+DTEND:20221006T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-393-4-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T081500Z
+DTEND:20221006T101500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-394-5-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T111500Z
+DTEND:20221010T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-395-5-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T133000Z
+DTEND:20221010T153000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-396-5-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T081500Z
+DTEND:20221011T101500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-397-3-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T111500Z
+DTEND:20220926T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-410-9-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T121500Z
+DTEND:20221107T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-411-9-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T143000Z
+DTEND:20221107T163000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-412-9-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T070000Z
+DTEND:20221108T090000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-413-9-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T091500Z
+DTEND:20221108T111500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-439-13-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221205T121500Z
+DTEND:20221205T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-447-13-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221205T143000Z
+DTEND:20221205T163000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-466-13-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221206T070000Z
+DTEND:20221206T090000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-469-5-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T081500Z
+DTEND:20221010T101500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-471-13-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221206T121500Z
+DTEND:20221206T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1240-2-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220923T111500Z
+DTEND:20220923T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:006\, 007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1241-2-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20220922T111500Z
+DTEND:20220922T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1242-3-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20220928T111500Z
+DTEND:20220928T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1270-10-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T070000Z
+DTEND:20221114T090000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1271-10-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T121500Z
+DTEND:20221114T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1272-10-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T091500Z
+DTEND:20221114T111500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1281-11-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T121500Z
+DTEND:20221121T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1282-11-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T143000Z
+DTEND:20221121T163000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1283-11-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20221122T070000Z
+DTEND:20221122T090000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1286-12-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221129T121500Z
+DTEND:20221129T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3138-37-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T133000Z
+DTEND:20230523T153000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3140-23-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230214T143000Z
+DTEND:20230214T163000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3140-26-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230307T143000Z
+DTEND:20230307T163000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3140-27-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T143000Z
+DTEND:20230314T163000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3140-32-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T133000Z
+DTEND:20230418T153000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3140-33-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T133000Z
+DTEND:20230425T153000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3140-35-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T133000Z
+DTEND:20230509T153000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3141-36-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1\, AS3
+	 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T070000Z
+DTEND:20230515T101500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F1\,
+	 AS3 - Groupe F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-23-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230214T121500Z
+DTEND:20230214T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-26-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230307T121500Z
+DTEND:20230307T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-27-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T121500Z
+DTEND:20230314T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-32-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T111500Z
+DTEND:20230418T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-33-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T111500Z
+DTEND:20230425T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-35-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T111500Z
+DTEND:20230509T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-37-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T111500Z
+DTEND:20230523T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3155-23-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T143000Z
+DTEND:20230213T163000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3155-26-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230306T143000Z
+DTEND:20230306T163000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3155-27-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T143000Z
+DTEND:20230313T163000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3155-32-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T133000Z
+DTEND:20230417T153000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3155-35-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T133000Z
+DTEND:20230508T153000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3155-36-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T133000Z
+DTEND:20230515T153000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3166-23-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T121500Z
+DTEND:20230213T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3166-27-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T121500Z
+DTEND:20230313T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3166-32-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T111500Z
+DTEND:20230417T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3166-35-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T111500Z
+DTEND:20230508T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3166-36-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T111500Z
+DTEND:20230515T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3166-37-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230522T111500Z
+DTEND:20230522T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3171-33-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T133000Z
+DTEND:20230424T153000Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3172-33-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T111500Z
+DTEND:20230424T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe E2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1739-13-Reunions-Index-Education
+SUMMARY:Réunions - Guilmot
+DTSTAMP:20230202T152100Z
+DTSTART:20221206T091500Z
+DTEND:20221206T111500Z
+DESCRIPTION:Réunions - Guilmot
+LOCATION:007
+END:VEVENT
+END:VCALENDAR

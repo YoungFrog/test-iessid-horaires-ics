@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1422-2-Evolution_enjeux_pol_publique-Index-Education
+SUMMARY:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T153000Z
+DTEND:20220919T193000Z
+DESCRIPTION:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1422-3-Evolution_enjeux_pol_publique-Index-Education
+SUMMARY:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T153000Z
+DTEND:20220926T193000Z
+DESCRIPTION:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1422-4-Evolution_enjeux_pol_publique-Index-Education
+SUMMARY:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20221003T153000Z
+DTEND:20221003T193000Z
+DESCRIPTION:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1422-5-Evolution_enjeux_pol_publique-Index-Education
+SUMMARY:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T153000Z
+DTEND:20221010T193000Z
+DESCRIPTION:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1422-7-Evolution_enjeux_pol_publique-Index-Education
+SUMMARY:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20221024T153000Z
+DTEND:20221024T193000Z
+DESCRIPTION:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1422-9-Evolution_enjeux_pol_publique-Index-Education
+SUMMARY:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T163000Z
+DTEND:20221107T203000Z
+DESCRIPTION:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1422-10-Evolution_enjeux_pol_publique-Index-Education
+SUMMARY:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T163000Z
+DTEND:20221114T203000Z
+DESCRIPTION:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION:109
+END:VEVENT
+END:VCALENDAR

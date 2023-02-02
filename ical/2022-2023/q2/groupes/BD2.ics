@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1691-29-Foire_livre_3003-0204_AIP-Index-Education
+SUMMARY:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T080000Z
+DTEND:20230330T160000Z
+DESCRIPTION:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1692-29-Foire_livre_3003-0204_AIP-Index-Education
+SUMMARY:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230331T080000Z
+DTEND:20230331T160000Z
+DESCRIPTION:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1693-29-Foire_livre_3003-0204_AIP-Index-Education
+SUMMARY:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230401T080000Z
+DTEND:20230401T160000Z
+DESCRIPTION:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2854-30-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230404T060000Z
+DTEND:20230404T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2854-31-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230411T060000Z
+DTEND:20230411T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2854-34-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230502T060000Z
+DTEND:20230502T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2855-30-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230405T060000Z
+DTEND:20230405T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2855-31-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230412T060000Z
+DTEND:20230412T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2855-34-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230503T060000Z
+DTEND:20230503T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2856-30-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230406T060000Z
+DTEND:20230406T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2856-31-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230413T060000Z
+DTEND:20230413T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2856-36-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230518T060000Z
+DTEND:20230518T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2857-30-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230407T060000Z
+DTEND:20230407T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2857-31-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230414T060000Z
+DTEND:20230414T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2857-34-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230505T060000Z
+DTEND:20230505T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2889-34-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230504T060000Z
+DTEND:20230504T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2892-30-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230403T060000Z
+DTEND:20230403T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2892-31-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230410T060000Z
+DTEND:20230410T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2894-34-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230501T060000Z
+DTEND:20230501T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3024-34-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230506T060000Z
+DTEND:20230506T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3025-30-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230408T060000Z
+DTEND:20230408T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3025-31-Conge-Index-Education
+SUMMARY:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 -
+	 Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - G
+	roupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Gro
+	upe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230415T060000Z
+DTEND:20230415T193000Z
+DESCRIPTION:Congé - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, A
+	S1 - Groupe B2\, AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2
+	 - Groupe D2\, AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 -
+	 Groupe F2\, BD1\, BD2\, BD3\, BSP STJ\, BSP TPSM\, MIAS 1\, MIAS 2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1631-13-Seance_info_-_Mobilites_intern-Index-Education
+SUMMARY:Séance info - Mobilités intern - Vandeur - BD1\, BD2\, BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221205T151500Z
+DTEND:20221205T161500Z
+DESCRIPTION:Séance info - Mobilités intern - Vandeur - BD1\, BD2\, BD3
+LOCATION:115
+END:VEVENT
+END:VCALENDAR

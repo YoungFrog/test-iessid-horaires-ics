@@ -1,0 +1,315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-254-9-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T070000Z
+DTEND:20221108T090000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-936-6-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221018T060000Z
+DTEND:20221018T080000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-938-12-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T121500Z
+DTEND:20221130T141500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-940-11-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221122T091500Z
+DTEND:20221122T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-941-12-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T091500Z
+DTEND:20221128T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1165-11-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T143000Z
+DTEND:20221123T163000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1166-10-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T091500Z
+DTEND:20221115T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1221-9-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T091500Z
+DTEND:20221107T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1221-10-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T091500Z
+DTEND:20221114T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1476-5-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T060000Z
+DTEND:20221011T080000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1477-5-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T060000Z
+DTEND:20221012T080000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1477-6-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T060000Z
+DTEND:20221019T080000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1477-11-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T070000Z
+DTEND:20221123T090000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1477-12-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T070000Z
+DTEND:20221130T090000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1477-15-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T070000Z
+DTEND:20221221T090000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1478-5-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T081500Z
+DTEND:20221012T101500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1478-6-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T081500Z
+DTEND:20221019T101500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1478-11-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T091500Z
+DTEND:20221123T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1478-12-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T091500Z
+DTEND:20221130T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1478-15-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T091500Z
+DTEND:20221221T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1613-19-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+	\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230120T070000Z
+DTEND:20230120T163000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1614-20-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+	\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230123T070000Z
+DTEND:20230123T163000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1615-18-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+	\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230112T070000Z
+DTEND:20230112T163000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1618-18-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+	\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230110T070000Z
+DTEND:20230110T163000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1628-20-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+	\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230124T070000Z
+DTEND:20230124T163000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2522-22-Histoire_du_jeu-Index-Education
+SUMMARY:Histoire du jeu - Olcina - BSP STJ
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T183000Z
+DTEND:20230206T203000Z
+DESCRIPTION:Histoire du jeu - Olcina - BSP STJ
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2522-23-Histoire_du_jeu-Index-Education
+SUMMARY:Histoire du jeu - Olcina - BSP STJ
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T183000Z
+DTEND:20230213T203000Z
+DESCRIPTION:Histoire du jeu - Olcina - BSP STJ
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2522-25-Histoire_du_jeu-Index-Education
+SUMMARY:Histoire du jeu - Olcina - BSP STJ
+DTSTAMP:20230202T152100Z
+DTSTART:20230227T183000Z
+DTEND:20230227T203000Z
+DESCRIPTION:Histoire du jeu - Olcina - BSP STJ
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2522-26-Histoire_du_jeu-Index-Education
+SUMMARY:Histoire du jeu - Olcina - BSP STJ
+DTSTAMP:20230202T152100Z
+DTSTART:20230306T183000Z
+DTEND:20230306T203000Z
+DESCRIPTION:Histoire du jeu - Olcina - BSP STJ
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2522-27-Histoire_du_jeu-Index-Education
+SUMMARY:Histoire du jeu - Olcina - BSP STJ
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T183000Z
+DTEND:20230313T203000Z
+DESCRIPTION:Histoire du jeu - Olcina - BSP STJ
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2522-28-Histoire_du_jeu-Index-Education
+SUMMARY:Histoire du jeu - Olcina - BSP STJ
+DTSTAMP:20230202T152100Z
+DTSTART:20230320T183000Z
+DTEND:20230320T203000Z
+DESCRIPTION:Histoire du jeu - Olcina - BSP STJ
+LOCATION:004
+END:VEVENT
+END:VCALENDAR

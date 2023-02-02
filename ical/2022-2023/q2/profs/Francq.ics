@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1043-10-Lecture_publique_pratique-Index-Education
+SUMMARY:Lecture publique pratique - Francq - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T070000Z
+DTEND:20221115T111500Z
+DESCRIPTION:Lecture publique pratique - Francq - BD1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1554-11-Lecture_publique_pratique-Index-Education
+SUMMARY:Lecture publique pratique - Francq - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T070000Z
+DTEND:20221121T143000Z
+DESCRIPTION:Lecture publique pratique - Francq - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1661-13-Lecture_publique_pratique-Index-Education
+SUMMARY:Lecture publique pratique - Francq - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221205T080000Z
+DTEND:20221205T151500Z
+DESCRIPTION:Lecture publique pratique - Francq - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1677-15-Lecture_publique_pratique-Index-Education
+SUMMARY:Lecture publique pratique - Francq - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221220T070000Z
+DTEND:20221220T111500Z
+DESCRIPTION:Lecture publique pratique - Francq - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+END:VCALENDAR

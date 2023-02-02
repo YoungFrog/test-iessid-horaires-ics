@@ -1,0 +1,808 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1970-27-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+DTSTAMP:20230202T152100Z
+DTSTART:20230317T091500Z
+DTEND:20230317T111500Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2532-27-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230317T143000Z
+DTEND:20230317T163000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2779-22-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T143000Z
+DTEND:20230206T163000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2779-23-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T143000Z
+DTEND:20230213T163000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2779-27-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+DTSTAMP:20230202T152100Z
+DTSTART:20230313T143000Z
+DTEND:20230313T163000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2779-28-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+DTSTAMP:20230202T152100Z
+DTSTART:20230320T143000Z
+DTEND:20230320T163000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2779-29-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+DTSTAMP:20230202T152100Z
+DTSTART:20230327T133000Z
+DTEND:20230327T153000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A1
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2798-35-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230511T111500Z
+DTEND:20230511T131500Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2804-22-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230210T091500Z
+DTEND:20230210T111500Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2959-22-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+DTSTAMP:20230202T152100Z
+DTSTART:20230210T070000Z
+DTEND:20230210T090000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2959-23-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+DTSTAMP:20230202T152100Z
+DTSTART:20230217T070000Z
+DTEND:20230217T090000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2959-27-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+DTSTAMP:20230202T152100Z
+DTSTART:20230317T070000Z
+DTEND:20230317T090000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2959-29-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+DTSTAMP:20230202T152100Z
+DTSTART:20230331T060000Z
+DTEND:20230331T080000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2959-35-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+DTSTAMP:20230202T152100Z
+DTSTART:20230512T060000Z
+DTEND:20230512T080000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2961-33-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T111500Z
+DTEND:20230428T131500Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2962-32-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T133000Z
+DTEND:20230417T153000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2962-33-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T133000Z
+DTEND:20230424T153000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2962-35-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T133000Z
+DTEND:20230508T153000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2963-32-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T111500Z
+DTEND:20230417T131500Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2963-33-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T111500Z
+DTEND:20230424T131500Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2963-35-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T111500Z
+DTEND:20230508T131500Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2964-35-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230510T111500Z
+DTEND:20230510T131500Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3038-33-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230426T111500Z
+DTEND:20230426T131500Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3110-32-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T060000Z
+DTEND:20230419T080000Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-336-4-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T081500Z
+DTEND:20221005T101500Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-339-4-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221007T111500Z
+DTEND:20221007T131500Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-340-2-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T060000Z
+DTEND:20220919T080000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-340-3-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T060000Z
+DTEND:20220926T080000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-340-4-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221003T060000Z
+DTEND:20221003T080000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-340-5-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T060000Z
+DTEND:20221010T080000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-340-6-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221017T060000Z
+DTEND:20221017T080000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-340-7-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221024T060000Z
+DTEND:20221024T080000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-341-12-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221202T070000Z
+DTEND:20221202T090000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-342-15-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221222T121500Z
+DTEND:20221222T141500Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-343-14-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221215T091500Z
+DTEND:20221215T111500Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-736-13-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
+	Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221208T070000Z
+DTEND:20221208T090000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
+	2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1178-12-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221202T091500Z
+DTEND:20221202T111500Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1179-3-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220929T060000Z
+DTEND:20220929T080000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1404-15-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221222T143000Z
+DTEND:20221222T163000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:006\, 109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1642-2-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T060000Z
+DTEND:20220921T080000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1642-3-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220928T060000Z
+DTEND:20220928T080000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1642-5-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T060000Z
+DTEND:20221012T080000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1642-6-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T060000Z
+DTEND:20221019T080000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1642-11-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T070000Z
+DTEND:20221123T090000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1642-13-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221207T070000Z
+DTEND:20221207T090000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1642-14-Meth_enq_soc_et_tech_rap_soc-Index-Education
+SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
+	Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T070000Z
+DTEND:20221214T090000Z
+DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
+	2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1630-18-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet\, Fonteneau - AS2 - Groupe C
+	1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230109T101500Z
+DTEND:20230109T111500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet\, Fonteneau - AS2 - Grou
+	pe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2411-25-Pratiques_et_enjeux_methodo-Index-Education
+SUMMARY:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230228T184500Z
+DTEND:20230228T204500Z
+DESCRIPTION:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2411-27-Pratiques_et_enjeux_methodo-Index-Education
+SUMMARY:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T184500Z
+DTEND:20230314T204500Z
+DESCRIPTION:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2411-32-Pratiques_et_enjeux_methodo-Index-Education
+SUMMARY:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T174500Z
+DTEND:20230418T194500Z
+DESCRIPTION:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2411-33-Pratiques_et_enjeux_methodo-Index-Education
+SUMMARY:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T174500Z
+DTEND:20230425T194500Z
+DESCRIPTION:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2412-36-Pratiques_et_enjeux_methodo-Index-Education
+SUMMARY:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230516T153000Z
+DTEND:20230516T193000Z
+DESCRIPTION:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2412-37-Pratiques_et_enjeux_methodo-Index-Education
+SUMMARY:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T153000Z
+DTEND:20230523T193000Z
+DESCRIPTION:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2414-22-Pratiques_et_enjeux_methodo-Index-Education
+SUMMARY:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T163000Z
+DTEND:20230207T183000Z
+DESCRIPTION:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2414-29-Pratiques_et_enjeux_methodo-Index-Education
+SUMMARY:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230328T153000Z
+DTEND:20230328T173000Z
+DESCRIPTION:Pratiques et enjeux méthodo - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2945-23-Implementation_de_reseaux_et..-Index-Education
+SUMMARY:Implémentation de réseaux et.. - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T163000Z
+DTEND:20230216T183000Z
+DESCRIPTION:Implémentation de réseaux et.. - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2946-25-Implementation_de_reseaux_et..-Index-Education
+SUMMARY:Implémentation de réseaux et.. - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T163000Z
+DTEND:20230302T183000Z
+DESCRIPTION:Implémentation de réseaux et.. - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2947-28-Implementation_de_reseaux_et..-Index-Education
+SUMMARY:Implémentation de réseaux et.. - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T163000Z
+DTEND:20230323T183000Z
+DESCRIPTION:Implémentation de réseaux et.. - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2948-33-Implementation_de_reseaux_et..-Index-Education
+SUMMARY:Implémentation de réseaux et.. - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T153000Z
+DTEND:20230427T173000Z
+DESCRIPTION:Implémentation de réseaux et.. - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2429-26-Ingenierie_sociale-Index-Education
+SUMMARY:Ingénierie sociale - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230306T163000Z
+DTEND:20230306T203000Z
+DESCRIPTION:Ingénierie sociale - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2447-29-Ingenierie_sociale-Index-Education
+SUMMARY:Ingénierie sociale - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230331T113000Z
+DTEND:20230331T153000Z
+DESCRIPTION:Ingénierie sociale - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2449-32-Ingenierie_sociale-Index-Education
+SUMMARY:Ingénierie sociale - Fonteneau - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230421T113000Z
+DTEND:20230421T153000Z
+DESCRIPTION:Ingénierie sociale - Fonteneau - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2361-23-Outils_expertise_evaluation-Index-Education
+SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T163000Z
+DTEND:20230213T203000Z
+DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2361-25-Outils_expertise_evaluation-Index-Education
+SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230227T163000Z
+DTEND:20230227T203000Z
+DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2361-28-Outils_expertise_evaluation-Index-Education
+SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230320T163000Z
+DTEND:20230320T203000Z
+DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2361-29-Outils_expertise_evaluation-Index-Education
+SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230327T153000Z
+DTEND:20230327T193000Z
+DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2361-33-Outils_expertise_evaluation-Index-Education
+SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230424T153000Z
+DTEND:20230424T193000Z
+DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2420-22-Outils_expertise_evaluation-Index-Education
+SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T163000Z
+DTEND:20230206T203000Z
+DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2375-25-Quest_spe_deonto_&_eth-Index-Education
+SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230228T163000Z
+DTEND:20230228T183000Z
+DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2375-27-Quest_spe_deonto_&_eth-Index-Education
+SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T163000Z
+DTEND:20230314T183000Z
+DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2375-32-Quest_spe_deonto_&_eth-Index-Education
+SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T153000Z
+DTEND:20230418T173000Z
+DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2375-33-Quest_spe_deonto_&_eth-Index-Education
+SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T153000Z
+DTEND:20230425T173000Z
+DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2376-26-Quest_spe_deonto_&_eth-Index-Education
+SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230307T163000Z
+DTEND:20230307T203000Z
+DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2376-28-Quest_spe_deonto_&_eth-Index-Education
+SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230321T163000Z
+DTEND:20230321T203000Z
+DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2376-35-Quest_spe_deonto_&_eth-Index-Education
+SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T153000Z
+DTEND:20230509T193000Z
+DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2404-23-Quest_spe_deonto_&_eth-Index-Education
+SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230214T163000Z
+DTEND:20230214T183000Z
+DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2452-25-Pratiques_evaluatives-Index-Education
+SUMMARY:Pratiques évaluatives - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230303T080000Z
+DTEND:20230303T163000Z
+DESCRIPTION:Pratiques évaluatives - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2453-28-Pratiques_evaluatives-Index-Education
+SUMMARY:Pratiques évaluatives - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230324T080000Z
+DTEND:20230324T120000Z
+DESCRIPTION:Pratiques évaluatives - Fonteneau - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2458-32-Pratiques_evaluatives-Index-Education
+SUMMARY:Pratiques évaluatives - Fonteneau - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230421T070000Z
+DTEND:20230421T110000Z
+DESCRIPTION:Pratiques évaluatives - Fonteneau - MIAS 2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1643-14-Casus_-_Dispositif_commun_UE03-Index-Education
+SUMMARY:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe
+	 C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221216T091500Z
+DTEND:20221216T111500Z
+DESCRIPTION:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Gr
+	oupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1644-13-Casus_-_Dispositif_commun_UE03-Index-Education
+SUMMARY:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221209T070000Z
+DTEND:20221209T090000Z
+DESCRIPTION:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Gr
+	oupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1645-14-Casus_-_Dispositif_commun_UE03-Index-Education
+SUMMARY:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe
+	 D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221215T121500Z
+DTEND:20221215T141500Z
+DESCRIPTION:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Gr
+	oupe D1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1646-13-Casus_-_Dispositif_commun_UE03-Index-Education
+SUMMARY:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221209T091500Z
+DTEND:20221209T111500Z
+DESCRIPTION:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Gr
+	oupe D2
+LOCATION:005
+END:VEVENT
+END:VCALENDAR

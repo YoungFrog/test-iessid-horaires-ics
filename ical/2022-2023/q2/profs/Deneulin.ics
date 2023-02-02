@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1687-21-Biblio_&_lect_publ_FWB_semin-Index-Education
+SUMMARY:Biblio & lect publ FWB sémin - Deneulin\, Vandenbussche - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230202T080000Z
+DTEND:20230202T153000Z
+DESCRIPTION:Biblio & lect publ FWB sémin - Deneulin\, Vandenbussche - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1688-21-Biblio_&_lect_publ_FWB_semin-Index-Education
+SUMMARY:Biblio & lect publ FWB sémin - Deneulin\, Vandenbussche - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230203T080000Z
+DTEND:20230203T153000Z
+DESCRIPTION:Biblio & lect publ FWB sémin - Deneulin\, Vandenbussche - BD1
+LOCATION:203
+END:VEVENT
+END:VCALENDAR

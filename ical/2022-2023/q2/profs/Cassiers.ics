@@ -1,0 +1,887 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-2274-33-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230426T111500Z
+DTEND:20230426T131500Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2274-35-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230510T111500Z
+DTEND:20230510T131500Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2274-36-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230517T111500Z
+DTEND:20230517T131500Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2274-37-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230524T111500Z
+DTEND:20230524T131500Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2275-33-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230426T133000Z
+DTEND:20230426T153000Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2275-35-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230510T133000Z
+DTEND:20230510T153000Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2275-36-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230517T133000Z
+DTEND:20230517T153000Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2275-37-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230524T133000Z
+DTEND:20230524T153000Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2277-33-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T111500Z
+DTEND:20230428T131500Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2277-35-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230512T111500Z
+DTEND:20230512T131500Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2277-36-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230519T111500Z
+DTEND:20230519T131500Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2277-37-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230526T111500Z
+DTEND:20230526T131500Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2292-38-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230531T111500Z
+DTEND:20230531T131500Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2295-38-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230531T133000Z
+DTEND:20230531T153000Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2902-33-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T133000Z
+DTEND:20230428T153000Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2902-35-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230512T133000Z
+DTEND:20230512T153000Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2902-36-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230519T133000Z
+DTEND:20230519T153000Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2902-37-Droit_des_etrangers-Index-Education
+SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230526T133000Z
+DTEND:20230526T153000Z
+DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-23-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T121500Z
+DTEND:20230215T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-25-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230301T121500Z
+DTEND:20230301T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-26-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230308T121500Z
+DTEND:20230308T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-27-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T121500Z
+DTEND:20230315T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-28-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230322T121500Z
+DTEND:20230322T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-29-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T111500Z
+DTEND:20230329T131500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2291-32-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T111500Z
+DTEND:20230419T131500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2293-23-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T143000Z
+DTEND:20230215T163000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2293-25-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230301T143000Z
+DTEND:20230301T163000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2293-26-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230308T143000Z
+DTEND:20230308T163000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2293-27-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T143000Z
+DTEND:20230315T163000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2293-28-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230322T143000Z
+DTEND:20230322T163000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2293-29-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T133000Z
+DTEND:20230329T153000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2294-32-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T133000Z
+DTEND:20230419T153000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2903-23-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230217T143000Z
+DTEND:20230217T163000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2903-25-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230303T143000Z
+DTEND:20230303T163000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2903-26-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230310T143000Z
+DTEND:20230310T163000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2903-27-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230317T143000Z
+DTEND:20230317T163000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2903-28-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230324T143000Z
+DTEND:20230324T163000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2903-29-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230331T133000Z
+DTEND:20230331T153000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2903-32-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe
+	 D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230421T133000Z
+DTEND:20230421T153000Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2904-23-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230217T121500Z
+DTEND:20230217T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2904-25-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230303T121500Z
+DTEND:20230303T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2904-26-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230310T121500Z
+DTEND:20230310T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2904-27-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230317T121500Z
+DTEND:20230317T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2904-28-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230324T121500Z
+DTEND:20230324T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2904-29-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230331T111500Z
+DTEND:20230331T131500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2904-32-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T152100Z
+DTSTART:20230421T111500Z
+DTEND:20230421T131500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-307-2-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T133000Z
+DTEND:20220921T153000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-310-4-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T133000Z
+DTEND:20221005T153000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-312-2-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T111500Z
+DTEND:20220921T131500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-312-3-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20220928T111500Z
+DTEND:20220928T131500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-312-4-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T111500Z
+DTEND:20221005T131500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-312-5-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T111500Z
+DTEND:20221012T131500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-312-6-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T111500Z
+DTEND:20221019T131500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-312-7-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T111500Z
+DTEND:20221026T131500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-312-11-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T121500Z
+DTEND:20221123T141500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1160-12-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221202T070000Z
+DTEND:20221202T090000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1211-5-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T133000Z
+DTEND:20221012T153000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1211-6-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T133000Z
+DTEND:20221019T153000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1211-11-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T143000Z
+DTEND:20221123T163000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1212-2-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220923T060000Z
+DTEND:20220923T080000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1212-3-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220930T060000Z
+DTEND:20220930T080000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1212-4-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221007T060000Z
+DTEND:20221007T080000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1212-5-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221014T060000Z
+DTEND:20221014T080000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1212-6-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221021T060000Z
+DTEND:20221021T080000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1212-7-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221028T060000Z
+DTEND:20221028T080000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1212-11-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1
+DTSTAMP:20230202T152100Z
+DTSTART:20221125T070000Z
+DTEND:20221125T090000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1214-2-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20220923T081500Z
+DTEND:20220923T101500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1214-3-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20220930T081500Z
+DTEND:20220930T101500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1214-4-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221007T081500Z
+DTEND:20221007T101500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1214-5-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221014T081500Z
+DTEND:20221014T101500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1214-6-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221021T081500Z
+DTEND:20221021T101500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1214-11-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221125T091500Z
+DTEND:20221125T111500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1215-7-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers
+DTSTAMP:20230202T152100Z
+DTSTART:20221028T081500Z
+DTEND:20221028T101500Z
+DESCRIPTION:Droit du travail - Cassiers
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1215-12-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1
+DTSTAMP:20230202T152100Z
+DTSTART:20221202T091500Z
+DTEND:20221202T111500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1219-3-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220928T133000Z
+DTEND:20220928T153000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1219-7-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T133000Z
+DTEND:20221026T153000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1219-12-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T143000Z
+DTEND:20221130T163000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1219-15-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T143000Z
+DTEND:20221221T163000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1220-12-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T121500Z
+DTEND:20221130T141500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1220-15-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T121500Z
+DTEND:20221221T141500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1609-18-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2\, A
+	S2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230113T073000Z
+DTEND:20230113T163000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+	\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1610-18-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2\, A
+	S2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230111T073000Z
+DTEND:20230111T163000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+	\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1611-19-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2\, A
+	S2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230118T073000Z
+DTEND:20230118T163000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+	\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2435-21-Philosophie_politique-Index-Education
+SUMMARY:Philosophie politique - Cassiers - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230202T163000Z
+DTEND:20230202T203000Z
+DESCRIPTION:Philosophie politique - Cassiers - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2435-26-Philosophie_politique-Index-Education
+SUMMARY:Philosophie politique - Cassiers - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230309T163000Z
+DTEND:20230309T203000Z
+DESCRIPTION:Philosophie politique - Cassiers - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2435-27-Philosophie_politique-Index-Education
+SUMMARY:Philosophie politique - Cassiers - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T163000Z
+DTEND:20230316T203000Z
+DESCRIPTION:Philosophie politique - Cassiers - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2435-29-Philosophie_politique-Index-Education
+SUMMARY:Philosophie politique - Cassiers - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T153000Z
+DTEND:20230330T193000Z
+DESCRIPTION:Philosophie politique - Cassiers - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2435-32-Philosophie_politique-Index-Education
+SUMMARY:Philosophie politique - Cassiers - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T153000Z
+DTEND:20230420T193000Z
+DESCRIPTION:Philosophie politique - Cassiers - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2435-35-Philosophie_politique-Index-Education
+SUMMARY:Philosophie politique - Cassiers - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230511T153000Z
+DTEND:20230511T193000Z
+DESCRIPTION:Philosophie politique - Cassiers - MIAS 1
+LOCATION:109
+END:VEVENT
+END:VCALENDAR

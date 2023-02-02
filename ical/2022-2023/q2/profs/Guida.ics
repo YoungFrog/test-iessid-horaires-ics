@@ -1,0 +1,874 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-2785-22-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230209T121500Z
+DTEND:20230209T141500Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2785-23-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T121500Z
+DTEND:20230216T141500Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2785-27-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T121500Z
+DTEND:20230316T141500Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2785-29-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T111500Z
+DTEND:20230330T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2785-33-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T111500Z
+DTEND:20230427T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2786-22-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230209T143000Z
+DTEND:20230209T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2786-23-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T143000Z
+DTEND:20230216T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2786-27-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T143000Z
+DTEND:20230316T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2786-29-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T133000Z
+DTEND:20230330T153000Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2786-33-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T133000Z
+DTEND:20230427T153000Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2487-32-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T111500Z
+DTEND:20230419T131500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2488-29-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T111500Z
+DTEND:20230329T131500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2489-27-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T121500Z
+DTEND:20230315T141500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2490-23-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T121500Z
+DTEND:20230215T141500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:302
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2493-22-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230208T121500Z
+DTEND:20230208T141500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2527-21-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230201T121500Z
+DTEND:20230201T141500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-22-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230208T091500Z
+DTEND:20230208T111500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-23-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T091500Z
+DTEND:20230215T111500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-27-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T091500Z
+DTEND:20230315T111500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-29-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T081500Z
+DTEND:20230329T101500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-32-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T081500Z
+DTEND:20230419T101500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2758-33-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, A
+	S1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230426T081500Z
+DTEND:20230426T101500Z
+DESCRIPTION:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-346-12-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221202T121500Z
+DTEND:20221202T141500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-348-15-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2\, A
+	S2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221223T070000Z
+DTEND:20221223T090000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+	\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-737-3-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20220929T081500Z
+DTEND:20220929T101500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-737-11-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221124T091500Z
+DTEND:20221124T111500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-737-12-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T091500Z
+DTEND:20221201T111500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-737-13-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221208T091500Z
+DTEND:20221208T111500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1170-2-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T111500Z
+DTEND:20220919T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1170-4-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221003T111500Z
+DTEND:20221003T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1170-5-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T111500Z
+DTEND:20221010T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1170-6-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221017T111500Z
+DTEND:20221017T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1170-7-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221024T111500Z
+DTEND:20221024T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1483-12-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T091500Z
+DTEND:20221130T111500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1605-18-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2\, A
+	S2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20230109T121500Z
+DTEND:20230109T141500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+	\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:005\, 115\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2922-1-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220916T133000Z
+DTEND:20220916T153000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2922-2-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220923T133000Z
+DTEND:20220923T153000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2922-3-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20220930T133000Z
+DTEND:20220930T153000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2922-4-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221007T133000Z
+DTEND:20221007T153000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2922-5-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221014T133000Z
+DTEND:20221014T153000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2922-6-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221021T133000Z
+DTEND:20221021T153000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2922-7-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221028T133000Z
+DTEND:20221028T153000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2922-11-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221125T143000Z
+DTEND:20221125T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2922-12-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221202T143000Z
+DTEND:20221202T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2922-13-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221209T143000Z
+DTEND:20221209T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2922-14-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+DTSTAMP:20230202T152100Z
+DTSTART:20221216T143000Z
+DTEND:20221216T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2924-14-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T152100Z
+DTSTART:20221215T143000Z
+DTEND:20221215T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-543-3-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220930T111500Z
+DTEND:20220930T131500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-544-2-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T081500Z
+DTEND:20220921T101500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-546-1-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220916T081500Z
+DTEND:20220916T101500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-546-2-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220923T081500Z
+DTEND:20220923T101500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-546-3-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220930T081500Z
+DTEND:20220930T101500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-547-2-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T081500Z
+DTEND:20220919T101500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:005
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-548-11-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T121500Z
+DTEND:20221121T141500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-550-4-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221004T081500Z
+DTEND:20221004T101500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:115
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-898-3-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20220928T081500Z
+DTEND:20220928T101500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1186-4-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221007T081500Z
+DTEND:20221007T101500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1189-15-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221219T121500Z
+DTEND:20221219T141500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1190-4-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221006T111500Z
+DTEND:20221006T131500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1196-4-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221007T111500Z
+DTEND:20221007T131500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1253-2-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220923T111500Z
+DTEND:20220923T131500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1288-3-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20220928T111500Z
+DTEND:20220928T131500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1289-5-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T133000Z
+DTEND:20221011T153000Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1391-9-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T121500Z
+DTEND:20221108T141500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1392-9-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T152100Z
+DTSTART:20221108T143000Z
+DTEND:20221108T163000Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1606-18-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T152100Z
+DTSTART:20230109T080000Z
+DTEND:20230109T100000Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:006\, 109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-21-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230201T163000Z
+DTEND:20230201T183000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-22-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230208T163000Z
+DTEND:20230208T183000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-23-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T163000Z
+DTEND:20230215T183000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-25-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230301T163000Z
+DTEND:20230301T183000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-26-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230308T163000Z
+DTEND:20230308T183000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-27-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T163000Z
+DTEND:20230315T183000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-28-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230322T163000Z
+DTEND:20230322T183000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-29-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T153000Z
+DTEND:20230329T173000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-32-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T153000Z
+DTEND:20230419T173000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-33-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230426T153000Z
+DTEND:20230426T173000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-36-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230517T153000Z
+DTEND:20230517T173000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2424-37-Dynam_&_chang_organisations-Index-Education
+SUMMARY:Dynam & chang organisations - Guida - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230524T153000Z
+DTEND:20230524T173000Z
+DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3117-26-Quest_eth_&_pol_sante_mentale-Index-Education
+SUMMARY:Quest éth & pol santé mentale - Guida - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230309T183000Z
+DTEND:20230309T203000Z
+DESCRIPTION:Quest éth & pol santé mentale - Guida - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3117-27-Quest_eth_&_pol_sante_mentale-Index-Education
+SUMMARY:Quest éth & pol santé mentale - Guida - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230316T183000Z
+DTEND:20230316T203000Z
+DESCRIPTION:Quest éth & pol santé mentale - Guida - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3117-28-Quest_eth_&_pol_sante_mentale-Index-Education
+SUMMARY:Quest éth & pol santé mentale - Guida - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230323T183000Z
+DTEND:20230323T203000Z
+DESCRIPTION:Quest éth & pol santé mentale - Guida - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3119-21-Quest_eth_&_pol_sante_mentale-Index-Education
+SUMMARY:Quest éth & pol santé mentale - Guida - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230202T163000Z
+DTEND:20230202T183000Z
+DESCRIPTION:Quest éth & pol santé mentale - Guida - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3119-22-Quest_eth_&_pol_sante_mentale-Index-Education
+SUMMARY:Quest éth & pol santé mentale - Guida - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230209T163000Z
+DTEND:20230209T183000Z
+DESCRIPTION:Quest éth & pol santé mentale - Guida - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3119-23-Quest_eth_&_pol_sante_mentale-Index-Education
+SUMMARY:Quest éth & pol santé mentale - Guida - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T163000Z
+DTEND:20230216T183000Z
+DESCRIPTION:Quest éth & pol santé mentale - Guida - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3119-25-Quest_eth_&_pol_sante_mentale-Index-Education
+SUMMARY:Quest éth & pol santé mentale - Guida - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230302T163000Z
+DTEND:20230302T183000Z
+DESCRIPTION:Quest éth & pol santé mentale - Guida - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3119-29-Quest_eth_&_pol_sante_mentale-Index-Education
+SUMMARY:Quest éth & pol santé mentale - Guida - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T153000Z
+DTEND:20230330T173000Z
+DESCRIPTION:Quest éth & pol santé mentale - Guida - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3119-32-Quest_eth_&_pol_sante_mentale-Index-Education
+SUMMARY:Quest éth & pol santé mentale - Guida - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T153000Z
+DTEND:20230420T173000Z
+DESCRIPTION:Quest éth & pol santé mentale - Guida - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3119-33-Quest_eth_&_pol_sante_mentale-Index-Education
+SUMMARY:Quest éth & pol santé mentale - Guida - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T153000Z
+DTEND:20230427T173000Z
+DESCRIPTION:Quest éth & pol santé mentale - Guida - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3119-35-Quest_eth_&_pol_sante_mentale-Index-Education
+SUMMARY:Quest éth & pol santé mentale - Guida - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230511T153000Z
+DTEND:20230511T173000Z
+DESCRIPTION:Quest éth & pol santé mentale - Guida - BSP TPSM
+LOCATION:007
+END:VEVENT
+END:VCALENDAR

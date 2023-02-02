@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1556-14-Lecture_publique_theorie-Index-Education
+SUMMARY:Lecture publique théorie - Dessicy - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221212T080000Z
+DTEND:20221212T153000Z
+DESCRIPTION:Lecture publique théorie - Dessicy - BD1
+LOCATION:113 (salle info)\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1558-10-Lecture_publique_theorie-Index-Education
+SUMMARY:Lecture publique théorie - Dessicy - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221114T091500Z
+DTEND:20221114T111500Z
+DESCRIPTION:Lecture publique théorie - Dessicy - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1560-11-Lecture_publique_theorie-Index-Education
+SUMMARY:Lecture publique théorie - Dessicy - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T080000Z
+DTEND:20221123T153000Z
+DESCRIPTION:Lecture publique théorie - Dessicy - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1565-12-Lecture_publique_theorie-Index-Education
+SUMMARY:Lecture publique théorie - Dessicy - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T091500Z
+DTEND:20221128T111500Z
+DESCRIPTION:Lecture publique théorie - Dessicy - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1662-12-Lecture_publique_theorie-Index-Education
+SUMMARY:Lecture publique théorie - Dessicy - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T070000Z
+DTEND:20221128T090000Z
+DESCRIPTION:Lecture publique théorie - Dessicy - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1668-15-Lecture_publique_theorie-Index-Education
+SUMMARY:Lecture publique théorie - Dessicy - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221219T080000Z
+DTEND:20221219T153000Z
+DESCRIPTION:Lecture publique théorie - Dessicy - BD1
+LOCATION:113 (salle info)\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1672-13-Lecture_publique_theorie-Index-Education
+SUMMARY:Lecture publique théorie - Dessicy - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221209T080000Z
+DTEND:20221209T153000Z
+DESCRIPTION:Lecture publique théorie - Dessicy - BD1
+LOCATION:113 (salle info)\, 203
+END:VEVENT
+END:VCALENDAR

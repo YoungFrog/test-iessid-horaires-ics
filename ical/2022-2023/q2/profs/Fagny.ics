@@ -1,0 +1,504 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-944-2-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T111500Z
+DTEND:20220921T131500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-944-3-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20220928T111500Z
+DTEND:20220928T131500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-944-4-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T111500Z
+DTEND:20221005T131500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-944-5-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T111500Z
+DTEND:20221012T131500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-944-6-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T111500Z
+DTEND:20221019T131500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-944-7-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T111500Z
+DTEND:20221026T131500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-944-9-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221109T121500Z
+DTEND:20221109T141500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-944-10-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221116T121500Z
+DTEND:20221116T141500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-945-3-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T060000Z
+DTEND:20220926T080000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-945-4-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221003T060000Z
+DTEND:20221003T080000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-945-5-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221010T060000Z
+DTEND:20221010T080000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-945-6-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221017T060000Z
+DTEND:20221017T080000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-945-7-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221024T060000Z
+DTEND:20221024T080000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-945-9-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221107T070000Z
+DTEND:20221107T090000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-945-11-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221121T070000Z
+DTEND:20221121T090000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-945-12-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T070000Z
+DTEND:20221128T090000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-945-15-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221219T070000Z
+DTEND:20221219T090000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-946-11-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T121500Z
+DTEND:20221123T141500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-948-3-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T081500Z
+DTEND:20220926T101500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-948-4-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221003T081500Z
+DTEND:20221003T101500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-948-6-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221017T081500Z
+DTEND:20221017T101500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-948-7-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221024T081500Z
+DTEND:20221024T101500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-948-12-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221128T091500Z
+DTEND:20221128T111500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-948-15-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221219T091500Z
+DTEND:20221219T111500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-949-2-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T060000Z
+DTEND:20220919T080000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118\, 208
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-950-2-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T133000Z
+DTEND:20220921T153000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-950-3-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20220928T133000Z
+DTEND:20220928T153000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-950-4-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T133000Z
+DTEND:20221005T153000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-950-5-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T133000Z
+DTEND:20221012T153000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-950-6-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T133000Z
+DTEND:20221019T153000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-950-9-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221109T143000Z
+DTEND:20221109T163000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-950-10-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221116T143000Z
+DTEND:20221116T163000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-950-11-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221123T143000Z
+DTEND:20221123T163000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-950-12-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221130T143000Z
+DTEND:20221130T163000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-950-15-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T143000Z
+DTEND:20221221T163000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-951-15-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20221221T121500Z
+DTEND:20221221T141500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1608-19-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 
+	- Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230116T080000Z
+DTEND:20230116T100000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2\, 
+	AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:005\, 115\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2141-21-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230201T121500Z
+DTEND:20230201T141500Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2142-22-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230208T121500Z
+DTEND:20230208T141500Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2143-23-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T121500Z
+DTEND:20230215T141500Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2144-27-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T121500Z
+DTEND:20230315T141500Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2145-29-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T111500Z
+DTEND:20230329T131500Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2146-32-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T111500Z
+DTEND:20230419T131500Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2147-21-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230201T143000Z
+DTEND:20230201T163000Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2148-22-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230208T143000Z
+DTEND:20230208T163000Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2149-23-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T143000Z
+DTEND:20230215T163000Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2152-27-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T143000Z
+DTEND:20230315T163000Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2153-29-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T133000Z
+DTEND:20230329T153000Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2154-32-Psychologie_sociale-Index-Education
+SUMMARY:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T133000Z
+DTEND:20230419T153000Z
+DESCRIPTION:Psychologie sociale - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2495-29-Intro_courants_psychotherapeu-Index-Education
+SUMMARY:Intro courants psychothérapeu - Fagny - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230328T173000Z
+DTEND:20230328T193000Z
+DESCRIPTION:Intro courants psychothérapeu - Fagny - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2495-32-Intro_courants_psychotherapeu-Index-Education
+SUMMARY:Intro courants psychothérapeu - Fagny - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T173000Z
+DTEND:20230418T193000Z
+DESCRIPTION:Intro courants psychothérapeu - Fagny - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2495-33-Intro_courants_psychotherapeu-Index-Education
+SUMMARY:Intro courants psychothérapeu - Fagny - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230425T173000Z
+DTEND:20230425T193000Z
+DESCRIPTION:Intro courants psychothérapeu - Fagny - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2495-35-Intro_courants_psychotherapeu-Index-Education
+SUMMARY:Intro courants psychothérapeu - Fagny - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230509T173000Z
+DTEND:20230509T193000Z
+DESCRIPTION:Intro courants psychothérapeu - Fagny - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2495-36-Intro_courants_psychotherapeu-Index-Education
+SUMMARY:Intro courants psychothérapeu - Fagny - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230516T173000Z
+DTEND:20230516T193000Z
+DESCRIPTION:Intro courants psychothérapeu - Fagny - BSP TPSM
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2495-37-Intro_courants_psychotherapeu-Index-Education
+SUMMARY:Intro courants psychothérapeu - Fagny - BSP TPSM
+DTSTAMP:20230202T152100Z
+DTSTART:20230523T173000Z
+DTEND:20230523T193000Z
+DESCRIPTION:Intro courants psychothérapeu - Fagny - BSP TPSM
+LOCATION:007
+END:VEVENT
+END:VCALENDAR

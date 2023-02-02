@@ -1,0 +1,628 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-982-2-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T111500Z
+DTEND:20220919T131500Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-982-3-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20220926T111500Z
+DTEND:20220926T131500Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-983-2-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T111500Z
+DTEND:20220921T131500Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-984-2-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20220921T060000Z
+DTEND:20220921T080000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-985-2-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20220919T070000Z
+DTEND:20220919T100000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-990-7-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221028T070000Z
+DTEND:20221028T100000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-992-7-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T113000Z
+DTEND:20221027T143000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-993-7-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T111500Z
+DTEND:20221026T141500Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-994-7-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221026T070000Z
+DTEND:20221026T100000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-996-7-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221027T070000Z
+DTEND:20221027T100000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-997-7-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221028T111500Z
+DTEND:20221028T141500Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-999-3-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20220930T060000Z
+DTEND:20220930T080000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-999-5-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221014T060000Z
+DTEND:20221014T080000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1000-4-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221003T081500Z
+DTEND:20221003T101500Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1002-4-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221004T060000Z
+DTEND:20221004T080000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1003-5-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221011T060000Z
+DTEND:20221011T080000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1004-6-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221018T060000Z
+DTEND:20221018T080000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1005-7-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221025T060000Z
+DTEND:20221025T080000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1006-3-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20220928T060000Z
+DTEND:20220928T080000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1007-4-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221005T060000Z
+DTEND:20221005T080000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1008-5-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221012T060000Z
+DTEND:20221012T080000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1009-6-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T060000Z
+DTEND:20221019T080000Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1010-6-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221019T081500Z
+DTEND:20221019T101500Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1398-5-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T081500Z
+DTEND:20221013T101500Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1426-6-Fondements_de_recherche_doc-Index-Education
+SUMMARY:Fondements de recherche doc - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20221017T111500Z
+DTEND:20221017T131500Z
+DESCRIPTION:Fondements de recherche doc - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1697-22-Serv_docs_-_Intro-Index-Education
+SUMMARY:Serv docs - Intro - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T080000Z
+DTEND:20230206T111500Z
+DESCRIPTION:Serv docs - Intro - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1698-22-Serv_docs_-_Intro-Index-Education
+SUMMARY:Serv docs - Intro - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230206T121500Z
+DTEND:20230206T141500Z
+DESCRIPTION:Serv docs - Intro - Wallez - BD1
+LOCATION:203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1694-36-AIP-Index-Education
+SUMMARY:AIP - Wallez - BD1
+DTSTAMP:20230202T152100Z
+DTSTART:20230516T070000Z
+DTEND:20230516T143000Z
+DESCRIPTION:AIP - Wallez - BD1
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1691-29-Foire_livre_3003-0204_AIP-Index-Education
+SUMMARY:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230330T080000Z
+DTEND:20230330T160000Z
+DESCRIPTION:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1692-29-Foire_livre_3003-0204_AIP-Index-Education
+SUMMARY:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230331T080000Z
+DTEND:20230331T160000Z
+DESCRIPTION:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1693-29-Foire_livre_3003-0204_AIP-Index-Education
+SUMMARY:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230401T080000Z
+DTEND:20230401T160000Z
+DESCRIPTION:Foire livre 30/03-02/04 AIP - Wallez - BD1\, BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1064-14-Prepa_au_TFE_+_etude_faisab-Index-Education
+SUMMARY:Prépa au TFE + étude faisab - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T091500Z
+DTEND:20221214T111500Z
+DESCRIPTION:Prépa au TFE + étude faisab - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1065-14-Prepa_au_TFE_+_etude_faisab-Index-Education
+SUMMARY:Prépa au TFE + étude faisab - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221214T070000Z
+DTEND:20221214T090000Z
+DESCRIPTION:Prépa au TFE + étude faisab - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1833-26-Prepa_au_TFE_+_etude_faisab-Index-Education
+SUMMARY:Prépa au TFE + étude faisab - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230307T070000Z
+DTEND:20230307T090000Z
+DESCRIPTION:Prépa au TFE + étude faisab - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1834-26-Prepa_au_TFE_+_etude_faisab-Index-Education
+SUMMARY:Prépa au TFE + étude faisab - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230308T070000Z
+DTEND:20230308T090000Z
+DESCRIPTION:Prépa au TFE + étude faisab - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1838-27-Prepa_au_TFE_+_etude_faisab-Index-Education
+SUMMARY:Prépa au TFE + étude faisab - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T121500Z
+DTEND:20230315T153000Z
+DESCRIPTION:Prépa au TFE + étude faisab - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1842-26-Prepa_au_TFE_+_etude_faisab-Index-Education
+SUMMARY:Prépa au TFE + étude faisab - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230310T091500Z
+DTEND:20230310T111500Z
+DESCRIPTION:Prépa au TFE + étude faisab - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1842-27-Prepa_au_TFE_+_etude_faisab-Index-Education
+SUMMARY:Prépa au TFE + étude faisab - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230317T091500Z
+DTEND:20230317T111500Z
+DESCRIPTION:Prépa au TFE + étude faisab - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1789-32-Etude_de_cas_sciences_et_tech-Index-Education
+SUMMARY:Etude de cas sciences et tech - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230418T070000Z
+DTEND:20230418T153000Z
+DESCRIPTION:Etude de cas sciences et tech - Wallez - BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1790-32-Etude_de_cas_sciences_et_tech-Index-Education
+SUMMARY:Etude de cas sciences et tech - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230417T070000Z
+DTEND:20230417T153000Z
+DESCRIPTION:Etude de cas sciences et tech - Wallez - BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1791-32-Etude_de_cas_sciences_et_tech-Index-Education
+SUMMARY:Etude de cas sciences et tech - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T070000Z
+DTEND:20230419T153000Z
+DESCRIPTION:Etude de cas sciences et tech - Wallez - BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1792-32-Etude_de_cas_sciences_et_tech-Index-Education
+SUMMARY:Etude de cas sciences et tech - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230420T070000Z
+DTEND:20230420T153000Z
+DESCRIPTION:Etude de cas sciences et tech - Wallez - BD2
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1847-27-Etude_de_cas_sciences_et_tech-Index-Education
+SUMMARY:Etude de cas sciences et tech - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230314T070000Z
+DTEND:20230314T090000Z
+DESCRIPTION:Etude de cas sciences et tech - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1847-28-Etude_de_cas_sciences_et_tech-Index-Education
+SUMMARY:Etude de cas sciences et tech - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230321T070000Z
+DTEND:20230321T090000Z
+DESCRIPTION:Etude de cas sciences et tech - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1847-29-Etude_de_cas_sciences_et_tech-Index-Education
+SUMMARY:Etude de cas sciences et tech - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230328T060000Z
+DTEND:20230328T080000Z
+DESCRIPTION:Etude de cas sciences et tech - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1848-27-Etude_de_cas_sciences_et_tech-Index-Education
+SUMMARY:Etude de cas sciences et tech - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T070000Z
+DTEND:20230315T090000Z
+DESCRIPTION:Etude de cas sciences et tech - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1848-28-Etude_de_cas_sciences_et_tech-Index-Education
+SUMMARY:Etude de cas sciences et tech - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230322T070000Z
+DTEND:20230322T090000Z
+DESCRIPTION:Etude de cas sciences et tech - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1848-29-Etude_de_cas_sciences_et_tech-Index-Education
+SUMMARY:Etude de cas sciences et tech - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T060000Z
+DTEND:20230329T080000Z
+DESCRIPTION:Etude de cas sciences et tech - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1576-10-Probl_specifiques_catalogue-Index-Education
+SUMMARY:Probl spécifiques catalogue - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221116T091500Z
+DTEND:20221116T111500Z
+DESCRIPTION:Probl spécifiques catalogue - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-688-12-Langage_d'index_Part_2-Index-Education
+SUMMARY:Langage d'index Part 2 - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20221201T091500Z
+DTEND:20221201T111500Z
+DESCRIPTION:Langage d'index Part 2 - Wallez - BD2
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1804-33-Source_d'info_sciences_hum-Index-Education
+SUMMARY:Source d'info sciences hum - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230427T070000Z
+DTEND:20230427T101500Z
+DESCRIPTION:Source d'info sciences hum - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1805-33-Source_d'info_sciences_hum-Index-Education
+SUMMARY:Source d'info sciences hum - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230426T111500Z
+DTEND:20230426T143000Z
+DESCRIPTION:Source d'info sciences hum - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1825-33-Source_d'info_sciences_hum-Index-Education
+SUMMARY:Source d'info sciences hum - Wallez - BD2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T070000Z
+DTEND:20230428T101500Z
+DESCRIPTION:Source d'info sciences hum - Wallez - BD2
+LOCATION:004
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1599-18-Stage_3-Index-Education
+SUMMARY:Stage 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230113T070000Z
+DTEND:20230113T090000Z
+DESCRIPTION:Stage 3 - Wallez - BD3
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-717-6-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T111500Z
+DTEND:20221020T131500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-721-10-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221115T070000Z
+DTEND:20221115T090000Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:208
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1112-5-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221013T111500Z
+DTEND:20221013T131500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1113-10-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221118T121500Z
+DTEND:20221118T141500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:208
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1116-6-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221020T081500Z
+DTEND:20221020T101500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1117-5-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221014T081500Z
+DTEND:20221014T101500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:208
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1118-5-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221014T111500Z
+DTEND:20221014T131500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:208
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1120-7-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20221025T111500Z
+DTEND:20221025T131500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1600-19-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230120T070000Z
+DTEND:20230120T090000Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2225-23-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230213T121500Z
+DTEND:20230213T153000Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2225-25-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230227T121500Z
+DTEND:20230227T153000Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2225-28-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230320T121500Z
+DTEND:20230320T153000Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2225-29-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230327T111500Z
+DTEND:20230327T143000Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2225-35-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230508T111500Z
+DTEND:20230508T143000Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2225-36-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230515T111500Z
+DTEND:20230515T143000Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2241-22-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230209T080000Z
+DTEND:20230209T111500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2241-23-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230216T080000Z
+DTEND:20230216T111500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+END:VEVENT
+END:VCALENDAR

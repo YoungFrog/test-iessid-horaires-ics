@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-2240-25-Gestion_et_compta_des_biblios-Index-Education
+SUMMARY:Gestion et compta des biblios - Bernard - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230301T121500Z
+DTEND:20230301T163000Z
+DESCRIPTION:Gestion et compta des biblios - Bernard - BD3
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2240-28-Gestion_et_compta_des_biblios-Index-Education
+SUMMARY:Gestion et compta des biblios - Bernard - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230322T121500Z
+DTEND:20230322T163000Z
+DESCRIPTION:Gestion et compta des biblios - Bernard - BD3
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2240-29-Gestion_et_compta_des_biblios-Index-Education
+SUMMARY:Gestion et compta des biblios - Bernard - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T111500Z
+DTEND:20230329T153000Z
+DESCRIPTION:Gestion et compta des biblios - Bernard - BD3
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2407-25-Informatique_de_gestion-Index-Education
+SUMMARY:Informatique de gestion - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230301T183000Z
+DTEND:20230301T203000Z
+DESCRIPTION:Informatique de gestion - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2407-27-Informatique_de_gestion-Index-Education
+SUMMARY:Informatique de gestion - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T183000Z
+DTEND:20230315T203000Z
+DESCRIPTION:Informatique de gestion - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2407-37-Informatique_de_gestion-Index-Education
+SUMMARY:Informatique de gestion - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230524T173000Z
+DTEND:20230524T193000Z
+DESCRIPTION:Informatique de gestion - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2408-38-Informatique_de_gestion-Index-Education
+SUMMARY:Informatique de gestion - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230531T153000Z
+DTEND:20230531T193000Z
+DESCRIPTION:Informatique de gestion - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2394-22-Gestion_financiere_et_compta-Index-Education
+SUMMARY:Gestion financière et compta - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230208T163000Z
+DTEND:20230208T203000Z
+DESCRIPTION:Gestion financière et compta - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2394-23-Gestion_financiere_et_compta-Index-Education
+SUMMARY:Gestion financière et compta - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230215T163000Z
+DTEND:20230215T203000Z
+DESCRIPTION:Gestion financière et compta - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2394-26-Gestion_financiere_et_compta-Index-Education
+SUMMARY:Gestion financière et compta - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230308T163000Z
+DTEND:20230308T203000Z
+DESCRIPTION:Gestion financière et compta - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2394-29-Gestion_financiere_et_compta-Index-Education
+SUMMARY:Gestion financière et compta - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T153000Z
+DTEND:20230329T193000Z
+DESCRIPTION:Gestion financière et compta - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2394-32-Gestion_financiere_et_compta-Index-Education
+SUMMARY:Gestion financière et compta - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230419T153000Z
+DTEND:20230419T193000Z
+DESCRIPTION:Gestion financière et compta - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2394-36-Gestion_financiere_et_compta-Index-Education
+SUMMARY:Gestion financière et compta - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230517T153000Z
+DTEND:20230517T193000Z
+DESCRIPTION:Gestion financière et compta - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2402-25-Gestion_financiere_et_compta-Index-Education
+SUMMARY:Gestion financière et compta - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230301T163000Z
+DTEND:20230301T183000Z
+DESCRIPTION:Gestion financière et compta - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2402-27-Gestion_financiere_et_compta-Index-Education
+SUMMARY:Gestion financière et compta - Bernard - MIAS 1
+DTSTAMP:20230202T152100Z
+DTSTART:20230315T163000Z
+DTEND:20230315T183000Z
+DESCRIPTION:Gestion financière et compta - Bernard - MIAS 1
+LOCATION:109
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2396-33-Seminaire_pratique_budgetaire-Index-Education
+SUMMARY:Séminaire pratique budgétaire - Bernard - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230428T070000Z
+DTEND:20230428T150000Z
+DESCRIPTION:Séminaire pratique budgétaire - Bernard - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2397-22-Seminaire_pratique_budgetaire-Index-Education
+SUMMARY:Séminaire pratique budgétaire - Bernard - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230207T163000Z
+DTEND:20230207T203000Z
+DESCRIPTION:Séminaire pratique budgétaire - Bernard - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2397-29-Seminaire_pratique_budgetaire-Index-Education
+SUMMARY:Séminaire pratique budgétaire - Bernard - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20230328T153000Z
+DTEND:20230328T193000Z
+DESCRIPTION:Séminaire pratique budgétaire - Bernard - MIAS 2
+LOCATION:006
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1481-6-Reservation_de_salles-Index-Education
+SUMMARY:Réservation de salles - Bernard - MIAS 2
+DTSTAMP:20230202T152100Z
+DTSTART:20221021T064500Z
+DTEND:20221021T153000Z
+DESCRIPTION:Réservation de salles - Bernard - MIAS 2
+LOCATION:004
+END:VEVENT
+END:VCALENDAR

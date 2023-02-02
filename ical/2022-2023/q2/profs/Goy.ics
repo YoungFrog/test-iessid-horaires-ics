@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-2238-22-Droit_de_l'info_deont_brevet-Index-Education
+SUMMARY:Droit de l'info\, déont\, brevet - Goy - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230208T091500Z
+DTEND:20230208T111500Z
+DESCRIPTION:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2239-22-Droit_de_l'info_deont_brevet-Index-Education
+SUMMARY:Droit de l'info\, déont\, brevet - Goy - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230208T070000Z
+DTEND:20230208T090000Z
+DESCRIPTION:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2239-28-Droit_de_l'info_deont_brevet-Index-Education
+SUMMARY:Droit de l'info\, déont\, brevet - Goy - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230322T070000Z
+DTEND:20230322T090000Z
+DESCRIPTION:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2239-29-Droit_de_l'info_deont_brevet-Index-Education
+SUMMARY:Droit de l'info\, déont\, brevet - Goy - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230329T060000Z
+DTEND:20230329T080000Z
+DESCRIPTION:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2239-35-Droit_de_l'info_deont_brevet-Index-Education
+SUMMARY:Droit de l'info\, déont\, brevet - Goy - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230510T060000Z
+DTEND:20230510T080000Z
+DESCRIPTION:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION:007
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2239-36-Droit_de_l'info_deont_brevet-Index-Education
+SUMMARY:Droit de l'info\, déont\, brevet - Goy - BD3
+DTSTAMP:20230202T152100Z
+DTSTART:20230517T060000Z
+DTEND:20230517T080000Z
+DESCRIPTION:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION:007
+END:VEVENT
+END:VCALENDAR
