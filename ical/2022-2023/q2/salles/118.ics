@@ -1,0 +1,2958 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-297-5-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1
+	\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221011T081500Z
+DTEND:20221011T101500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e B1\, AS1 - Groupe B2
+LOCATION:118\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-4-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221004T111500Z
+DTEND:20221004T131500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:118\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-962-5-Intro_intervention_sociale-Index-Education
+SUMMARY:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1
+	\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221011T111500Z
+DTEND:20221011T131500Z
+DESCRIPTION:Intro intervention sociale - Meulemeester\, Simar - AS1 - Group
+	e A1\, AS1 - Groupe A2
+LOCATION:118\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-657-4-Neerlandais-Index-Education
+SUMMARY:Néerlandais - Volont - BD1
+DTSTAMP:20230202T092100Z
+DTSTART:20221006T081500Z
+DTEND:20221006T101500Z
+DESCRIPTION:Néerlandais - Volont - BD1
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2191-21-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230201T091500Z
+DTEND:20230201T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2209-21-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230201T070000Z
+DTEND:20230201T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-22-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230206T091500Z
+DTEND:20230206T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-23-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230213T091500Z
+DTEND:20230213T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-27-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230313T091500Z
+DTEND:20230313T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-28-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230320T091500Z
+DTEND:20230320T111500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-29-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230327T081500Z
+DTEND:20230327T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-32-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230417T081500Z
+DTEND:20230417T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-33-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230424T081500Z
+DTEND:20230424T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-35-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230508T081500Z
+DTEND:20230508T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-36-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230515T081500Z
+DTEND:20230515T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2738-37-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230522T081500Z
+DTEND:20230522T101500Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-22-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230206T070000Z
+DTEND:20230206T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-23-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230213T070000Z
+DTEND:20230213T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-27-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230313T070000Z
+DTEND:20230313T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-28-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230320T070000Z
+DTEND:20230320T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-29-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230327T060000Z
+DTEND:20230327T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-32-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230417T060000Z
+DTEND:20230417T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-33-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230424T060000Z
+DTEND:20230424T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-35-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230508T060000Z
+DTEND:20230508T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-36-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230515T060000Z
+DTEND:20230515T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2739-37-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230522T060000Z
+DTEND:20230522T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-23-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230214T070000Z
+DTEND:20230214T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-27-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230314T070000Z
+DTEND:20230314T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-29-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230328T060000Z
+DTEND:20230328T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-32-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230418T060000Z
+DTEND:20230418T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-33-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230425T060000Z
+DTEND:20230425T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-35-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230509T060000Z
+DTEND:20230509T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-37-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230523T060000Z
+DTEND:20230523T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2750-38-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230530T060000Z
+DTEND:20230530T080000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2814-22-Intro_aux_sciences_medico-soc-Index-Education
+SUMMARY:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230207T070000Z
+DTEND:20230207T090000Z
+DESCRIPTION:Intro aux sciences médico-soc - Mol - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2749-32-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230418T081500Z
+DTEND:20230418T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2749-33-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230425T081500Z
+DTEND:20230425T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2749-35-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230509T081500Z
+DTEND:20230509T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2749-37-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230523T081500Z
+DTEND:20230523T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2749-38-Intro_au_droit_social-Index-Education
+SUMMARY:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230530T081500Z
+DTEND:20230530T101500Z
+DESCRIPTION:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2815-22-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230207T091500Z
+DTEND:20230207T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2816-23-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230214T091500Z
+DTEND:20230214T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2816-27-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230314T091500Z
+DTEND:20230314T111500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2816-29-Intro_generale_au_droit-Index-Education
+SUMMARY:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, AS1 -
+	 Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230328T081500Z
+DTEND:20230328T101500Z
+DESCRIPTION:Intro générale au droit - Van Keerberghen - AS1 - Groupe B1\, A
+	S1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-923-2-Sciences_economiques-Index-Education
+SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20220920T133000Z
+DTEND:20220920T153000Z
+DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
+	 AS1 - Groupe A2
+LOCATION:115\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-923-4-Sciences_economiques-Index-Education
+SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221004T133000Z
+DTEND:20221004T153000Z
+DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
+	 AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-923-6-Sciences_economiques-Index-Education
+SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221018T133000Z
+DTEND:20221018T153000Z
+DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
+	 AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-923-7-Sciences_economiques-Index-Education
+SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221025T133000Z
+DTEND:20221025T153000Z
+DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
+	 AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-923-9-Sciences_economiques-Index-Education
+SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221108T143000Z
+DTEND:20221108T163000Z
+DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
+	 AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-923-10-Sciences_economiques-Index-Education
+SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
+	 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221115T143000Z
+DTEND:20221115T163000Z
+DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
+	 AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-929-12-Sciences_economiques-Index-Education
+SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221129T143000Z
+DTEND:20221129T163000Z
+DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\,
+	 AS1 - Groupe B2
+LOCATION:115\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-930-7-Sciences_economiques-Index-Education
+SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221026T111500Z
+DTEND:20221026T131500Z
+DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\,
+	 AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-930-9-Sciences_economiques-Index-Education
+SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221109T121500Z
+DTEND:20221109T141500Z
+DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\,
+	 AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-930-10-Sciences_economiques-Index-Education
+SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221116T121500Z
+DTEND:20221116T141500Z
+DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\,
+	 AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-933-7-Sciences_economiques-Index-Education
+SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1
+	 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221026T133000Z
+DTEND:20221026T153000Z
+DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\,
+	 AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-254-9-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221108T070000Z
+DTEND:20221108T090000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-936-6-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221018T060000Z
+DTEND:20221018T080000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-941-12-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221128T091500Z
+DTEND:20221128T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1221-9-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221107T091500Z
+DTEND:20221107T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1221-10-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221114T091500Z
+DTEND:20221114T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1476-5-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221011T060000Z
+DTEND:20221011T080000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1477-5-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221012T060000Z
+DTEND:20221012T080000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1477-6-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221019T060000Z
+DTEND:20221019T080000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1477-11-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221123T070000Z
+DTEND:20221123T090000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1477-12-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221130T070000Z
+DTEND:20221130T090000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1477-15-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221221T070000Z
+DTEND:20221221T090000Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Group
+	e B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1478-5-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221012T081500Z
+DTEND:20221012T101500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1478-6-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221019T081500Z
+DTEND:20221019T101500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1478-11-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221123T091500Z
+DTEND:20221123T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1478-12-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221130T091500Z
+DTEND:20221130T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1478-15-Histoire_contemporaine-Index-Education
+SUMMARY:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221221T091500Z
+DTEND:20221221T111500Z
+DESCRIPTION:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Group
+	e A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1604-18-Francais-Index-Education
+SUMMARY:Français - Simar\, Wlomainck - AS1 - Groupe A1\, AS1 - Groupe A2\, 
+	AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230109T080000Z
+DTEND:20230109T100000Z
+DESCRIPTION:Français - Simar\, Wlomainck - AS1 - Groupe A1\, AS1 - Groupe A
+	2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:005\, 115\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2734-22-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230206T121500Z
+DTEND:20230206T141500Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2734-23-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230213T121500Z
+DTEND:20230213T141500Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2734-27-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230313T121500Z
+DTEND:20230313T141500Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2734-28-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230320T121500Z
+DTEND:20230320T141500Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2734-29-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230327T111500Z
+DTEND:20230327T131500Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2734-32-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230417T111500Z
+DTEND:20230417T131500Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2734-33-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230424T111500Z
+DTEND:20230424T131500Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2734-35-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230508T111500Z
+DTEND:20230508T131500Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2734-36-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230515T111500Z
+DTEND:20230515T131500Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2734-37-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230522T111500Z
+DTEND:20230522T131500Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2742-22-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230206T143000Z
+DTEND:20230206T163000Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2742-23-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230213T143000Z
+DTEND:20230213T163000Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2742-27-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230313T143000Z
+DTEND:20230313T163000Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2742-28-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230320T143000Z
+DTEND:20230320T163000Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2742-29-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230327T133000Z
+DTEND:20230327T153000Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2742-32-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230417T133000Z
+DTEND:20230417T153000Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2742-33-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230424T133000Z
+DTEND:20230424T153000Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2742-35-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230508T133000Z
+DTEND:20230508T153000Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2742-36-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230515T133000Z
+DTEND:20230515T153000Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2742-37-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230522T133000Z
+DTEND:20230522T153000Z
+DESCRIPTION:Anglais - Fetai - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2126-35-Neerlandais-Index-Education
+SUMMARY:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - 
+	Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230512T111500Z
+DTEND:20230512T131500Z
+DESCRIPTION:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS
+	1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2129-21-Neerlandais-Index-Education
+SUMMARY:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - 
+	Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230203T121500Z
+DTEND:20230203T141500Z
+DESCRIPTION:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS
+	1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2130-22-Neerlandais-Index-Education
+SUMMARY:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - 
+	Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230210T121500Z
+DTEND:20230210T141500Z
+DESCRIPTION:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS
+	1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2131-23-Neerlandais-Index-Education
+SUMMARY:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - 
+	Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230217T121500Z
+DTEND:20230217T141500Z
+DESCRIPTION:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS
+	1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2133-27-Neerlandais-Index-Education
+SUMMARY:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - 
+	Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230317T121500Z
+DTEND:20230317T141500Z
+DESCRIPTION:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS
+	1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2135-29-Neerlandais-Index-Education
+SUMMARY:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - 
+	Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230331T111500Z
+DTEND:20230331T131500Z
+DESCRIPTION:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS
+	1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2136-32-Neerlandais-Index-Education
+SUMMARY:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - 
+	Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230421T111500Z
+DTEND:20230421T131500Z
+DESCRIPTION:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS
+	1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2138-36-Neerlandais-Index-Education
+SUMMARY:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - 
+	Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230519T111500Z
+DTEND:20230519T131500Z
+DESCRIPTION:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS
+	1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2139-37-Neerlandais-Index-Education
+SUMMARY:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - 
+	Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230526T111500Z
+DTEND:20230526T131500Z
+DESCRIPTION:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS
+	1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2140-38-Neerlandais-Index-Education
+SUMMARY:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - 
+	Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230602T111500Z
+DTEND:20230602T131500Z
+DESCRIPTION:Néerlandais - Corduant - AS1 - Groupe A1\, AS1 - Groupe A2\, AS
+	1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2743-21-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230202T070000Z
+DTEND:20230202T090000Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2743-22-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230209T070000Z
+DTEND:20230209T090000Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2743-23-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230216T070000Z
+DTEND:20230216T090000Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2743-27-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230316T070000Z
+DTEND:20230316T090000Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2743-29-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230330T060000Z
+DTEND:20230330T080000Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2743-32-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230420T060000Z
+DTEND:20230420T080000Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2743-33-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230427T060000Z
+DTEND:20230427T080000Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2743-35-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230511T060000Z
+DTEND:20230511T080000Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2743-37-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230525T060000Z
+DTEND:20230525T080000Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2778-23-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230216T091500Z
+DTEND:20230216T111500Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2808-32-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230421T081500Z
+DTEND:20230421T101500Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2809-33-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Group
+	e A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230428T081500Z
+DTEND:20230428T101500Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - G
+	roupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2810-32-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230421T060000Z
+DTEND:20230421T080000Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2811-33-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230428T111500Z
+DTEND:20230428T131500Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2812-37-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230526T081500Z
+DTEND:20230526T101500Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2813-38-Methodo_recherche_sociale-Index-Education
+SUMMARY:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Group
+	e B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230602T081500Z
+DTEND:20230602T101500Z
+DESCRIPTION:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - G
+	roupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3038-33-Travaux_diriges-Index-Education
+SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230426T111500Z
+DTEND:20230426T131500Z
+DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3088-33-Demographie-Index-Education
+SUMMARY:Démographie - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe
+	 A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230426T133000Z
+DTEND:20230426T153000Z
+DESCRIPTION:Démographie - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Gr
+	oupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2308-22-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230208T143000Z
+DTEND:20230208T163000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2309-23-Intro_methodo_&_deonto_du_soc-Index-Education
+SUMMARY:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\, AS
+	1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20230215T143000Z
+DTEND:20230215T163000Z
+DESCRIPTION:Intro méthodo & déonto du soc - Meulemeester - AS1 - Groupe A1\
+	, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2786-22-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230209T143000Z
+DTEND:20230209T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2786-23-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230216T143000Z
+DTEND:20230216T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2786-27-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230316T143000Z
+DTEND:20230316T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2786-29-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230330T133000Z
+DTEND:20230330T153000Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2786-33-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230427T133000Z
+DTEND:20230427T153000Z
+DESCRIPTION:Politiques sociales - Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1429-6-Philosophie-Index-Education
+SUMMARY:Philosophie - Martens - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221021T081500Z
+DTEND:20221021T101500Z
+DESCRIPTION:Philosophie - Martens - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1619-18-Philosophie-Index-Education
+SUMMARY:Philosophie - Martens - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - G
+	roupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230111T080000Z
+DTEND:20230111T100000Z
+DESCRIPTION:Philosophie - Martens - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1
+	 - Groupe B1\, AS1 - Groupe B2
+LOCATION:109\, 115\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1617-18-Approches_sociologiques-Index-Education
+SUMMARY:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe
+	 A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230113T080000Z
+DTEND:20230113T100000Z
+DESCRIPTION:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Gr
+	oupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:006\, 115\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2937-21-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Groupe
+	 B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230202T121500Z
+DTEND:20230202T141500Z
+DESCRIPTION:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Gr
+	oupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2937-22-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Groupe
+	 B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230209T121500Z
+DTEND:20230209T141500Z
+DESCRIPTION:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Gr
+	oupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2937-23-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Groupe
+	 B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230216T121500Z
+DTEND:20230216T141500Z
+DESCRIPTION:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Gr
+	oupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2937-27-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Groupe
+	 B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230316T121500Z
+DTEND:20230316T141500Z
+DESCRIPTION:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Gr
+	oupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2937-29-Anthropologie_culturelle-Index-Education
+SUMMARY:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Groupe
+	 B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230330T111500Z
+DTEND:20230330T131500Z
+DESCRIPTION:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Gr
+	oupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-945-12-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221128T070000Z
+DTEND:20221128T090000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-945-15-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+DTSTAMP:20230202T092100Z
+DTSTART:20221219T070000Z
+DTEND:20221219T090000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-948-15-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221219T091500Z
+DTEND:20221219T111500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-949-2-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20220919T060000Z
+DTEND:20220919T080000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118\, 208
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-950-15-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221221T143000Z
+DTEND:20221221T163000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-951-15-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20221221T121500Z
+DTEND:20221221T141500Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1608-19-Approches_psycho-Index-Education
+SUMMARY:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 
+	- Groupe B1\, AS1 - Groupe B2
+DTSTAMP:20230202T092100Z
+DTSTART:20230116T080000Z
+DTEND:20230116T100000Z
+DESCRIPTION:Approches psycho - Fagny - AS1 - Groupe A1\, AS1 - Groupe A2\, 
+	AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION:005\, 115\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-287-3-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20220926T111500Z
+DTEND:20220926T131500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-4-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221006T060000Z
+DTEND:20221006T080000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-5-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221013T060000Z
+DTEND:20221013T080000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-6-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221020T060000Z
+DTEND:20221020T080000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-11-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221124T070000Z
+DTEND:20221124T090000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-12-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221201T070000Z
+DTEND:20221201T090000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-830-13-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221208T070000Z
+DTEND:20221208T090000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-831-7-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221027T060000Z
+DTEND:20221027T080000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1177-3-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20220926T133000Z
+DTEND:20220926T153000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1180-2-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20220922T133000Z
+DTEND:20220922T153000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1181-3-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20220929T060000Z
+DTEND:20220929T080000Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\,
+	 AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1393-2-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20220922T111500Z
+DTEND:20220922T131500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1633-18-Not_droit_pen_et_proc_pen-Index-Education
+SUMMARY:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2
+	 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230112T121500Z
+DTEND:20230112T141500Z
+DESCRIPTION:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\,
+	 AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:109\, 115\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-23-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230215T121500Z
+DTEND:20230215T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-25-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230301T121500Z
+DTEND:20230301T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-26-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230308T121500Z
+DTEND:20230308T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-27-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230315T121500Z
+DTEND:20230315T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-28-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230322T121500Z
+DTEND:20230322T141500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2280-29-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230329T111500Z
+DTEND:20230329T131500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2291-32-Droit_social_approfondi-Index-Education
+SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
+	 C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230419T111500Z
+DTEND:20230419T131500Z
+DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1160-12-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1
+DTSTAMP:20230202T092100Z
+DTSTART:20221202T070000Z
+DTEND:20221202T090000Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1215-12-Droit_du_travail-Index-Education
+SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1
+DTSTAMP:20230202T092100Z
+DTSTART:20221202T091500Z
+DTEND:20221202T111500Z
+DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-351-2-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
+	roupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20220919T081500Z
+DTEND:20220919T101500Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-351-6-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
+	roupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221017T081500Z
+DTEND:20221017T101500Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-351-7-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
+	roupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221024T081500Z
+DTEND:20221024T101500Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
+	 - Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-360-2-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20220922T081500Z
+DTEND:20220922T101500Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-361-1-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20220916T133000Z
+DTEND:20220916T153000Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-361-2-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20220923T133000Z
+DTEND:20220923T153000Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-361-3-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20220930T133000Z
+DTEND:20220930T153000Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-361-4-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221007T133000Z
+DTEND:20221007T153000Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-361-5-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221014T133000Z
+DTEND:20221014T153000Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-361-6-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221021T133000Z
+DTEND:20221021T153000Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-361-7-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221028T133000Z
+DTEND:20221028T153000Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-361-11-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221125T143000Z
+DTEND:20221125T163000Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-361-12-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221202T143000Z
+DTEND:20221202T163000Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-361-13-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221209T143000Z
+DTEND:20221209T163000Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-361-14-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221216T143000Z
+DTEND:20221216T163000Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-362-13-Economie_sociale-Index-Education
+SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - G
+	roupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221207T121500Z
+DTEND:20221207T141500Z
+DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2
+	 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2616-23-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230215T070000Z
+DTEND:20230215T111500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2616-28-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230322T070000Z
+DTEND:20230322T111500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2618-25-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230301T070000Z
+DTEND:20230301T090000Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2618-26-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230308T070000Z
+DTEND:20230308T090000Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2618-27-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230315T070000Z
+DTEND:20230315T090000Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2618-29-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230329T060000Z
+DTEND:20230329T080000Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2618-32-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230419T060000Z
+DTEND:20230419T080000Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2618-33-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230426T060000Z
+DTEND:20230426T080000Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2618-35-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230510T060000Z
+DTEND:20230510T080000Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2618-36-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230517T060000Z
+DTEND:20230517T080000Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2618-37-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230524T060000Z
+DTEND:20230524T080000Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2618-38-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Groupe 
+	C2
+DTSTAMP:20230202T092100Z
+DTSTART:20230531T060000Z
+DTEND:20230531T080000Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe C1\, AS2 - Gro
+	upe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2623-25-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Groupe 
+	D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230301T091500Z
+DTEND:20230301T111500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Gro
+	upe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2623-26-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Groupe 
+	D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230308T091500Z
+DTEND:20230308T111500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Gro
+	upe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2623-27-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Groupe 
+	D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230315T091500Z
+DTEND:20230315T111500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Gro
+	upe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2623-29-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Groupe 
+	D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230329T081500Z
+DTEND:20230329T101500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Gro
+	upe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2623-32-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Groupe 
+	D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230419T081500Z
+DTEND:20230419T101500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Gro
+	upe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2623-33-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Groupe 
+	D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230426T081500Z
+DTEND:20230426T101500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Gro
+	upe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2623-35-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Groupe 
+	D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230510T081500Z
+DTEND:20230510T101500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Gro
+	upe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2623-36-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Groupe 
+	D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230517T081500Z
+DTEND:20230517T101500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Gro
+	upe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2623-37-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Groupe 
+	D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230524T081500Z
+DTEND:20230524T101500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Gro
+	upe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2623-38-Tech_et_app_de_rech_soc-Index-Education
+SUMMARY:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Groupe 
+	D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230531T081500Z
+DTEND:20230531T101500Z
+DESCRIPTION:Tech et app de rech soc - Maeyens - AS2 - Groupe D1\, AS2 - Gro
+	upe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-346-12-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221202T121500Z
+DTEND:20221202T141500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-348-15-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2\, A
+	S2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221223T070000Z
+DTEND:20221223T090000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+	\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-737-3-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20220929T081500Z
+DTEND:20220929T101500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-737-13-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221208T091500Z
+DTEND:20221208T111500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1170-2-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20220919T111500Z
+DTEND:20220919T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1170-4-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221003T111500Z
+DTEND:20221003T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1170-5-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221010T111500Z
+DTEND:20221010T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1170-6-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221017T111500Z
+DTEND:20221017T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1170-7-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221024T111500Z
+DTEND:20221024T131500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1605-18-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2\, A
+	S2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230109T121500Z
+DTEND:20230109T141500Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
+	\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:005\, 115\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2924-14-Politiques_sociales-Index-Education
+SUMMARY:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221215T143000Z
+DTEND:20221215T163000Z
+DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1316-4-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221005T111500Z
+DTEND:20221005T131500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1316-6-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221019T111500Z
+DTEND:20221019T131500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1320-6-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221019T133000Z
+DTEND:20221019T153000Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1331-11-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221123T121500Z
+DTEND:20221123T141500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1331-12-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Gr
+	oupe C2
+DTSTAMP:20230202T092100Z
+DTSTART:20221130T121500Z
+DTEND:20221130T141500Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 
+	- Groupe C2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1334-11-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221123T143000Z
+DTEND:20221123T163000Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1334-12-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221130T143000Z
+DTEND:20221130T163000Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1334-13-Deonto_&_ethique_pro_de_l'AS-Index-Education
+SUMMARY:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Gr
+	oupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20221207T143000Z
+DTEND:20221207T163000Z
+DESCRIPTION:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 
+	- Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1626-19-Socio_fam_et_age_de_la_vie-Index-Education
+SUMMARY:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Gro
+	upe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230117T121500Z
+DTEND:20230117T141500Z
+DESCRIPTION:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 -
+	 Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:115\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-25-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230302T091500Z
+DTEND:20230302T111500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-26-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230309T091500Z
+DTEND:20230309T111500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-27-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230316T091500Z
+DTEND:20230316T111500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-28-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230323T091500Z
+DTEND:20230323T111500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-29-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230330T081500Z
+DTEND:20230330T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-32-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230420T081500Z
+DTEND:20230420T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-33-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230427T081500Z
+DTEND:20230427T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-35-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230511T081500Z
+DTEND:20230511T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-37-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230525T081500Z
+DTEND:20230525T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3179-38-Psychopathologie-Index-Education
+SUMMARY:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230601T081500Z
+DTEND:20230601T101500Z
+DESCRIPTION:Psychopathologie - Didier - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2301-23-Approches_systemiques-Index-Education
+SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230217T091500Z
+DTEND:20230217T111500Z
+DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Group
+	e D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2301-25-Approches_systemiques-Index-Education
+SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230303T091500Z
+DTEND:20230303T111500Z
+DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Group
+	e D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2301-26-Approches_systemiques-Index-Education
+SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230310T091500Z
+DTEND:20230310T111500Z
+DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Group
+	e D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2301-27-Approches_systemiques-Index-Education
+SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230317T091500Z
+DTEND:20230317T111500Z
+DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Group
+	e D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2301-28-Approches_systemiques-Index-Education
+SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230324T091500Z
+DTEND:20230324T111500Z
+DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Group
+	e D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2301-29-Approches_systemiques-Index-Education
+SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230331T081500Z
+DTEND:20230331T101500Z
+DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Group
+	e D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2301-35-Approches_systemiques-Index-Education
+SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230512T081500Z
+DTEND:20230512T101500Z
+DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Group
+	e D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2301-36-Approches_systemiques-Index-Education
+SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Groupe D2
+DTSTAMP:20230202T092100Z
+DTSTART:20230519T081500Z
+DTEND:20230519T101500Z
+DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe D1\, AS2 - Group
+	e D2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1513-10-AIP-Index-Education
+SUMMARY:AIP - Sculier
+DTSTAMP:20230202T092100Z
+DTSTART:20221114T121500Z
+DTEND:20221114T163000Z
+DESCRIPTION:AIP - Sculier
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1588-11-AIP-Index-Education
+SUMMARY:AIP - Marchal
+DTSTAMP:20230202T092100Z
+DTSTART:20221121T083000Z
+DTEND:20221121T113000Z
+DESCRIPTION:AIP - Marchal
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-541-1-Anglais-Index-Education
+SUMMARY:Anglais - Fetai - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T092100Z
+DTSTART:20220916T111500Z
+DTEND:20220916T131500Z
+DESCRIPTION:Anglais - Fetai - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-400-3-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20220926T081500Z
+DTEND:20220926T101500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-404-4-Methodo_serv_soc_ind-Index-Education
+SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20221003T081500Z
+DTEND:20221003T101500Z
+DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
+	 F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-514-4-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T092100Z
+DTSTART:20221003T133000Z
+DTEND:20221003T153000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-514-12-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T092100Z
+DTSTART:20221128T143000Z
+DTEND:20221128T163000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:118\, 204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-514-14-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T092100Z
+DTSTART:20221212T143000Z
+DTEND:20221212T163000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:118\, 204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-514-15-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
+	2
+DTSTAMP:20230202T092100Z
+DTSTART:20221219T143000Z
+DTEND:20221219T163000Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
+	pe E2
+LOCATION:118\, 204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-516-12-Methodo_serv_soc_groupe-Index-Education
+SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
+	2
+DTSTAMP:20230202T092100Z
+DTSTART:20221128T121500Z
+DTEND:20221128T141500Z
+DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
+	pe F2
+LOCATION:118\, 204
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-23-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230214T121500Z
+DTEND:20230214T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-26-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230307T121500Z
+DTEND:20230307T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-27-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230314T121500Z
+DTEND:20230314T141500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-32-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230418T111500Z
+DTEND:20230418T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-33-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230425T111500Z
+DTEND:20230425T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-35-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230509T111500Z
+DTEND:20230509T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-3144-37-Methodologies_comparees-Index-Education
+SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230523T111500Z
+DTEND:20230523T131500Z
+DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1469-12-Tech_&_ex_anim_et_cond_reunion-Index-Education
+SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
+DTSTAMP:20230202T092100Z
+DTSTART:20221129T121500Z
+DTEND:20221129T141500Z
+DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-572-14-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS3 - 
+	Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20221212T121500Z
+DTEND:20221212T141500Z
+DESCRIPTION:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS
+	3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-572-15-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS3 - 
+	Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20221219T121500Z
+DTEND:20221219T141500Z
+DESCRIPTION:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS
+	3 - Groupe F2
+LOCATION:004\, 118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-576-12-Methodo_trav_soc_communautaire-Index-Education
+SUMMARY:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS3 - 
+	Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20221129T070000Z
+DTEND:20221129T090000Z
+DESCRIPTION:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS
+	3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-543-3-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T092100Z
+DTSTART:20220930T111500Z
+DTEND:20220930T131500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-544-2-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T092100Z
+DTSTART:20220921T081500Z
+DTEND:20220921T101500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-548-11-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20221121T121500Z
+DTEND:20221121T141500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-898-3-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20220928T081500Z
+DTEND:20220928T101500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1186-4-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T092100Z
+DTSTART:20221007T081500Z
+DTEND:20221007T101500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1190-4-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T092100Z
+DTSTART:20221006T111500Z
+DTEND:20221006T131500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1196-4-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20221007T111500Z
+DTEND:20221007T131500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1253-2-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T092100Z
+DTSTART:20220923T111500Z
+DTEND:20220923T131500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1288-3-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T092100Z
+DTSTART:20220928T111500Z
+DTEND:20220928T131500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1289-5-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
+	oupe E2
+DTSTAMP:20230202T092100Z
+DTSTART:20221011T133000Z
+DTEND:20221011T153000Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
+	- Groupe E2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1391-9-Quest_app_socio-_sante_mentale-Index-Education
+SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Gr
+	oupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20221108T121500Z
+DTEND:20221108T141500Z
+DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 
+	- Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-22-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230207T143000Z
+DTEND:20230207T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-23-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230214T143000Z
+DTEND:20230214T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-26-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230307T143000Z
+DTEND:20230307T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-27-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230314T143000Z
+DTEND:20230314T163000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-32-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230418T133000Z
+DTEND:20230418T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-33-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230425T133000Z
+DTEND:20230425T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-35-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230509T133000Z
+DTEND:20230509T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2912-37-Quest_spe_deonto_&_eth_pro_AS-Index-Education
+SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20230523T133000Z
+DTEND:20230523T153000Z
+DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-528-4-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20221005T133000Z
+DTEND:20221005T153000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-531-3-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20220929T133000Z
+DTEND:20220929T153000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-825-10-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20221115T091500Z
+DTEND:20221115T111500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1171-11-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20221122T091500Z
+DTEND:20221122T111500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1171-13-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+DTSTAMP:20230202T092100Z
+DTSTART:20221206T091500Z
+DTEND:20221206T111500Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION:118
+END:VEVENT
+END:VCALENDAR
