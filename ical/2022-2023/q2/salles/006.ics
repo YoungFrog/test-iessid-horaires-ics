@@ -7,7 +7,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:Cours-1053-10-Lecture_publ_legislations-Index-Education
 SUMMARY:Lecture publ législations - Smits - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221118T121500Z
 DTEND:20221118T141500Z
 DESCRIPTION:Lecture publ législations - Smits - BD1
@@ -16,7 +16,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1053-11-Lecture_publ_legislations-Index-Education
 SUMMARY:Lecture publ législations - Smits - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221125T121500Z
 DTEND:20221125T141500Z
 DESCRIPTION:Lecture publ législations - Smits - BD1
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1057-15-Lecture_publ_paysage_cult-Index-Education
 SUMMARY:Lecture publ paysage cult - Moosen - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221222T091500Z
 DTEND:20221222T111500Z
 DESCRIPTION:Lecture publ paysage cult - Moosen - BD1
@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1058-15-Lecture_publ_paysage_cult-Index-Education
 SUMMARY:Lecture publ paysage cult - Moosen - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221222T070000Z
 DTEND:20221222T090000Z
 DESCRIPTION:Lecture publ paysage cult - Moosen - BD1
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1059-15-Lecture_publ_paysage_cult-Index-Education
 SUMMARY:Lecture publ paysage cult - Moosen - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221222T121500Z
 DTEND:20221222T141500Z
 DESCRIPTION:Lecture publ paysage cult - Moosen - BD1
@@ -52,7 +52,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-651-6-Anglais-Index-Education
 SUMMARY:Anglais - Laurent - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221018T081500Z
 DTEND:20221018T101500Z
 DESCRIPTION:Anglais - Laurent - BD1
@@ -61,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-819-5-Anglais-Index-Education
 SUMMARY:Anglais - Laurent - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221012T081500Z
 DTEND:20221012T101500Z
 DESCRIPTION:Anglais - Laurent - BD1
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-657-2-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220922T081500Z
 DTEND:20220922T101500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-657-6-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221020T081500Z
 DTEND:20221020T101500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-657-9-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221110T091500Z
 DTEND:20221110T111500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -97,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-657-11-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221124T091500Z
 DTEND:20221124T111500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -106,7 +106,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-658-13-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221206T091500Z
 DTEND:20221206T111500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -115,7 +115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-659-2-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220920T111500Z
 DTEND:20220920T131500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -124,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-659-4-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221004T111500Z
 DTEND:20221004T131500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -133,7 +133,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-659-5-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221011T111500Z
 DTEND:20221011T131500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -142,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-659-6-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221018T111500Z
 DTEND:20221018T131500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-659-7-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221025T111500Z
 DTEND:20221025T131500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -160,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-659-9-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221108T121500Z
 DTEND:20221108T141500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -169,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-659-10-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221115T121500Z
 DTEND:20221115T141500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -178,7 +178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-659-11-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221122T121500Z
 DTEND:20221122T141500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -187,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-659-12-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Volont - BD1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221129T121500Z
 DTEND:20221129T141500Z
 DESCRIPTION:Néerlandais - Volont - BD1
@@ -196,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1897-32-AIP-Index-Education
 SUMMARY:AIP - Barbana\, Belyamani\, De Smedt\, Zamora
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230420T060000Z
 DTEND:20230420T153000Z
 DESCRIPTION:AIP - Barbana\, Belyamani\, De Smedt\, Zamora
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 UID:Cours-1625-19-Droit_public_belge_&_europ-Index-Education
 SUMMARY:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 - Gro
 	upe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230119T080000Z
 DTEND:20230119T100000Z
 DESCRIPTION:Droit public belge & europ - Jaumotte - AS1 - Groupe A1\, AS1 -
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 UID:Cours-924-3-Sciences_economiques-Index-Education
 SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
 	 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220928T081500Z
 DTEND:20220928T101500Z
 DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 UID:Cours-932-11-Sciences_economiques-Index-Education
 SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1
 	 - Groupe B2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221121T121500Z
 DTEND:20221121T141500Z
 DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\,
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 UID:Cours-1381-2-Sciences_economiques-Index-Education
 SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
 	 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220919T133000Z
 DTEND:20220919T153000Z
 DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 UID:Cours-1381-4-Sciences_economiques-Index-Education
 SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
 	 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221003T133000Z
 DTEND:20221003T153000Z
 DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 UID:Cours-1381-5-Sciences_economiques-Index-Education
 SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
 	 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221010T133000Z
 DTEND:20221010T153000Z
 DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 UID:Cours-1381-6-Sciences_economiques-Index-Education
 SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
 	 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221017T133000Z
 DTEND:20221017T153000Z
 DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 UID:Cours-1381-7-Sciences_economiques-Index-Education
 SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
 	 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221024T133000Z
 DTEND:20221024T153000Z
 DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 UID:Cours-1381-9-Sciences_economiques-Index-Education
 SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
 	 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221107T143000Z
 DTEND:20221107T163000Z
 DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 UID:Cours-1381-10-Sciences_economiques-Index-Education
 SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
 	 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221114T143000Z
 DTEND:20221114T163000Z
 DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 UID:Cours-1381-11-Sciences_economiques-Index-Education
 SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
 	 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221121T143000Z
 DTEND:20221121T163000Z
 DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 UID:Cours-1627-19-Sciences_economiques-Index-Education
 SUMMARY:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1
 	 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230118T080000Z
 DTEND:20230118T100000Z
 DESCRIPTION:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\,
@@ -337,7 +337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1222-2-Francais-Index-Education
 SUMMARY:Français - Simar - AS1 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220923T081500Z
 DTEND:20220923T101500Z
 DESCRIPTION:Français - Simar - AS1 - Groupe A2
@@ -346,7 +346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1222-3-Francais-Index-Education
 SUMMARY:Français - Simar - AS1 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220930T081500Z
 DTEND:20220930T101500Z
 DESCRIPTION:Français - Simar - AS1 - Groupe A2
@@ -355,7 +355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1222-4-Francais-Index-Education
 SUMMARY:Français - Simar - AS1 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221007T081500Z
 DTEND:20221007T101500Z
 DESCRIPTION:Français - Simar - AS1 - Groupe A2
@@ -364,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1222-5-Francais-Index-Education
 SUMMARY:Français - Simar - AS1 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221014T081500Z
 DTEND:20221014T101500Z
 DESCRIPTION:Français - Simar - AS1 - Groupe A2
@@ -373,7 +373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1222-6-Francais-Index-Education
 SUMMARY:Français - Simar - AS1 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221021T081500Z
 DTEND:20221021T101500Z
 DESCRIPTION:Français - Simar - AS1 - Groupe A2
@@ -382,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1222-11-Francais-Index-Education
 SUMMARY:Français - Simar - AS1 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221125T091500Z
 DTEND:20221125T111500Z
 DESCRIPTION:Français - Simar - AS1 - Groupe A2
@@ -391,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1371-5-Francais-Index-Education
 SUMMARY:Français - Wlomainck - AS1 - Groupe A1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221013T060000Z
 DTEND:20221013T080000Z
 DESCRIPTION:Français - Wlomainck - AS1 - Groupe A1
@@ -400,7 +400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1372-5-Francais-Index-Education
 SUMMARY:Français - Wlomainck - AS1 - Groupe A1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221013T081500Z
 DTEND:20221013T101500Z
 DESCRIPTION:Français - Wlomainck - AS1 - Groupe A1
@@ -409,7 +409,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1454-3-Francais-Index-Education
 SUMMARY:Français - Simar - AS1 - Groupe B2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220929T080000Z
 DTEND:20220929T100000Z
 DESCRIPTION:Français - Simar - AS1 - Groupe B2
@@ -418,7 +418,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1454-7-Francais-Index-Education
 SUMMARY:Français - Simar - AS1 - Groupe B2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221027T080000Z
 DTEND:20221027T100000Z
 DESCRIPTION:Français - Simar - AS1 - Groupe B2
@@ -427,7 +427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1970-27-Travaux_diriges-Index-Education
 SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230317T091500Z
 DTEND:20230317T111500Z
 DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A1
@@ -436,7 +436,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2532-27-Travaux_diriges-Index-Education
 SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230317T143000Z
 DTEND:20230317T163000Z
 DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B2
@@ -445,7 +445,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2798-35-Travaux_diriges-Index-Education
 SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe B2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230511T111500Z
 DTEND:20230511T131500Z
 DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe B2
@@ -454,7 +454,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2804-22-Travaux_diriges-Index-Education
 SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230210T091500Z
 DTEND:20230210T111500Z
 DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A2
@@ -463,7 +463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2962-32-Travaux_diriges-Index-Education
 SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230417T133000Z
 DTEND:20230417T153000Z
 DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A2
@@ -472,7 +472,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2962-33-Travaux_diriges-Index-Education
 SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230424T133000Z
 DTEND:20230424T153000Z
 DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A2
@@ -481,7 +481,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2962-35-Travaux_diriges-Index-Education
 SUMMARY:Travaux dirigés - Fonteneau - AS1 - Groupe A2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230508T133000Z
 DTEND:20230508T153000Z
 DESCRIPTION:Travaux dirigés - Fonteneau - AS1 - Groupe A2
@@ -491,7 +491,7 @@ BEGIN:VEVENT
 UID:Cours-1617-18-Approches_sociologiques-Index-Education
 SUMMARY:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe
 	 A2\, AS1 - Groupe B1\, AS1 - Groupe B2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230113T080000Z
 DTEND:20230113T100000Z
 DESCRIPTION:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Gr
@@ -501,7 +501,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2302-23-Droit_de_la_jeunesse-Index-Education
 SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230217T091500Z
 DTEND:20230217T111500Z
 DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
@@ -511,7 +511,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2302-29-Droit_de_la_jeunesse-Index-Education
 SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230331T081500Z
 DTEND:20230331T101500Z
 DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
@@ -521,7 +521,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2302-32-Droit_de_la_jeunesse-Index-Education
 SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230421T081500Z
 DTEND:20230421T101500Z
 DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
@@ -531,7 +531,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2302-35-Droit_de_la_jeunesse-Index-Education
 SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230512T081500Z
 DTEND:20230512T101500Z
 DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
@@ -541,7 +541,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2302-36-Droit_de_la_jeunesse-Index-Education
 SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230519T081500Z
 DTEND:20230519T101500Z
 DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
@@ -551,7 +551,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2302-37-Droit_de_la_jeunesse-Index-Education
 SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230526T081500Z
 DTEND:20230526T101500Z
 DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
@@ -561,7 +561,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2302-38-Droit_de_la_jeunesse-Index-Education
 SUMMARY:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230602T081500Z
 DTEND:20230602T101500Z
 DESCRIPTION:Droit de la jeunesse - Guilmot - AS2 - Groupe C1\, AS2 - Groupe
@@ -571,7 +571,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2277-35-Droit_des_etrangers-Index-Education
 SUMMARY:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230512T111500Z
 DTEND:20230512T131500Z
 DESCRIPTION:Droit des étrangers - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
@@ -582,7 +582,7 @@ BEGIN:VEVENT
 UID:Cours-2904-23-Droit_social_approfondi-Index-Education
 SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
 	 C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230217T121500Z
 DTEND:20230217T141500Z
 DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
@@ -593,7 +593,7 @@ BEGIN:VEVENT
 UID:Cours-2904-29-Droit_social_approfondi-Index-Education
 SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
 	 C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230331T111500Z
 DTEND:20230331T131500Z
 DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
@@ -604,7 +604,7 @@ BEGIN:VEVENT
 UID:Cours-2904-32-Droit_social_approfondi-Index-Education
 SUMMARY:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe
 	 C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230421T111500Z
 DTEND:20230421T131500Z
 DESCRIPTION:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Gr
@@ -614,7 +614,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-307-2-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220921T133000Z
 DTEND:20220921T153000Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -623,7 +623,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-310-4-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221005T133000Z
 DTEND:20221005T153000Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -632,7 +632,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-312-2-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220921T111500Z
 DTEND:20220921T131500Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
@@ -641,7 +641,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-312-3-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220928T111500Z
 DTEND:20220928T131500Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
@@ -650,7 +650,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-312-4-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221005T111500Z
 DTEND:20221005T131500Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
@@ -659,7 +659,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-312-5-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221012T111500Z
 DTEND:20221012T131500Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
@@ -668,7 +668,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-312-6-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221019T111500Z
 DTEND:20221019T131500Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
@@ -677,7 +677,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-312-7-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221026T111500Z
 DTEND:20221026T131500Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D2
@@ -686,7 +686,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-312-11-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221123T121500Z
 DTEND:20221123T141500Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe D2
@@ -695,7 +695,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1211-5-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221012T133000Z
 DTEND:20221012T153000Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -704,7 +704,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1211-6-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221019T133000Z
 DTEND:20221019T153000Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -713,7 +713,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1211-11-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221123T143000Z
 DTEND:20221123T163000Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C2
@@ -722,7 +722,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1219-3-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220928T133000Z
 DTEND:20220928T153000Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -731,7 +731,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1219-7-Droit_du_travail-Index-Education
 SUMMARY:Droit du travail - Cassiers - AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221026T133000Z
 DTEND:20221026T153000Z
 DESCRIPTION:Droit du travail - Cassiers - AS2 - Groupe C2
@@ -741,7 +741,7 @@ BEGIN:VEVENT
 UID:Cours-350-2-Economie_sociale-Index-Education
 SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
 	roupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220919T111500Z
 DTEND:20220919T131500Z
 DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
@@ -752,7 +752,7 @@ BEGIN:VEVENT
 UID:Cours-350-5-Economie_sociale-Index-Education
 SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
 	roupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221010T111500Z
 DTEND:20221010T131500Z
 DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
@@ -763,7 +763,7 @@ BEGIN:VEVENT
 UID:Cours-350-6-Economie_sociale-Index-Education
 SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
 	roupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221017T111500Z
 DTEND:20221017T131500Z
 DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
@@ -774,7 +774,7 @@ BEGIN:VEVENT
 UID:Cours-350-7-Economie_sociale-Index-Education
 SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
 	roupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221024T111500Z
 DTEND:20221024T131500Z
 DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
@@ -785,7 +785,7 @@ BEGIN:VEVENT
 UID:Cours-351-3-Economie_sociale-Index-Education
 SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
 	roupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220926T081500Z
 DTEND:20220926T101500Z
 DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
@@ -796,7 +796,7 @@ BEGIN:VEVENT
 UID:Cours-351-5-Economie_sociale-Index-Education
 SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
 	roupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221010T081500Z
 DTEND:20221010T101500Z
 DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
@@ -807,7 +807,7 @@ BEGIN:VEVENT
 UID:Cours-1345-2-Economie_sociale-Index-Education
 SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
 	roupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220921T081500Z
 DTEND:20220921T101500Z
 DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
@@ -818,7 +818,7 @@ BEGIN:VEVENT
 UID:Cours-1345-6-Economie_sociale-Index-Education
 SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
 	roupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221019T081500Z
 DTEND:20221019T101500Z
 DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
@@ -829,7 +829,7 @@ BEGIN:VEVENT
 UID:Cours-1345-14-Economie_sociale-Index-Education
 SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
 	roupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221214T091500Z
 DTEND:20221214T111500Z
 DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
@@ -840,7 +840,7 @@ BEGIN:VEVENT
 UID:Cours-1629-19-Economie_sociale-Index-Education
 SUMMARY:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - G
 	roupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230120T121500Z
 DTEND:20230120T141500Z
 DESCRIPTION:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2
@@ -851,7 +851,7 @@ BEGIN:VEVENT
 UID:Cours-1620-19-Anglais-Index-Education
 SUMMARY:Anglais - Fetai - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe 
 	D1\, AS2 - Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230119T121500Z
 DTEND:20230119T141500Z
 DESCRIPTION:Anglais - Fetai - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Gro
@@ -862,7 +862,7 @@ BEGIN:VEVENT
 UID:Cours-339-4-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221007T111500Z
 DTEND:20221007T131500Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
@@ -873,7 +873,7 @@ BEGIN:VEVENT
 UID:Cours-340-2-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220919T060000Z
 DTEND:20220919T080000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
@@ -884,7 +884,7 @@ BEGIN:VEVENT
 UID:Cours-340-3-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220926T060000Z
 DTEND:20220926T080000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
@@ -895,7 +895,7 @@ BEGIN:VEVENT
 UID:Cours-340-4-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221003T060000Z
 DTEND:20221003T080000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
@@ -906,7 +906,7 @@ BEGIN:VEVENT
 UID:Cours-340-5-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221010T060000Z
 DTEND:20221010T080000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
@@ -917,7 +917,7 @@ BEGIN:VEVENT
 UID:Cours-340-6-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221017T060000Z
 DTEND:20221017T080000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
@@ -928,7 +928,7 @@ BEGIN:VEVENT
 UID:Cours-340-7-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221024T060000Z
 DTEND:20221024T080000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
@@ -939,7 +939,7 @@ BEGIN:VEVENT
 UID:Cours-341-12-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221202T070000Z
 DTEND:20221202T090000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
@@ -950,7 +950,7 @@ BEGIN:VEVENT
 UID:Cours-343-14-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221215T091500Z
 DTEND:20221215T111500Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
@@ -961,7 +961,7 @@ BEGIN:VEVENT
 UID:Cours-736-13-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221208T070000Z
 DTEND:20221208T090000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS
@@ -972,7 +972,7 @@ BEGIN:VEVENT
 UID:Cours-1178-12-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
 	Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221202T091500Z
 DTEND:20221202T111500Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
@@ -983,7 +983,7 @@ BEGIN:VEVENT
 UID:Cours-1179-3-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
 	Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220929T060000Z
 DTEND:20220929T080000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
@@ -994,7 +994,7 @@ BEGIN:VEVENT
 UID:Cours-1404-15-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
 	Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221222T143000Z
 DTEND:20221222T163000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
@@ -1005,7 +1005,7 @@ BEGIN:VEVENT
 UID:Cours-1642-3-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
 	Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220928T060000Z
 DTEND:20220928T080000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
@@ -1016,7 +1016,7 @@ BEGIN:VEVENT
 UID:Cours-1642-5-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
 	Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221012T060000Z
 DTEND:20221012T080000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
@@ -1027,7 +1027,7 @@ BEGIN:VEVENT
 UID:Cours-1642-6-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
 	Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221019T060000Z
 DTEND:20221019T080000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
@@ -1038,7 +1038,7 @@ BEGIN:VEVENT
 UID:Cours-1642-11-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
 	Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221123T070000Z
 DTEND:20221123T090000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
@@ -1049,7 +1049,7 @@ BEGIN:VEVENT
 UID:Cours-1642-13-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
 	Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221207T070000Z
 DTEND:20221207T090000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
@@ -1060,7 +1060,7 @@ BEGIN:VEVENT
 UID:Cours-1642-14-Meth_enq_soc_et_tech_rap_soc-Index-Education
 SUMMARY:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - 
 	Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221214T070000Z
 DTEND:20221214T090000Z
 DESCRIPTION:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS
@@ -1071,7 +1071,7 @@ BEGIN:VEVENT
 UID:Cours-2666-25-Methodo_serv_soc_individuel-Index-Education
 SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 
 	- Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230302T070000Z
 DTEND:20230302T090000Z
 DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, 
@@ -1082,7 +1082,7 @@ BEGIN:VEVENT
 UID:Cours-2666-26-Methodo_serv_soc_individuel-Index-Education
 SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 
 	- Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230309T070000Z
 DTEND:20230309T090000Z
 DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, 
@@ -1093,7 +1093,7 @@ BEGIN:VEVENT
 UID:Cours-2666-27-Methodo_serv_soc_individuel-Index-Education
 SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 
 	- Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230316T070000Z
 DTEND:20230316T090000Z
 DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, 
@@ -1104,7 +1104,7 @@ BEGIN:VEVENT
 UID:Cours-2666-29-Methodo_serv_soc_individuel-Index-Education
 SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 
 	- Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230330T060000Z
 DTEND:20230330T080000Z
 DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, 
@@ -1115,7 +1115,7 @@ BEGIN:VEVENT
 UID:Cours-2696-28-Methodo_serv_soc_individuel-Index-Education
 SUMMARY:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 
 	- Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230323T070000Z
 DTEND:20230323T090000Z
 DESCRIPTION:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, 
@@ -1126,7 +1126,7 @@ BEGIN:VEVENT
 UID:Cours-2991-23-Methodo_serv_soc_individuel-Index-Education
 SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Gro
 	upe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230213T091500Z
 DTEND:20230213T111500Z
 DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 -
@@ -1137,7 +1137,7 @@ BEGIN:VEVENT
 UID:Cours-2991-25-Methodo_serv_soc_individuel-Index-Education
 SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Gro
 	upe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230227T091500Z
 DTEND:20230227T111500Z
 DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 -
@@ -1148,7 +1148,7 @@ BEGIN:VEVENT
 UID:Cours-2991-27-Methodo_serv_soc_individuel-Index-Education
 SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Gro
 	upe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230313T091500Z
 DTEND:20230313T111500Z
 DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 -
@@ -1159,7 +1159,7 @@ BEGIN:VEVENT
 UID:Cours-2992-25-Methodo_serv_soc_individuel-Index-Education
 SUMMARY:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Gro
 	upe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230228T121500Z
 DTEND:20230228T141500Z
 DESCRIPTION:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 -
@@ -1170,7 +1170,7 @@ BEGIN:VEVENT
 UID:Cours-2931-25-Methodo_serv_soc_de_groupe-Index-Education
 SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 - Gr
 	oupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230302T121500Z
 DTEND:20230302T141500Z
 DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 
@@ -1181,7 +1181,7 @@ BEGIN:VEVENT
 UID:Cours-2931-26-Methodo_serv_soc_de_groupe-Index-Education
 SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 - Gr
 	oupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230309T121500Z
 DTEND:20230309T141500Z
 DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 
@@ -1192,7 +1192,7 @@ BEGIN:VEVENT
 UID:Cours-2931-27-Methodo_serv_soc_de_groupe-Index-Education
 SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 - Gr
 	oupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230316T121500Z
 DTEND:20230316T141500Z
 DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 
@@ -1203,7 +1203,7 @@ BEGIN:VEVENT
 UID:Cours-2931-28-Methodo_serv_soc_de_groupe-Index-Education
 SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 - Gr
 	oupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230323T121500Z
 DTEND:20230323T141500Z
 DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 
@@ -1214,7 +1214,7 @@ BEGIN:VEVENT
 UID:Cours-2931-29-Methodo_serv_soc_de_groupe-Index-Education
 SUMMARY:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 - Gr
 	oupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230330T111500Z
 DTEND:20230330T131500Z
 DESCRIPTION:Méthodo serv soc de groupe - Kharkhach - AS2 - Groupe D1\, AS2 
@@ -1225,7 +1225,7 @@ BEGIN:VEVENT
 UID:Cours-2929-25-Methodo_trav_soc_communautaire-Index-Education
 SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230302T143000Z
 DTEND:20230302T163000Z
 DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS
@@ -1236,7 +1236,7 @@ BEGIN:VEVENT
 UID:Cours-2929-26-Methodo_trav_soc_communautaire-Index-Education
 SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230309T143000Z
 DTEND:20230309T163000Z
 DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS
@@ -1247,7 +1247,7 @@ BEGIN:VEVENT
 UID:Cours-2929-27-Methodo_trav_soc_communautaire-Index-Education
 SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230316T143000Z
 DTEND:20230316T163000Z
 DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS
@@ -1258,7 +1258,7 @@ BEGIN:VEVENT
 UID:Cours-2929-28-Methodo_trav_soc_communautaire-Index-Education
 SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230323T143000Z
 DTEND:20230323T163000Z
 DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS
@@ -1269,7 +1269,7 @@ BEGIN:VEVENT
 UID:Cours-2929-29-Methodo_trav_soc_communautaire-Index-Education
 SUMMARY:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - 
 	Groupe D2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230330T133000Z
 DTEND:20230330T153000Z
 DESCRIPTION:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS
@@ -1279,7 +1279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2922-1-Politiques_sociales-Index-Education
 SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220916T133000Z
 DTEND:20220916T153000Z
 DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -1288,7 +1288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2922-2-Politiques_sociales-Index-Education
 SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220923T133000Z
 DTEND:20220923T153000Z
 DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -1297,7 +1297,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2922-3-Politiques_sociales-Index-Education
 SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220930T133000Z
 DTEND:20220930T153000Z
 DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -1306,7 +1306,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2922-4-Politiques_sociales-Index-Education
 SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221007T133000Z
 DTEND:20221007T153000Z
 DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -1315,7 +1315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2922-5-Politiques_sociales-Index-Education
 SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221014T133000Z
 DTEND:20221014T153000Z
 DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -1324,7 +1324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2922-6-Politiques_sociales-Index-Education
 SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221021T133000Z
 DTEND:20221021T153000Z
 DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -1333,7 +1333,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2922-7-Politiques_sociales-Index-Education
 SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221028T133000Z
 DTEND:20221028T153000Z
 DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -1342,7 +1342,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2922-11-Politiques_sociales-Index-Education
 SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221125T143000Z
 DTEND:20221125T163000Z
 DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -1351,7 +1351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2922-12-Politiques_sociales-Index-Education
 SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221202T143000Z
 DTEND:20221202T163000Z
 DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -1360,7 +1360,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2922-13-Politiques_sociales-Index-Education
 SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221209T143000Z
 DTEND:20221209T163000Z
 DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -1369,7 +1369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2922-14-Politiques_sociales-Index-Education
 SUMMARY:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221216T143000Z
 DTEND:20221216T163000Z
 DESCRIPTION:Politiques sociales - Guida - AS2 - Groupe C1\, AS2 - Groupe C2
@@ -1379,7 +1379,7 @@ BEGIN:VEVENT
 UID:Cours-2296-23-Sociologie_urbaine-Index-Education
 SUMMARY:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 -
 	 Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230215T143000Z
 DTEND:20230215T163000Z
 DESCRIPTION:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, A
@@ -1390,7 +1390,7 @@ BEGIN:VEVENT
 UID:Cours-2296-25-Sociologie_urbaine-Index-Education
 SUMMARY:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 -
 	 Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230301T143000Z
 DTEND:20230301T163000Z
 DESCRIPTION:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, A
@@ -1401,7 +1401,7 @@ BEGIN:VEVENT
 UID:Cours-2296-26-Sociologie_urbaine-Index-Education
 SUMMARY:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 -
 	 Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230308T143000Z
 DTEND:20230308T163000Z
 DESCRIPTION:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, A
@@ -1412,7 +1412,7 @@ BEGIN:VEVENT
 UID:Cours-2296-27-Sociologie_urbaine-Index-Education
 SUMMARY:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 -
 	 Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230315T143000Z
 DTEND:20230315T163000Z
 DESCRIPTION:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, A
@@ -1423,7 +1423,7 @@ BEGIN:VEVENT
 UID:Cours-2296-28-Sociologie_urbaine-Index-Education
 SUMMARY:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 -
 	 Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230322T143000Z
 DTEND:20230322T163000Z
 DESCRIPTION:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, A
@@ -1434,7 +1434,7 @@ BEGIN:VEVENT
 UID:Cours-2296-29-Sociologie_urbaine-Index-Education
 SUMMARY:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 -
 	 Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230329T133000Z
 DTEND:20230329T153000Z
 DESCRIPTION:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, A
@@ -1445,7 +1445,7 @@ BEGIN:VEVENT
 UID:Cours-2296-32-Sociologie_urbaine-Index-Education
 SUMMARY:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 -
 	 Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230419T133000Z
 DTEND:20230419T153000Z
 DESCRIPTION:Sociologie urbaine - Mendes Dias Ferreira - AS2 - Groupe C1\, A
@@ -1455,7 +1455,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2298-23-Approches_systemiques-Index-Education
 SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230217T070000Z
 DTEND:20230217T090000Z
 DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe C1\, AS2 - Group
@@ -1465,7 +1465,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2298-27-Approches_systemiques-Index-Education
 SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230317T070000Z
 DTEND:20230317T090000Z
 DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe C1\, AS2 - Group
@@ -1475,7 +1475,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2298-29-Approches_systemiques-Index-Education
 SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230331T060000Z
 DTEND:20230331T080000Z
 DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe C1\, AS2 - Group
@@ -1485,7 +1485,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2298-32-Approches_systemiques-Index-Education
 SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230421T060000Z
 DTEND:20230421T080000Z
 DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe C1\, AS2 - Group
@@ -1495,7 +1495,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2298-35-Approches_systemiques-Index-Education
 SUMMARY:Approches systémiques - Gottlob - AS2 - Groupe C1\, AS2 - Groupe C2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230512T060000Z
 DTEND:20230512T080000Z
 DESCRIPTION:Approches systémiques - Gottlob - AS2 - Groupe C1\, AS2 - Group
@@ -1505,7 +1505,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1517-10-AIP-Index-Education
 SUMMARY:AIP - Mol
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221115T070000Z
 DTEND:20221115T111500Z
 DESCRIPTION:AIP - Mol
@@ -1514,7 +1514,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1590-11-AIP-Index-Education
 SUMMARY:AIP - Marchal
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221122T083000Z
 DTEND:20221122T113000Z
 DESCRIPTION:AIP - Marchal
@@ -1523,7 +1523,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1659-12-AIP-Index-Education
 SUMMARY:AIP - Leroy
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221201T083000Z
 DTEND:20221201T113000Z
 DESCRIPTION:AIP - Leroy
@@ -1532,7 +1532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3158-22-TFE-Index-Education
 SUMMARY:TFE - Guilmot\, Simar - AS3 - Groupe E2\, AS3 - Groupe F1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230207T143000Z
 DTEND:20230207T163000Z
 DESCRIPTION:TFE - Guilmot\, Simar - AS3 - Groupe E2\, AS3 - Groupe F1
@@ -1541,7 +1541,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1143-11-Anglais-Index-Education
 SUMMARY:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221121T091500Z
 DTEND:20221121T111500Z
 DESCRIPTION:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
@@ -1550,7 +1550,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1143-12-Anglais-Index-Education
 SUMMARY:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221128T091500Z
 DTEND:20221128T111500Z
 DESCRIPTION:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
@@ -1559,7 +1559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1143-13-Anglais-Index-Education
 SUMMARY:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221205T091500Z
 DTEND:20221205T111500Z
 DESCRIPTION:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
@@ -1568,7 +1568,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1145-14-Anglais-Index-Education
 SUMMARY:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221212T143000Z
 DTEND:20221212T163000Z
 DESCRIPTION:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
@@ -1577,7 +1577,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1145-15-Anglais-Index-Education
 SUMMARY:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221219T143000Z
 DTEND:20221219T163000Z
 DESCRIPTION:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
@@ -1586,7 +1586,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1252-5-Anglais-Index-Education
 SUMMARY:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221011T060000Z
 DTEND:20221011T080000Z
 DESCRIPTION:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
@@ -1595,7 +1595,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1252-15-Anglais-Index-Education
 SUMMARY:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221220T070000Z
 DTEND:20221220T090000Z
 DESCRIPTION:Anglais - Fetai - AS3 - Groupe F1\, AS3 - Groupe F2
@@ -1605,7 +1605,7 @@ BEGIN:VEVENT
 UID:Cours-1244-11-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Corduant - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - 
 	Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221121T070000Z
 DTEND:20221121T090000Z
 DESCRIPTION:Néerlandais - Corduant - AS3 - Groupe E1\, AS3 - Groupe E2\, AS
@@ -1616,7 +1616,7 @@ BEGIN:VEVENT
 UID:Cours-1623-18-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Corduant - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - 
 	Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230111T070000Z
 DTEND:20230111T100000Z
 DESCRIPTION:Néerlandais - Corduant - AS3 - Groupe E1\, AS3 - Groupe E2\, AS
@@ -1626,7 +1626,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-407-12-Methodo_serv_soc_ind-Index-Education
 SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221128T121500Z
 DTEND:20221128T141500Z
 DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
@@ -1636,7 +1636,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-408-12-Methodo_serv_soc_ind-Index-Education
 SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221128T143000Z
 DTEND:20221128T163000Z
 DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
@@ -1646,7 +1646,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-416-9-Methodo_serv_soc_ind-Index-Education
 SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221107T070000Z
 DTEND:20221107T090000Z
 DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
@@ -1656,7 +1656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-417-9-Methodo_serv_soc_ind-Index-Education
 SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221107T091500Z
 DTEND:20221107T111500Z
 DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
@@ -1666,7 +1666,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-429-14-Methodo_serv_soc_ind-Index-Education
 SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221213T143000Z
 DTEND:20221213T163000Z
 DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe E1\, AS3 - Groupe
@@ -1676,7 +1676,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-435-14-Methodo_serv_soc_ind-Index-Education
 SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221213T121500Z
 DTEND:20221213T141500Z
 DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
@@ -1686,7 +1686,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1268-3-Methodo_serv_soc_ind-Index-Education
 SUMMARY:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220930T111500Z
 DTEND:20220930T131500Z
 DESCRIPTION:Méthodo serv soc ind - Guilmot - AS3 - Groupe F1\, AS3 - Groupe
@@ -1697,7 +1697,7 @@ BEGIN:VEVENT
 UID:Cours-516-10-Methodo_serv_soc_groupe-Index-Education
 SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F
 	2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221114T121500Z
 DTEND:20221114T141500Z
 DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Grou
@@ -1708,7 +1708,7 @@ BEGIN:VEVENT
 UID:Cours-2824-22-Methodo_serv_soc_groupe-Index-Education
 SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
 	2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230207T121500Z
 DTEND:20230207T141500Z
 DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
@@ -1719,7 +1719,7 @@ BEGIN:VEVENT
 UID:Cours-2825-32-Methodo_serv_soc_groupe-Index-Education
 SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
 	2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230418T111500Z
 DTEND:20230418T151500Z
 DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
@@ -1730,7 +1730,7 @@ BEGIN:VEVENT
 UID:Cours-2828-25-Methodo_serv_soc_groupe-Index-Education
 SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
 	2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230227T070000Z
 DTEND:20230227T090000Z
 DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
@@ -1741,7 +1741,7 @@ BEGIN:VEVENT
 UID:Cours-3135-35-Methodo_serv_soc_groupe-Index-Education
 SUMMARY:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E
 	2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230508T060000Z
 DTEND:20230508T100000Z
 DESCRIPTION:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Grou
@@ -1751,7 +1751,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1240-2-Methodologies_comparees-Index-Education
 SUMMARY:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220923T111500Z
 DTEND:20220923T131500Z
 DESCRIPTION:Méthodologies comparées - Guilmot\, Misrahi - AS3 - Groupe F2
@@ -1760,7 +1760,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1458-10-Tech_&_ex_anim_et_cond_reunion-Index-Education
 SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221114T070000Z
 DTEND:20221114T090000Z
 DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
@@ -1769,7 +1769,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1467-9-Tech_&_ex_anim_et_cond_reunion-Index-Education
 SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221108T091500Z
 DTEND:20221108T111500Z
 DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
@@ -1779,7 +1779,7 @@ BEGIN:VEVENT
 UID:Cours-1471-14-Tech_&_ex_anim_et_cond_reunion-Index-Education
 SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1\, AS3 - 
 	Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221212T091500Z
 DTEND:20221212T111500Z
 DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1\, AS
@@ -1789,7 +1789,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1475-9-Tech_&_ex_anim_et_cond_reunion-Index-Education
 SUMMARY:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221107T121500Z
 DTEND:20221107T141500Z
 DESCRIPTION:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F2
@@ -1799,7 +1799,7 @@ BEGIN:VEVENT
 UID:Cours-2722-26-Methodo_trav_soc_communautaire-Index-Education
 SUMMARY:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - G
 	roupe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230307T121500Z
 DTEND:20230307T163000Z
 DESCRIPTION:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3
@@ -1810,7 +1810,7 @@ BEGIN:VEVENT
 UID:Cours-1606-18-Quest_app_socio-_sante_mentale-Index-Education
 SUMMARY:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Gr
 	oupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230109T080000Z
 DTEND:20230109T100000Z
 DESCRIPTION:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 
@@ -1821,7 +1821,7 @@ BEGIN:VEVENT
 UID:Cours-2706-25-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1\, AS3 - G
 	roupe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230228T080000Z
 DTEND:20230228T111500Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1\, AS3
@@ -1831,7 +1831,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2909-26-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230306T143000Z
 DTEND:20230306T163000Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
@@ -1840,7 +1840,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3050-23-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230213T121500Z
 DTEND:20230213T141500Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
@@ -1849,7 +1849,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3050-26-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230306T121500Z
 DTEND:20230306T141500Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
@@ -1858,7 +1858,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3050-27-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230313T121500Z
 DTEND:20230313T141500Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
@@ -1867,7 +1867,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3050-32-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230417T111500Z
 DTEND:20230417T131500Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
@@ -1876,7 +1876,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3050-35-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230508T111500Z
 DTEND:20230508T131500Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
@@ -1885,7 +1885,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3051-26-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230307T091500Z
 DTEND:20230307T111500Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
@@ -1894,7 +1894,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3137-37-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230522T111500Z
 DTEND:20230522T131500Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
@@ -1903,7 +1903,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3149-23-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230213T143000Z
 DTEND:20230213T163000Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
@@ -1912,7 +1912,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3149-27-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230313T143000Z
 DTEND:20230313T163000Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
@@ -1921,7 +1921,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3149-37-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230522T133000Z
 DTEND:20230522T153000Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
@@ -1930,7 +1930,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3173-33-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230424T111500Z
 DTEND:20230424T131500Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E1
@@ -1939,7 +1939,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3177-22-Quest_spe_deonto_&_eth_pro_AS-Index-Education
 SUMMARY:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230206T143000Z
 DTEND:20230206T163000Z
 DESCRIPTION:Quest spé déonto & éth pro AS - Bosquet - AS3 - Groupe E2
@@ -1949,7 +1949,7 @@ BEGIN:VEVENT
 UID:Cours-1632-18-Psycho_dynamique-Index-Education
 SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3
 	 - Groupe F1\, AS3 - Groupe F2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230110T080000Z
 DTEND:20230110T100000Z
 DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2\,
@@ -1959,7 +1959,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1582-13-TP_visites_et_seminaires_2-Index-Education
 SUMMARY:TP\, visites et séminaires 2 - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221205T121500Z
 DTEND:20221205T151500Z
 DESCRIPTION:TP\, visites et séminaires 2 - BD2
@@ -1968,7 +1968,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-666-9-Droit_2-Index-Education
 SUMMARY:Droit 2 - Jaumotte - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221110T121500Z
 DTEND:20221110T151500Z
 DESCRIPTION:Droit 2 - Jaumotte - BD2
@@ -1977,7 +1977,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-666-10-Droit_2-Index-Education
 SUMMARY:Droit 2 - Jaumotte - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221117T121500Z
 DTEND:20221117T151500Z
 DESCRIPTION:Droit 2 - Jaumotte - BD2
@@ -1986,7 +1986,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-666-11-Droit_2-Index-Education
 SUMMARY:Droit 2 - Jaumotte - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221124T121500Z
 DTEND:20221124T151500Z
 DESCRIPTION:Droit 2 - Jaumotte - BD2
@@ -1995,7 +1995,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-666-13-Droit_2-Index-Education
 SUMMARY:Droit 2 - Jaumotte - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221208T121500Z
 DTEND:20221208T151500Z
 DESCRIPTION:Droit 2 - Jaumotte - BD2
@@ -2004,7 +2004,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1362-7-Droit_2-Index-Education
 SUMMARY:Droit 2 - Jaumotte - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221027T133000Z
 DTEND:20221027T153000Z
 DESCRIPTION:Droit 2 - Jaumotte - BD2
@@ -2013,7 +2013,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1374-2-Droit_2-Index-Education
 SUMMARY:Droit 2 - Jaumotte - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220922T133000Z
 DTEND:20220922T153000Z
 DESCRIPTION:Droit 2 - Jaumotte - BD2
@@ -2022,7 +2022,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1374-3-Droit_2-Index-Education
 SUMMARY:Droit 2 - Jaumotte - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220929T133000Z
 DTEND:20220929T153000Z
 DESCRIPTION:Droit 2 - Jaumotte - BD2
@@ -2031,7 +2031,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1377-5-Droit_2-Index-Education
 SUMMARY:Droit 2 - Jaumotte - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221013T111500Z
 DTEND:20221013T131500Z
 DESCRIPTION:Droit 2 - Jaumotte - BD2
@@ -2040,7 +2040,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1377-6-Droit_2-Index-Education
 SUMMARY:Droit 2 - Jaumotte - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221020T111500Z
 DTEND:20221020T131500Z
 DESCRIPTION:Droit 2 - Jaumotte - BD2
@@ -2049,7 +2049,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-812-13-Litteratures_etrangeres-Index-Education
 SUMMARY:Littératures étrangères - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221207T091500Z
 DTEND:20221207T111500Z
 DESCRIPTION:Littératures étrangères - BD2
@@ -2058,7 +2058,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-815-4-Litteratures_etrangeres-Index-Education
 SUMMARY:Littératures étrangères - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221005T081500Z
 DTEND:20221005T101500Z
 DESCRIPTION:Littératures étrangères - BD2
@@ -2067,7 +2067,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-817-10-Litteratures_etrangeres-Index-Education
 SUMMARY:Littératures étrangères - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221114T091500Z
 DTEND:20221114T111500Z
 DESCRIPTION:Littératures étrangères - BD2
@@ -2076,7 +2076,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-1079-12-Litteratures_francophones-Index-Education
 SUMMARY:Littératures francophones - Ghigny - BD2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221130T091500Z
 DTEND:20221130T111500Z
 DESCRIPTION:Littératures francophones - Ghigny - BD2
@@ -2085,7 +2085,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-710-3-Neerlandais-Index-Education
 SUMMARY:Néerlandais - Corduant - BD3
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20220926T111500Z
 DTEND:20220926T131500Z
 DESCRIPTION:Néerlandais - Corduant - BD3
@@ -2094,7 +2094,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-716-10-Anglais-Index-Education
 SUMMARY:Anglais - Laurent - BD3
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20221116T091500Z
 DTEND:20221116T111500Z
 DESCRIPTION:Anglais - Laurent - BD3
@@ -2103,7 +2103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2422-22-Analyse_des_politiques_soc-Index-Education
 SUMMARY:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230208T183000Z
 DTEND:20230208T203000Z
 DESCRIPTION:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
@@ -2112,7 +2112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2422-23-Analyse_des_politiques_soc-Index-Education
 SUMMARY:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230215T183000Z
 DTEND:20230215T203000Z
 DESCRIPTION:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
@@ -2121,7 +2121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2422-25-Analyse_des_politiques_soc-Index-Education
 SUMMARY:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230301T183000Z
 DTEND:20230301T203000Z
 DESCRIPTION:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
@@ -2130,7 +2130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2422-26-Analyse_des_politiques_soc-Index-Education
 SUMMARY:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230308T183000Z
 DTEND:20230308T203000Z
 DESCRIPTION:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
@@ -2139,7 +2139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2422-27-Analyse_des_politiques_soc-Index-Education
 SUMMARY:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230315T183000Z
 DTEND:20230315T203000Z
 DESCRIPTION:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
@@ -2148,7 +2148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2422-28-Analyse_des_politiques_soc-Index-Education
 SUMMARY:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230322T183000Z
 DTEND:20230322T203000Z
 DESCRIPTION:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
@@ -2157,7 +2157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2422-29-Analyse_des_politiques_soc-Index-Education
 SUMMARY:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230329T173000Z
 DTEND:20230329T193000Z
 DESCRIPTION:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
@@ -2166,7 +2166,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2422-32-Analyse_des_politiques_soc-Index-Education
 SUMMARY:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230419T173000Z
 DTEND:20230419T193000Z
 DESCRIPTION:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
@@ -2175,7 +2175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2422-33-Analyse_des_politiques_soc-Index-Education
 SUMMARY:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230426T173000Z
 DTEND:20230426T193000Z
 DESCRIPTION:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
@@ -2184,7 +2184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2422-36-Analyse_des_politiques_soc-Index-Education
 SUMMARY:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230517T173000Z
 DTEND:20230517T193000Z
 DESCRIPTION:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
@@ -2193,7 +2193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2422-37-Analyse_des_politiques_soc-Index-Education
 SUMMARY:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230524T173000Z
 DTEND:20230524T193000Z
 DESCRIPTION:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
@@ -2202,7 +2202,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2361-23-Outils_expertise_evaluation-Index-Education
 SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230213T163000Z
 DTEND:20230213T203000Z
 DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
@@ -2211,7 +2211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2361-25-Outils_expertise_evaluation-Index-Education
 SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230227T163000Z
 DTEND:20230227T203000Z
 DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
@@ -2220,7 +2220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2361-28-Outils_expertise_evaluation-Index-Education
 SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230320T163000Z
 DTEND:20230320T203000Z
 DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
@@ -2229,7 +2229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2361-29-Outils_expertise_evaluation-Index-Education
 SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230327T153000Z
 DTEND:20230327T193000Z
 DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
@@ -2238,7 +2238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2361-33-Outils_expertise_evaluation-Index-Education
 SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230424T153000Z
 DTEND:20230424T193000Z
 DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
@@ -2247,7 +2247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2420-22-Outils_expertise_evaluation-Index-Education
 SUMMARY:Outils expertise évaluation - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230206T163000Z
 DTEND:20230206T203000Z
 DESCRIPTION:Outils expertise évaluation - Fonteneau - MIAS 2
@@ -2256,7 +2256,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2459-27-Analyse_et_eval_processus_part-Index-Education
 SUMMARY:Analyse et éval processus part - TOUZRI - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230318T080000Z
 DTEND:20230318T163000Z
 DESCRIPTION:Analyse et éval processus part - TOUZRI - MIAS 2
@@ -2265,7 +2265,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2459-35-Analyse_et_eval_processus_part-Index-Education
 SUMMARY:Analyse et éval processus part - TOUZRI - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230513T070000Z
 DTEND:20230513T153000Z
 DESCRIPTION:Analyse et éval processus part - TOUZRI - MIAS 2
@@ -2274,7 +2274,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2375-25-Quest_spe_deonto_&_eth-Index-Education
 SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230228T163000Z
 DTEND:20230228T183000Z
 DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
@@ -2283,7 +2283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2375-27-Quest_spe_deonto_&_eth-Index-Education
 SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230314T163000Z
 DTEND:20230314T183000Z
 DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
@@ -2292,7 +2292,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2375-32-Quest_spe_deonto_&_eth-Index-Education
 SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230418T153000Z
 DTEND:20230418T173000Z
 DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
@@ -2301,7 +2301,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2375-33-Quest_spe_deonto_&_eth-Index-Education
 SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230425T153000Z
 DTEND:20230425T173000Z
 DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
@@ -2310,7 +2310,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2376-26-Quest_spe_deonto_&_eth-Index-Education
 SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230307T163000Z
 DTEND:20230307T203000Z
 DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
@@ -2319,7 +2319,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2376-28-Quest_spe_deonto_&_eth-Index-Education
 SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230321T163000Z
 DTEND:20230321T203000Z
 DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
@@ -2328,7 +2328,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2376-35-Quest_spe_deonto_&_eth-Index-Education
 SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230509T153000Z
 DTEND:20230509T193000Z
 DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
@@ -2337,7 +2337,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2404-23-Quest_spe_deonto_&_eth-Index-Education
 SUMMARY:Quest spé déonto & éth - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230214T163000Z
 DTEND:20230214T183000Z
 DESCRIPTION:Quest spé déonto & éth - Fonteneau - MIAS 2
@@ -2346,7 +2346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-21-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230201T163000Z
 DTEND:20230201T183000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2355,7 +2355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-22-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230208T163000Z
 DTEND:20230208T183000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2364,7 +2364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-23-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230215T163000Z
 DTEND:20230215T183000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2373,7 +2373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-25-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230301T163000Z
 DTEND:20230301T183000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2382,7 +2382,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-26-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230308T163000Z
 DTEND:20230308T183000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2391,7 +2391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-27-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230315T163000Z
 DTEND:20230315T183000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2400,7 +2400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-28-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230322T163000Z
 DTEND:20230322T183000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2409,7 +2409,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-29-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230329T153000Z
 DTEND:20230329T173000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2418,7 +2418,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-32-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230419T153000Z
 DTEND:20230419T173000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2427,7 +2427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-33-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230426T153000Z
 DTEND:20230426T173000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2436,7 +2436,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-36-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230517T153000Z
 DTEND:20230517T173000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2445,7 +2445,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2424-37-Dynam_&_chang_organisations-Index-Education
 SUMMARY:Dynam & chang organisations - Guida - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230524T153000Z
 DTEND:20230524T173000Z
 DESCRIPTION:Dynam & chang organisations - Guida - MIAS 2
@@ -2454,7 +2454,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2384-25-Strategies_com._marketing-Index-Education
 SUMMARY:Stratégies com. marketing - Isimba - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230228T183000Z
 DTEND:20230228T203000Z
 DESCRIPTION:Stratégies com. marketing - Isimba - MIAS 2
@@ -2463,7 +2463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2384-27-Strategies_com._marketing-Index-Education
 SUMMARY:Stratégies com. marketing - Isimba - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230314T183000Z
 DTEND:20230314T203000Z
 DESCRIPTION:Stratégies com. marketing - Isimba - MIAS 2
@@ -2472,7 +2472,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2384-32-Strategies_com._marketing-Index-Education
 SUMMARY:Stratégies com. marketing - Isimba - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230418T173000Z
 DTEND:20230418T193000Z
 DESCRIPTION:Stratégies com. marketing - Isimba - MIAS 2
@@ -2481,7 +2481,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2384-33-Strategies_com._marketing-Index-Education
 SUMMARY:Stratégies com. marketing - Isimba - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230425T173000Z
 DTEND:20230425T193000Z
 DESCRIPTION:Stratégies com. marketing - Isimba - MIAS 2
@@ -2490,7 +2490,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2387-36-Strategies_com._marketing-Index-Education
 SUMMARY:Stratégies com. marketing - Isimba - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230516T153000Z
 DTEND:20230516T193000Z
 DESCRIPTION:Stratégies com. marketing - Isimba - MIAS 2
@@ -2499,7 +2499,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2387-37-Strategies_com._marketing-Index-Education
 SUMMARY:Stratégies com. marketing - Isimba - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230523T153000Z
 DTEND:20230523T193000Z
 DESCRIPTION:Stratégies com. marketing - Isimba - MIAS 2
@@ -2508,7 +2508,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2403-23-Strategies_com._marketing-Index-Education
 SUMMARY:Stratégies com. marketing - Isimba - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230214T183000Z
 DTEND:20230214T203000Z
 DESCRIPTION:Stratégies com. marketing - Isimba - MIAS 2
@@ -2517,7 +2517,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2405-38-Strategies_com._marketing-Index-Education
 SUMMARY:Stratégies com. marketing - Isimba - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230530T153000Z
 DTEND:20230530T193000Z
 DESCRIPTION:Stratégies com. marketing - Isimba - MIAS 2
@@ -2526,7 +2526,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2396-33-Seminaire_pratique_budgetaire-Index-Education
 SUMMARY:Séminaire pratique budgétaire - Bernard - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230428T070000Z
 DTEND:20230428T150000Z
 DESCRIPTION:Séminaire pratique budgétaire - Bernard - MIAS 2
@@ -2535,7 +2535,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2397-22-Seminaire_pratique_budgetaire-Index-Education
 SUMMARY:Séminaire pratique budgétaire - Bernard - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230207T163000Z
 DTEND:20230207T203000Z
 DESCRIPTION:Séminaire pratique budgétaire - Bernard - MIAS 2
@@ -2544,7 +2544,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2397-29-Seminaire_pratique_budgetaire-Index-Education
 SUMMARY:Séminaire pratique budgétaire - Bernard - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230328T153000Z
 DTEND:20230328T193000Z
 DESCRIPTION:Séminaire pratique budgétaire - Bernard - MIAS 2
@@ -2553,7 +2553,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2419-26-Projet_international-Index-Education
 SUMMARY:Projet international - Assenmaker - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230306T163000Z
 DTEND:20230306T203000Z
 DESCRIPTION:Projet international - Assenmaker - MIAS 2
@@ -2562,7 +2562,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2419-27-Projet_international-Index-Education
 SUMMARY:Projet international - Assenmaker - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230313T163000Z
 DTEND:20230313T203000Z
 DESCRIPTION:Projet international - Assenmaker - MIAS 2
@@ -2571,7 +2571,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2419-36-Projet_international-Index-Education
 SUMMARY:Projet international - Assenmaker - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230515T153000Z
 DTEND:20230515T193000Z
 DESCRIPTION:Projet international - Assenmaker - MIAS 2
@@ -2580,7 +2580,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2421-32-Projet_international-Index-Education
 SUMMARY:Projet international - Assenmaker - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230417T153000Z
 DTEND:20230417T193000Z
 DESCRIPTION:Projet international - Assenmaker - MIAS 2
@@ -2589,7 +2589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2452-25-Pratiques_evaluatives-Index-Education
 SUMMARY:Pratiques évaluatives - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230303T080000Z
 DTEND:20230303T163000Z
 DESCRIPTION:Pratiques évaluatives - Fonteneau - MIAS 2
@@ -2598,7 +2598,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-2453-28-Pratiques_evaluatives-Index-Education
 SUMMARY:Pratiques évaluatives - Fonteneau - MIAS 2
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230324T080000Z
 DTEND:20230324T120000Z
 DESCRIPTION:Pratiques évaluatives - Fonteneau - MIAS 2
@@ -2607,7 +2607,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:Cours-3044-20-Reservation_de_salles-Index-Education
 SUMMARY:Réservation de salles
-DTSTAMP:20230202T092100Z
+DTSTAMP:20230202T094000Z
 DTSTART:20230126T123000Z
 DTEND:20230126T143000Z
 DESCRIPTION:Réservation de salles
