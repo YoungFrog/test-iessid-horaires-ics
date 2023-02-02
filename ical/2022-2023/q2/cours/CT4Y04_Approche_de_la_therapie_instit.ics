@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CT4Y04 Approche de la thérapie instit - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CT4Y04 Approche de la thérapie instit généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221214T101519Z
+UID:Cours-2503-21-Approche_de_la_therapie_instit-Index-Education
+DTSTART:20230204T140000Z
+DTEND:20230204T160000Z
+SUMMARY;LANGUAGE=fr:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Approche de la thérapie instit\nEnseignant : Didier\nPromotion : BSP TPSM\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221214T101519Z
+UID:Cours-2503-25-Approche_de_la_therapie_instit-Index-Education
+DTSTART:20230304T140000Z
+DTEND:20230304T160000Z
+SUMMARY;LANGUAGE=fr:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Approche de la thérapie instit\nEnseignant : Didier\nPromotion : BSP TPSM\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221214T101519Z
+UID:Cours-2503-27-Approche_de_la_therapie_instit-Index-Education
+DTSTART:20230318T140000Z
+DTEND:20230318T160000Z
+SUMMARY;LANGUAGE=fr:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Approche de la thérapie instit\nEnseignant : Didier\nPromotion : BSP TPSM\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221214T101519Z
+UID:Cours-2503-28-Approche_de_la_therapie_instit-Index-Education
+DTSTART:20230325T140000Z
+DTEND:20230325T160000Z
+SUMMARY;LANGUAGE=fr:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Approche de la thérapie instit\nEnseignant : Didier\nPromotion : BSP TPSM\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221214T101519Z
+UID:Cours-2503-32-Approche_de_la_therapie_instit-Index-Education
+DTSTART:20230422T130000Z
+DTEND:20230422T150000Z
+SUMMARY;LANGUAGE=fr:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Approche de la thérapie instit\nEnseignant : Didier\nPromotion : BSP TPSM\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221214T101519Z
+UID:Cours-2503-37-Approche_de_la_therapie_instit-Index-Education
+DTSTART:20230527T130000Z
+DTEND:20230527T150000Z
+SUMMARY;LANGUAGE=fr:Approche de la thérapie instit - Didier - BSP TPSM
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Approche de la thérapie instit\nEnseignant : Didier\nPromotion : BSP TPSM\nSalle : 007\n
+END:VEVENT
+END:VCALENDAR

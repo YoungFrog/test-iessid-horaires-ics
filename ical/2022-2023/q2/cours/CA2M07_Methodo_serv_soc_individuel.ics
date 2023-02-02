@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA2M07 Méthodo serv soc individuel - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA2M07 Méthodo serv soc individuel généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102215Z
+UID:Cours-2666-23-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230216T070000Z
+DTEND:20230216T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Meulemeester\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102215Z
+UID:Cours-2666-25-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230302T070000Z
+DTEND:20230302T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Meulemeester\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102215Z
+UID:Cours-2666-26-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230309T070000Z
+DTEND:20230309T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Meulemeester\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102215Z
+UID:Cours-2666-27-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230316T070000Z
+DTEND:20230316T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Meulemeester\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102215Z
+UID:Cours-2666-29-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230330T060000Z
+DTEND:20230330T080000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Meulemeester\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T103939Z
+UID:Cours-2696-28-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230323T070000Z
+DTEND:20230323T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Meulemeester\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T154954Z
+UID:Cours-2991-23-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230213T091500Z
+DTEND:20230213T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Guilmot\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T154954Z
+UID:Cours-2991-25-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230227T091500Z
+DTEND:20230227T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Guilmot\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T154954Z
+UID:Cours-2991-27-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230313T091500Z
+DTEND:20230313T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Guilmot\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T155000Z
+UID:Cours-2992-25-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230228T121500Z
+DTEND:20230228T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Guilmot - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Guilmot\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102402Z
+UID:Cours-3168-25-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230228T091500Z
+DTEND:20230228T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Guilmot\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102402Z
+UID:Cours-3168-26-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230307T091500Z
+DTEND:20230307T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Guilmot\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102402Z
+UID:Cours-3168-27-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230314T091500Z
+DTEND:20230314T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Guilmot\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102413Z
+UID:Cours-3169-25-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230227T121500Z
+DTEND:20230227T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Guilmot - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Guilmot\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102210Z
+UID:Cours-3184-25-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230302T091500Z
+DTEND:20230302T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Meulemeester\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102210Z
+UID:Cours-3184-26-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230309T091500Z
+DTEND:20230309T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Meulemeester\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102210Z
+UID:Cours-3184-27-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230316T091500Z
+DTEND:20230316T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Meulemeester\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102210Z
+UID:Cours-3184-28-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230323T091500Z
+DTEND:20230323T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Meulemeester\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102210Z
+UID:Cours-3184-29-Methodo_serv_soc_individuel-Index-Education
+DTSTART:20230330T081500Z
+DTEND:20230330T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc individuel - Meulemeester - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc individuel\nEnseignant : Meulemeester\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+END:VCALENDAR

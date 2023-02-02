@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CB2R01 Recherche avancée sur internet - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CB2R01 Recherche avancée sur internet généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221208T092452Z
+UID:Cours-1798-26-Recherche_avancee_sur_internet-Index-Education
+DTSTART:20230306T080000Z
+DTEND:20230306T111500Z
+SUMMARY;LANGUAGE=fr:Recherche avancée sur internet - Orban - BD2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche avancée sur internet\nEnseignant : Orban\nPromotion : BD2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221208T092452Z
+UID:Cours-1798-27-Recherche_avancee_sur_internet-Index-Education
+DTSTART:20230313T080000Z
+DTEND:20230313T111500Z
+SUMMARY;LANGUAGE=fr:Recherche avancée sur internet - Orban - BD2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche avancée sur internet\nEnseignant : Orban\nPromotion : BD2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221208T092452Z
+UID:Cours-1798-28-Recherche_avancee_sur_internet-Index-Education
+DTSTART:20230320T080000Z
+DTEND:20230320T111500Z
+SUMMARY;LANGUAGE=fr:Recherche avancée sur internet - Orban - BD2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche avancée sur internet\nEnseignant : Orban\nPromotion : BD2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221208T092452Z
+UID:Cours-1798-29-Recherche_avancee_sur_internet-Index-Education
+DTSTART:20230327T070000Z
+DTEND:20230327T101500Z
+SUMMARY;LANGUAGE=fr:Recherche avancée sur internet - Orban - BD2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche avancée sur internet\nEnseignant : Orban\nPromotion : BD2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221208T092452Z
+UID:Cours-1798-33-Recherche_avancee_sur_internet-Index-Education
+DTSTART:20230424T070000Z
+DTEND:20230424T101500Z
+SUMMARY;LANGUAGE=fr:Recherche avancée sur internet - Orban - BD2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche avancée sur internet\nEnseignant : Orban\nPromotion : BD2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221208T092452Z
+UID:Cours-1798-35-Recherche_avancee_sur_internet-Index-Education
+DTSTART:20230508T070000Z
+DTEND:20230508T101500Z
+SUMMARY;LANGUAGE=fr:Recherche avancée sur internet - Orban - BD2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche avancée sur internet\nEnseignant : Orban\nPromotion : BD2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221208T092452Z
+UID:Cours-1798-36-Recherche_avancee_sur_internet-Index-Education
+DTSTART:20230515T070000Z
+DTEND:20230515T101500Z
+SUMMARY;LANGUAGE=fr:Recherche avancée sur internet - Orban - BD2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche avancée sur internet\nEnseignant : Orban\nPromotion : BD2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221208T092452Z
+UID:Cours-1798-37-Recherche_avancee_sur_internet-Index-Education
+DTSTART:20230522T070000Z
+DTEND:20230522T101500Z
+SUMMARY;LANGUAGE=fr:Recherche avancée sur internet - Orban - BD2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche avancée sur internet\nEnseignant : Orban\nPromotion : BD2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221208T092521Z
+UID:Cours-1799-26-Recherche_avancee_sur_internet-Index-Education
+DTSTART:20230309T080000Z
+DTEND:20230309T111500Z
+SUMMARY;LANGUAGE=fr:Recherche avancée sur internet - Orban - BD2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche avancée sur internet\nEnseignant : Orban\nPromotion : BD2\nSalle : 004\n
+END:VEVENT
+END:VCALENDAR

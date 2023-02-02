@@ -1,0 +1,262 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA2M05 Méth enq soc et tech rap soc - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA2M05 Méth enq soc et tech rap soc généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T073104Z
+UID:Cours-336-4-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221005T081500Z
+DTEND:20221005T101500Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-339-4-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221007T111500Z
+DTEND:20221007T131500Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-340-2-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20220919T060000Z
+DTEND:20220919T080000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-340-3-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20220926T060000Z
+DTEND:20220926T080000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-340-4-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221003T060000Z
+DTEND:20221003T080000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-340-5-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221010T060000Z
+DTEND:20221010T080000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-340-6-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221017T060000Z
+DTEND:20221017T080000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-340-7-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221024T060000Z
+DTEND:20221024T080000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-341-12-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221202T070000Z
+DTEND:20221202T090000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T071948Z
+UID:Cours-342-15-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221222T121500Z
+DTEND:20221222T141500Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-343-14-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221215T091500Z
+DTEND:20221215T111500Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T071652Z
+UID:Cours-736-13-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221208T070000Z
+DTEND:20221208T090000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1178-12-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221202T091500Z
+DTEND:20221202T111500Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1179-3-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20220929T060000Z
+DTEND:20220929T080000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221012T120558Z
+UID:Cours-1260-13-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221207T070000Z
+DTEND:20221207T090000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221221T115446Z
+UID:Cours-1404-15-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221222T143000Z
+DTEND:20221222T163000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006\, 109
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalles : 006\, 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T071907Z
+UID:Cours-1642-2-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20220921T060000Z
+DTEND:20220921T080000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T071907Z
+UID:Cours-1642-3-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20220928T060000Z
+DTEND:20220928T080000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T071907Z
+UID:Cours-1642-5-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221012T060000Z
+DTEND:20221012T080000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T071907Z
+UID:Cours-1642-6-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221019T060000Z
+DTEND:20221019T080000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T071907Z
+UID:Cours-1642-11-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221123T070000Z
+DTEND:20221123T090000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T071907Z
+UID:Cours-1642-13-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221207T070000Z
+DTEND:20221207T090000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T071907Z
+UID:Cours-1642-14-Meth_enq_soc_et_tech_rap_soc-Index-Education
+DTSTART:20221214T070000Z
+DTEND:20221214T090000Z
+SUMMARY;LANGUAGE=fr:Méth enq soc et tech rap soc - Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méth enq soc et tech rap soc\nEnseignant : Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+END:VCALENDAR

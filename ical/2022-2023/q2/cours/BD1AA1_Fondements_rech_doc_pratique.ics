@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - BD1AA1 Fondements rech doc pratique - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de BD1AA1 Fondements rech doc pratique généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T115539Z
+UID:Cours-1012-4-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221003T111500Z
+DTEND:20221003T131500Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1013-3-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20220926T060000Z
+DTEND:20220926T080000Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1013-4-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221003T060000Z
+DTEND:20221003T080000Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1013-5-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221010T060000Z
+DTEND:20221010T080000Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1013-6-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221017T060000Z
+DTEND:20221017T080000Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1013-7-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221024T060000Z
+DTEND:20221024T080000Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1014-3-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20220928T111500Z
+DTEND:20220928T131500Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1014-4-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221005T111500Z
+DTEND:20221005T131500Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1014-5-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221012T111500Z
+DTEND:20221012T131500Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1014-6-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221019T111500Z
+DTEND:20221019T131500Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221007T082618Z
+UID:Cours-1015-3-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20220929T060000Z
+DTEND:20220929T080000Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221007T082618Z
+UID:Cours-1015-4-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221006T060000Z
+DTEND:20221006T080000Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221007T082618Z
+UID:Cours-1015-6-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221020T060000Z
+DTEND:20221020T080000Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221007T082624Z
+UID:Cours-1016-3-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20220929T081500Z
+DTEND:20220929T101500Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1017-4-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221007T060000Z
+DTEND:20221007T080000Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T115512Z
+UID:Cours-1397-3-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20220926T081500Z
+DTEND:20220926T101500Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T115512Z
+UID:Cours-1397-5-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221010T081500Z
+DTEND:20221010T101500Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T115512Z
+UID:Cours-1397-6-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221017T081500Z
+DTEND:20221017T101500Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T115512Z
+UID:Cours-1397-7-Fondements_rech_doc_pratique-Index-Education
+DTSTART:20221024T081500Z
+DTEND:20221024T101500Z
+SUMMARY;LANGUAGE=fr:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Fondements rech doc pratique\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+END:VCALENDAR

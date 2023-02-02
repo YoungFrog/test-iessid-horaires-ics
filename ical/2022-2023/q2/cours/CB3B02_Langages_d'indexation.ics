@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CB3B02 Langages d'indexation - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CB3B02 Langages d'indexation généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221212T082623Z
+UID:Cours-2246-28-Langages_d'indexation-Index-Education
+DTSTART:20230322T091500Z
+DTEND:20230322T111500Z
+SUMMARY;LANGUAGE=fr:Langages d'indexation - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Langages d'indexation\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221212T082623Z
+UID:Cours-2246-29-Langages_d'indexation-Index-Education
+DTSTART:20230329T081500Z
+DTEND:20230329T101500Z
+SUMMARY;LANGUAGE=fr:Langages d'indexation - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Langages d'indexation\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221222T065651Z
+UID:Cours-2247-22-Langages_d'indexation-Index-Education
+DTSTART:20230206T091500Z
+DTEND:20230206T111500Z
+SUMMARY;LANGUAGE=fr:Langages d'indexation - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Langages d'indexation\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221222T065642Z
+UID:Cours-2977-22-Langages_d'indexation-Index-Education
+DTSTART:20230206T070000Z
+DTEND:20230206T090000Z
+SUMMARY;LANGUAGE=fr:Langages d'indexation - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Langages d'indexation\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221222T065642Z
+UID:Cours-2977-25-Langages_d'indexation-Index-Education
+DTSTART:20230227T070000Z
+DTEND:20230227T090000Z
+SUMMARY;LANGUAGE=fr:Langages d'indexation - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Langages d'indexation\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221222T065642Z
+UID:Cours-2977-36-Langages_d'indexation-Index-Education
+DTSTART:20230515T060000Z
+DTEND:20230515T080000Z
+SUMMARY;LANGUAGE=fr:Langages d'indexation - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Langages d'indexation\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CI4G07 Financement projets action soc - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CI4G07 Financement projets action soc généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T093624Z
+UID:Cours-2378-21-Financement_projets_action_soc-Index-Education
+DTSTART:20230201T163000Z
+DTEND:20230201T203000Z
+SUMMARY;LANGUAGE=fr:Financement projets action soc - Isimba - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Financement projets action soc\nEnseignant : Isimba\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T093624Z
+UID:Cours-2378-28-Financement_projets_action_soc-Index-Education
+DTSTART:20230322T163000Z
+DTEND:20230322T203000Z
+SUMMARY;LANGUAGE=fr:Financement projets action soc - Isimba - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Financement projets action soc\nEnseignant : Isimba\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T093624Z
+UID:Cours-2378-33-Financement_projets_action_soc-Index-Education
+DTSTART:20230426T153000Z
+DTEND:20230426T193000Z
+SUMMARY;LANGUAGE=fr:Financement projets action soc - Isimba - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Financement projets action soc\nEnseignant : Isimba\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T093624Z
+UID:Cours-2378-35-Financement_projets_action_soc-Index-Education
+DTSTART:20230510T153000Z
+DTEND:20230510T193000Z
+SUMMARY;LANGUAGE=fr:Financement projets action soc - Isimba - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Financement projets action soc\nEnseignant : Isimba\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T093655Z
+UID:Cours-2389-37-Financement_projets_action_soc-Index-Education
+DTSTART:20230524T153000Z
+DTEND:20230524T173000Z
+SUMMARY;LANGUAGE=fr:Financement projets action soc - Isimba - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Financement projets action soc\nEnseignant : Isimba\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+END:VCALENDAR

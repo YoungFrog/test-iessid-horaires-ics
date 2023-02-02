@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CB2A02 Stage & formation animation - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CB2A02 Stage & formation animation généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221023T115155Z
+UID:Cours-1091-15-Stage_&_formation_animation-Index-Education
+DTSTART:20221220T121500Z
+DTEND:20221220T151500Z
+SUMMARY;LANGUAGE=fr:Stage & formation animation - Jamaoui - BD2
+DESCRIPTION;LANGUAGE=fr:Matière : Stage & formation animation\nEnseignant : Jamaoui\nPromotion : BD2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221023T115256Z
+UID:Cours-1491-14-Stage_&_formation_animation-Index-Education
+DTSTART:20221213T121500Z
+DTEND:20221213T151500Z
+SUMMARY;LANGUAGE=fr:Stage & formation animation - Jamaoui - BD2
+DESCRIPTION;LANGUAGE=fr:Matière : Stage & formation animation\nEnseignant : Jamaoui\nPromotion : BD2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221023T115420Z
+UID:Cours-1492-15-Stage_&_formation_animation-Index-Education
+DTSTART:20221219T121500Z
+DTEND:20221219T151500Z
+SUMMARY;LANGUAGE=fr:Stage & formation animation - Jamaoui - BD2
+DESCRIPTION;LANGUAGE=fr:Matière : Stage & formation animation\nEnseignant : Jamaoui\nPromotion : BD2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221027T111936Z
+UID:Cours-1535-15-Stage_&_formation_animation-Index-Education
+DTSTART:20221221T070000Z
+DTEND:20221221T090000Z
+SUMMARY;LANGUAGE=fr:Stage & formation animation - Jamaoui - BD2
+DESCRIPTION;LANGUAGE=fr:Matière : Stage & formation animation\nEnseignant : Jamaoui\nPromotion : BD2\n
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CB3M01 Gestion num des connaissances - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CB3M01 Gestion num des connaissances généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-728-3-Gestion_num_des_connaissances-Index-Education
+DTSTART:20220929T081500Z
+DTEND:20220929T101500Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-728-5-Gestion_num_des_connaissances-Index-Education
+DTSTART:20221013T081500Z
+DTEND:20221013T101500Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-728-7-Gestion_num_des_connaissances-Index-Education
+DTSTART:20221027T081500Z
+DTEND:20221027T101500Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-728-10-Gestion_num_des_connaissances-Index-Education
+DTSTART:20221117T091500Z
+DTEND:20221117T111500Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-793-3-Gestion_num_des_connaissances-Index-Education
+DTSTART:20220928T060000Z
+DTEND:20220928T080000Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T133952Z
+UID:Cours-794-2-Gestion_num_des_connaissances-Index-Education
+DTSTART:20220923T060000Z
+DTEND:20220923T080000Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T133952Z
+UID:Cours-794-4-Gestion_num_des_connaissances-Index-Education
+DTSTART:20221007T060000Z
+DTEND:20221007T080000Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1097-2-Gestion_num_des_connaissances-Index-Education
+DTSTART:20220920T081500Z
+DTEND:20220920T101500Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:204
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalle : 204\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1097-6-Gestion_num_des_connaissances-Index-Education
+DTSTART:20221018T081500Z
+DTEND:20221018T101500Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:302
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalle : 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T134004Z
+UID:Cours-1098-4-Gestion_num_des_connaissances-Index-Education
+DTSTART:20221007T081500Z
+DTEND:20221007T101500Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:004\, 302
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalles : 004\, 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1099-5-Gestion_num_des_connaissances-Index-Education
+DTSTART:20221012T111500Z
+DTEND:20221012T131500Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:302
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalle : 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1104-10-Gestion_num_des_connaissances-Index-Education
+DTSTART:20221114T070000Z
+DTEND:20221114T090000Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+LOCATION;LANGUAGE=fr:302
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\nSalle : 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221205T144112Z
+UID:Cours-1603-18-Gestion_num_des_connaissances-Index-Education
+DTSTART:20230109T091500Z
+DTEND:20230109T111500Z
+SUMMARY;LANGUAGE=fr:Gestion num des connaissances - Borry - BD3
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion num des connaissances\nEnseignant : Borry\nPromotion : BD3\n
+END:VEVENT
+END:VCALENDAR

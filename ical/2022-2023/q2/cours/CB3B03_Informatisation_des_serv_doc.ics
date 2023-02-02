@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CB3B03 Informatisation des serv doc - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CB3B03 Informatisation des serv doc généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221023T121902Z
+UID:Cours-1122-7-Informatisation_des_serv_doc-Index-Education
+DTSTART:20221028T111500Z
+DTEND:20221028T131500Z
+SUMMARY;LANGUAGE=fr:Informatisation des serv doc - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Informatisation des serv doc\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221023T121902Z
+UID:Cours-1123-7-Informatisation_des_serv_doc-Index-Education
+DTSTART:20221028T081500Z
+DTEND:20221028T101500Z
+SUMMARY;LANGUAGE=fr:Informatisation des serv doc - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Informatisation des serv doc\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+END:VCALENDAR

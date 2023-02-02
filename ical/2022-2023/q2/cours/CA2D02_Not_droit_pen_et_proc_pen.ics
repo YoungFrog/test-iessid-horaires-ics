@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA2D02 Not droit pén et proc pén - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA2D02 Not droit pén et proc pén généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-208-14-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221216T070000Z
+DTEND:20221216T111500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Simar\, Van Keerberghen - AS2 - Groupe D1
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignants : Simar\, Van Keerberghen\nPromotion : AS2 - Groupe D1\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-209-7-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221026T060000Z
+DTEND:20221026T101500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Simar\, Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignants : Simar\, Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-287-3-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20220926T111500Z
+DTEND:20220926T131500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-290-4-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221006T081500Z
+DTEND:20221006T101500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-290-5-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221013T081500Z
+DTEND:20221013T101500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-301-12-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221201T121500Z
+DTEND:20221201T141500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-830-4-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221006T060000Z
+DTEND:20221006T080000Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-830-5-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221013T060000Z
+DTEND:20221013T080000Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-830-6-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221020T060000Z
+DTEND:20221020T080000Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-830-11-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221124T070000Z
+DTEND:20221124T090000Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-830-12-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221201T070000Z
+DTEND:20221201T090000Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-830-13-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221208T070000Z
+DTEND:20221208T090000Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-831-7-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221027T060000Z
+DTEND:20221027T080000Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1177-3-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20220926T133000Z
+DTEND:20220926T153000Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1180-2-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20220922T133000Z
+DTEND:20220922T153000Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1181-3-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20220929T060000Z
+DTEND:20220929T080000Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1293-6-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221020T081500Z
+DTEND:20221020T101500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1293-7-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221027T081500Z
+DTEND:20221027T101500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1294-11-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221124T121500Z
+DTEND:20221124T141500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1294-13-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20221208T121500Z
+DTEND:20221208T141500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T081321Z
+UID:Cours-1393-2-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20220922T111500Z
+DTEND:20220922T131500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T081321Z
+UID:Cours-1394-3-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20220929T081500Z
+DTEND:20220929T101500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230110T125258Z
+UID:Cours-1633-18-Not_droit_pen_et_proc_pen-Index-Education
+DTSTART:20230112T121500Z
+DTEND:20230112T141500Z
+SUMMARY;LANGUAGE=fr:Not droit pén et proc pén - Van Keerberghen - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109\, 115\, 118
+DESCRIPTION;LANGUAGE=fr:Matière : Not droit pén et proc pén\nEnseignant : Van Keerberghen\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\nSalles : 109\, 115\, 118\n
+END:VEVENT
+END:VCALENDAR

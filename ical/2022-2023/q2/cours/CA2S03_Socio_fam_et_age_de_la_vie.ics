@@ -1,0 +1,271 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA2S03 Socio fam et âge de la vie - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA2S03 Socio fam et âge de la vie généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-320-2-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20220919T060000Z
+DTEND:20220919T080000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-320-3-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20220926T060000Z
+DTEND:20220926T080000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-320-4-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221003T060000Z
+DTEND:20221003T080000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-320-5-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221010T060000Z
+DTEND:20221010T080000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-320-6-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221017T060000Z
+DTEND:20221017T080000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-320-7-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221024T060000Z
+DTEND:20221024T080000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-321-3-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20220930T081500Z
+DTEND:20220930T101500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-322-2-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20220919T081500Z
+DTEND:20220919T101500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-322-3-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20220926T081500Z
+DTEND:20220926T101500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-322-4-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221003T081500Z
+DTEND:20221003T101500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-322-5-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221010T081500Z
+DTEND:20221010T101500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-322-6-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221017T081500Z
+DTEND:20221017T101500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-322-7-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221024T081500Z
+DTEND:20221024T101500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220930T093552Z
+UID:Cours-1399-3-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20220930T060000Z
+DTEND:20220930T080000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220930T093552Z
+UID:Cours-1399-4-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221007T060000Z
+DTEND:20221007T080000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220930T093552Z
+UID:Cours-1399-6-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221021T060000Z
+DTEND:20221021T080000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220930T093552Z
+UID:Cours-1399-11-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221125T070000Z
+DTEND:20221125T090000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220930T093552Z
+UID:Cours-1399-13-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221209T070000Z
+DTEND:20221209T090000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220930T093552Z
+UID:Cours-1400-15-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221221T143000Z
+DTEND:20221221T163000Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220930T093555Z
+UID:Cours-1401-4-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221007T081500Z
+DTEND:20221007T101500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220930T093555Z
+UID:Cours-1401-6-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221021T081500Z
+DTEND:20221021T101500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220930T093555Z
+UID:Cours-1401-11-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221125T091500Z
+DTEND:20221125T111500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220930T093555Z
+UID:Cours-1401-13-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20221209T091500Z
+DTEND:20221209T111500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221205T142949Z
+UID:Cours-1626-19-Socio_fam_et_age_de_la_vie-Index-Education
+DTSTART:20230117T121500Z
+DTEND:20230117T141500Z
+SUMMARY;LANGUAGE=fr:Socio fam et âge de la vie - Delforge - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115\, 118
+DESCRIPTION;LANGUAGE=fr:Matière : Socio fam et âge de la vie\nEnseignant : Delforge\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\nSalles : 115\, 118\n
+END:VEVENT
+END:VCALENDAR

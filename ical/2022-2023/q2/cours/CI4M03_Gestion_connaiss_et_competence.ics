@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CI4M03 Gestion connaiss et compétence - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CI4M03 Gestion connaiss et compétence généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T102856Z
+UID:Cours-2428-23-Gestion_connaiss_et_competence-Index-Education
+DTSTART:20230213T163000Z
+DTEND:20230213T183000Z
+SUMMARY;LANGUAGE=fr:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion connaiss et compétence\nEnseignant : Borry\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T102856Z
+UID:Cours-2428-27-Gestion_connaiss_et_competence-Index-Education
+DTSTART:20230313T163000Z
+DTEND:20230313T183000Z
+SUMMARY;LANGUAGE=fr:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion connaiss et compétence\nEnseignant : Borry\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T102856Z
+UID:Cours-2428-29-Gestion_connaiss_et_competence-Index-Education
+DTSTART:20230327T153000Z
+DTEND:20230327T173000Z
+SUMMARY;LANGUAGE=fr:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion connaiss et compétence\nEnseignant : Borry\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T102856Z
+UID:Cours-2428-33-Gestion_connaiss_et_competence-Index-Education
+DTSTART:20230424T153000Z
+DTEND:20230424T173000Z
+SUMMARY;LANGUAGE=fr:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion connaiss et compétence\nEnseignant : Borry\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T102856Z
+UID:Cours-2428-36-Gestion_connaiss_et_competence-Index-Education
+DTSTART:20230515T153000Z
+DTEND:20230515T173000Z
+SUMMARY;LANGUAGE=fr:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion connaiss et compétence\nEnseignant : Borry\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T125754Z
+UID:Cours-2454-25-Gestion_connaiss_et_competence-Index-Education
+DTSTART:20230304T123000Z
+DTEND:20230304T163000Z
+SUMMARY;LANGUAGE=fr:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion connaiss et compétence\nEnseignant : Borry\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T130216Z
+UID:Cours-2455-28-Gestion_connaiss_et_competence-Index-Education
+DTSTART:20230325T080000Z
+DTEND:20230325T163000Z
+SUMMARY;LANGUAGE=fr:Gestion connaiss et compétence - Borry - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion connaiss et compétence\nEnseignant : Borry\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA3A02 Etudes de sit soc pluri - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA3A02 Etudes de sit soc pluri généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230127T115819Z
+UID:Cours-3059-33-Etudes_de_sit_soc_pluri-Index-Education
+DTSTART:20230426T060000Z
+DTEND:20230426T153000Z
+SUMMARY;LANGUAGE=fr:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Etudes de sit soc pluri\nEnseignants : De Vloo\, Delforge\, Marchal\, Mélice\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T123357Z
+UID:Cours-3060-22-Etudes_de_sit_soc_pluri-Index-Education
+DTSTART:20230206T121500Z
+DTEND:20230206T141500Z
+SUMMARY;LANGUAGE=fr:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Etudes de sit soc pluri\nEnseignants : De Vloo\, Delforge\, Marchal\, Mélice\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T123432Z
+UID:Cours-3062-25-Etudes_de_sit_soc_pluri-Index-Education
+DTSTART:20230227T143000Z
+DTEND:20230227T163000Z
+SUMMARY;LANGUAGE=fr:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Etudes de sit soc pluri\nEnseignants : De Vloo\, Delforge\, Marchal\, Mélice\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230127T115552Z
+UID:Cours-3077-26-Etudes_de_sit_soc_pluri-Index-Education
+DTSTART:20230306T070000Z
+DTEND:20230306T111500Z
+SUMMARY;LANGUAGE=fr:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Etudes de sit soc pluri\nEnseignants : De Vloo\, Delforge\, Marchal\, Mélice\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230127T115622Z
+UID:Cours-3136-32-Etudes_de_sit_soc_pluri-Index-Education
+DTSTART:20230417T060000Z
+DTEND:20230417T101500Z
+SUMMARY;LANGUAGE=fr:Etudes de sit soc pluri - De Vloo\, Delforge\, Marchal\, Mélice - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Etudes de sit soc pluri\nEnseignants : De Vloo\, Delforge\, Marchal\, Mélice\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+END:VCALENDAR

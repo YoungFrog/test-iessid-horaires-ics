@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CB3B04 Gestion et compta des biblios - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CB3B04 Gestion et compta des biblios généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221212T081816Z
+UID:Cours-2240-25-Gestion_et_compta_des_biblios-Index-Education
+DTSTART:20230301T121500Z
+DTEND:20230301T163000Z
+SUMMARY;LANGUAGE=fr:Gestion et compta des biblios - Bernard - BD3
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion et compta des biblios\nEnseignant : Bernard\nPromotion : BD3\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221212T081816Z
+UID:Cours-2240-28-Gestion_et_compta_des_biblios-Index-Education
+DTSTART:20230322T121500Z
+DTEND:20230322T163000Z
+SUMMARY;LANGUAGE=fr:Gestion et compta des biblios - Bernard - BD3
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion et compta des biblios\nEnseignant : Bernard\nPromotion : BD3\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221212T081816Z
+UID:Cours-2240-29-Gestion_et_compta_des_biblios-Index-Education
+DTSTART:20230329T111500Z
+DTEND:20230329T153000Z
+SUMMARY;LANGUAGE=fr:Gestion et compta des biblios - Bernard - BD3
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion et compta des biblios\nEnseignant : Bernard\nPromotion : BD3\nSalle : 007\n
+END:VEVENT
+END:VCALENDAR

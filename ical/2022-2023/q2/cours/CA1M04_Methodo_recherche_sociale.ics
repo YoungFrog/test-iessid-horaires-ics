@@ -1,0 +1,295 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA1M04 Méthodo recherche sociale - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA1M04 Méthodo recherche sociale généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081113Z
+UID:Cours-2743-21-Methodo_recherche_sociale-Index-Education
+DTSTART:20230202T070000Z
+DTEND:20230202T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081113Z
+UID:Cours-2743-22-Methodo_recherche_sociale-Index-Education
+DTSTART:20230209T070000Z
+DTEND:20230209T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081113Z
+UID:Cours-2743-23-Methodo_recherche_sociale-Index-Education
+DTSTART:20230216T070000Z
+DTEND:20230216T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081113Z
+UID:Cours-2743-27-Methodo_recherche_sociale-Index-Education
+DTSTART:20230316T070000Z
+DTEND:20230316T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081113Z
+UID:Cours-2743-29-Methodo_recherche_sociale-Index-Education
+DTSTART:20230330T060000Z
+DTEND:20230330T080000Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081113Z
+UID:Cours-2743-32-Methodo_recherche_sociale-Index-Education
+DTSTART:20230420T060000Z
+DTEND:20230420T080000Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081113Z
+UID:Cours-2743-33-Methodo_recherche_sociale-Index-Education
+DTSTART:20230427T060000Z
+DTEND:20230427T080000Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081113Z
+UID:Cours-2743-35-Methodo_recherche_sociale-Index-Education
+DTSTART:20230511T060000Z
+DTEND:20230511T080000Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081113Z
+UID:Cours-2743-37-Methodo_recherche_sociale-Index-Education
+DTSTART:20230525T060000Z
+DTEND:20230525T080000Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101147Z
+UID:Cours-2778-21-Methodo_recherche_sociale-Index-Education
+DTSTART:20230202T091500Z
+DTEND:20230202T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101147Z
+UID:Cours-2778-22-Methodo_recherche_sociale-Index-Education
+DTSTART:20230209T091500Z
+DTEND:20230209T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101147Z
+UID:Cours-2778-23-Methodo_recherche_sociale-Index-Education
+DTSTART:20230216T091500Z
+DTEND:20230216T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101147Z
+UID:Cours-2778-27-Methodo_recherche_sociale-Index-Education
+DTSTART:20230316T091500Z
+DTEND:20230316T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101147Z
+UID:Cours-2778-29-Methodo_recherche_sociale-Index-Education
+DTSTART:20230330T081500Z
+DTEND:20230330T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101147Z
+UID:Cours-2778-32-Methodo_recherche_sociale-Index-Education
+DTSTART:20230420T081500Z
+DTEND:20230420T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101147Z
+UID:Cours-2778-33-Methodo_recherche_sociale-Index-Education
+DTSTART:20230427T081500Z
+DTEND:20230427T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101147Z
+UID:Cours-2778-35-Methodo_recherche_sociale-Index-Education
+DTSTART:20230511T081500Z
+DTEND:20230511T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101147Z
+UID:Cours-2778-37-Methodo_recherche_sociale-Index-Education
+DTSTART:20230525T081500Z
+DTEND:20230525T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093743Z
+UID:Cours-2806-23-Methodo_recherche_sociale-Index-Education
+DTSTART:20230217T091500Z
+DTEND:20230217T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093929Z
+UID:Cours-2807-29-Methodo_recherche_sociale-Index-Education
+DTSTART:20230331T081500Z
+DTEND:20230331T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:302
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093818Z
+UID:Cours-2808-32-Methodo_recherche_sociale-Index-Education
+DTSTART:20230421T081500Z
+DTEND:20230421T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093825Z
+UID:Cours-2809-33-Methodo_recherche_sociale-Index-Education
+DTSTART:20230428T081500Z
+DTEND:20230428T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081119Z
+UID:Cours-2810-32-Methodo_recherche_sociale-Index-Education
+DTSTART:20230421T060000Z
+DTEND:20230421T080000Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081119Z
+UID:Cours-2811-33-Methodo_recherche_sociale-Index-Education
+DTSTART:20230428T111500Z
+DTEND:20230428T131500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081113Z
+UID:Cours-2812-37-Methodo_recherche_sociale-Index-Education
+DTSTART:20230526T081500Z
+DTEND:20230526T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T081113Z
+UID:Cours-2813-38-Methodo_recherche_sociale-Index-Education
+DTSTART:20230602T081500Z
+DTEND:20230602T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo recherche sociale - Degreef - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo recherche sociale\nEnseignant : Degreef\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+END:VCALENDAR

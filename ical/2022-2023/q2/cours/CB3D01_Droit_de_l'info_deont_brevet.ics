@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CB3D01 Droit de l'info, déont, brevet - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CB3D01 Droit de l'info, déont, brevet généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221212T081552Z
+UID:Cours-2238-22-Droit_de_l'info_deont_brevet-Index-Education
+DTSTART:20230208T091500Z
+DTEND:20230208T111500Z
+SUMMARY;LANGUAGE=fr:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Droit de l'info\, déont\, brevet\nEnseignant : Goy\nPromotion : BD3\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221212T081552Z
+UID:Cours-2239-22-Droit_de_l'info_deont_brevet-Index-Education
+DTSTART:20230208T070000Z
+DTEND:20230208T090000Z
+SUMMARY;LANGUAGE=fr:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Droit de l'info\, déont\, brevet\nEnseignant : Goy\nPromotion : BD3\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221212T081552Z
+UID:Cours-2239-28-Droit_de_l'info_deont_brevet-Index-Education
+DTSTART:20230322T070000Z
+DTEND:20230322T090000Z
+SUMMARY;LANGUAGE=fr:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Droit de l'info\, déont\, brevet\nEnseignant : Goy\nPromotion : BD3\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221212T081552Z
+UID:Cours-2239-29-Droit_de_l'info_deont_brevet-Index-Education
+DTSTART:20230329T060000Z
+DTEND:20230329T080000Z
+SUMMARY;LANGUAGE=fr:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Droit de l'info\, déont\, brevet\nEnseignant : Goy\nPromotion : BD3\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221212T081552Z
+UID:Cours-2239-35-Droit_de_l'info_deont_brevet-Index-Education
+DTSTART:20230510T060000Z
+DTEND:20230510T080000Z
+SUMMARY;LANGUAGE=fr:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Droit de l'info\, déont\, brevet\nEnseignant : Goy\nPromotion : BD3\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221212T081552Z
+UID:Cours-2239-36-Droit_de_l'info_deont_brevet-Index-Education
+DTSTART:20230517T060000Z
+DTEND:20230517T080000Z
+SUMMARY;LANGUAGE=fr:Droit de l'info\, déont\, brevet - Goy - BD3
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Droit de l'info\, déont\, brevet\nEnseignant : Goy\nPromotion : BD3\nSalle : 007\n
+END:VEVENT
+END:VCALENDAR

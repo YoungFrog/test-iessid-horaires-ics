@@ -1,0 +1,272 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA1S02 Anthropologie culturelle - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA1S02 Anthropologie culturelle généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094531Z
+UID:Cours-2487-32-Anthropologie_culturelle-Index-Education
+DTSTART:20230419T111500Z
+DTEND:20230419T131500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:302
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094531Z
+UID:Cours-2488-29-Anthropologie_culturelle-Index-Education
+DTSTART:20230329T111500Z
+DTEND:20230329T131500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:302
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094531Z
+UID:Cours-2489-27-Anthropologie_culturelle-Index-Education
+DTSTART:20230315T121500Z
+DTEND:20230315T141500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:302
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094516Z
+UID:Cours-2490-23-Anthropologie_culturelle-Index-Education
+DTSTART:20230215T121500Z
+DTEND:20230215T141500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:302
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094506Z
+UID:Cours-2493-22-Anthropologie_culturelle-Index-Education
+DTSTART:20230208T121500Z
+DTEND:20230208T141500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094506Z
+UID:Cours-2527-21-Anthropologie_culturelle-Index-Education
+DTSTART:20230201T121500Z
+DTEND:20230201T141500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2758-22-Anthropologie_culturelle-Index-Education
+DTSTART:20230208T091500Z
+DTEND:20230208T111500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2758-23-Anthropologie_culturelle-Index-Education
+DTSTART:20230215T091500Z
+DTEND:20230215T111500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2758-27-Anthropologie_culturelle-Index-Education
+DTSTART:20230315T091500Z
+DTEND:20230315T111500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2758-29-Anthropologie_culturelle-Index-Education
+DTSTART:20230329T081500Z
+DTEND:20230329T101500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2758-32-Anthropologie_culturelle-Index-Education
+DTSTART:20230419T081500Z
+DTEND:20230419T101500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2758-33-Anthropologie_culturelle-Index-Education
+DTSTART:20230426T081500Z
+DTEND:20230426T101500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Assenmaker\, Guida - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignants : Assenmaker\, Guida\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093649Z
+UID:Cours-2787-21-Anthropologie_culturelle-Index-Education
+DTSTART:20230202T143000Z
+DTEND:20230202T163000Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093649Z
+UID:Cours-2787-22-Anthropologie_culturelle-Index-Education
+DTSTART:20230209T143000Z
+DTEND:20230209T163000Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093649Z
+UID:Cours-2787-23-Anthropologie_culturelle-Index-Education
+DTSTART:20230216T143000Z
+DTEND:20230216T163000Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093649Z
+UID:Cours-2787-27-Anthropologie_culturelle-Index-Education
+DTSTART:20230316T143000Z
+DTEND:20230316T163000Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093649Z
+UID:Cours-2787-29-Anthropologie_culturelle-Index-Education
+DTSTART:20230330T133000Z
+DTEND:20230330T153000Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093649Z
+UID:Cours-2787-33-Anthropologie_culturelle-Index-Education
+DTSTART:20230427T133000Z
+DTEND:20230427T153000Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094642Z
+UID:Cours-2937-21-Anthropologie_culturelle-Index-Education
+DTSTART:20230202T121500Z
+DTEND:20230202T141500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094642Z
+UID:Cours-2937-22-Anthropologie_culturelle-Index-Education
+DTSTART:20230209T121500Z
+DTEND:20230209T141500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094642Z
+UID:Cours-2937-23-Anthropologie_culturelle-Index-Education
+DTSTART:20230216T121500Z
+DTEND:20230216T141500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094642Z
+UID:Cours-2937-27-Anthropologie_culturelle-Index-Education
+DTSTART:20230316T121500Z
+DTEND:20230316T141500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094642Z
+UID:Cours-2937-29-Anthropologie_culturelle-Index-Education
+DTSTART:20230330T111500Z
+DTEND:20230330T131500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T103004Z
+UID:Cours-2940-33-Anthropologie_culturelle-Index-Education
+DTSTART:20230427T111500Z
+DTEND:20230427T131500Z
+SUMMARY;LANGUAGE=fr:Anthropologie culturelle - Maeyens - AS1 - Groupe B1\, AS1 - Groupe B2
+DESCRIPTION;LANGUAGE=fr:Matière : Anthropologie culturelle\nEnseignant : Maeyens\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\n
+END:VEVENT
+END:VCALENDAR

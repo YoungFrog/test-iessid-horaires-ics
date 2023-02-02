@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - Théâtre forum - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Théâtre forum généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221209T094953Z
+UID:Cours-1891-28-Theatre_forum-Index-Education
+DTSTART:20230324T070000Z
+DTEND:20230324T163000Z
+SUMMARY;LANGUAGE=fr:Théâtre forum - Barbana\, Belyamani\, De Smedt\, Zamora - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DESCRIPTION;LANGUAGE=fr:Matière : Théâtre forum\nEnseignants : Barbana\, Belyamani\, De Smedt\, Zamora\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221209T094935Z
+UID:Cours-1892-28-Theatre_forum-Index-Education
+DTSTART:20230323T070000Z
+DTEND:20230323T163000Z
+SUMMARY;LANGUAGE=fr:Théâtre forum - Barbana\, Belyamani\, De Smedt\, Zamora - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+DESCRIPTION;LANGUAGE=fr:Matière : Théâtre forum\nEnseignants : Barbana\, Belyamani\, De Smedt\, Zamora\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2\n
+END:VEVENT
+END:VCALENDAR

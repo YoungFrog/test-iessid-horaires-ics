@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - BD1AA1 rech doc outils comm - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de BD1AA1 rech doc outils comm généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1019-6-rech_doc_outils_comm-Index-Education
+DTSTART:20221021T060000Z
+DTEND:20221021T080000Z
+SUMMARY;LANGUAGE=fr:rech doc outils comm - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : rech doc outils comm\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1020-3-rech_doc_outils_comm-Index-Education
+DTSTART:20220930T081500Z
+DTEND:20220930T101500Z
+SUMMARY;LANGUAGE=fr:rech doc outils comm - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : rech doc outils comm\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1020-4-rech_doc_outils_comm-Index-Education
+DTSTART:20221007T081500Z
+DTEND:20221007T101500Z
+SUMMARY;LANGUAGE=fr:rech doc outils comm - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : rech doc outils comm\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1020-5-rech_doc_outils_comm-Index-Education
+DTSTART:20221014T081500Z
+DTEND:20221014T101500Z
+SUMMARY;LANGUAGE=fr:rech doc outils comm - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : rech doc outils comm\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1020-6-rech_doc_outils_comm-Index-Education
+DTSTART:20221021T081500Z
+DTEND:20221021T101500Z
+SUMMARY;LANGUAGE=fr:rech doc outils comm - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : rech doc outils comm\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1021-3-rech_doc_outils_comm-Index-Education
+DTSTART:20220928T081500Z
+DTEND:20220928T101500Z
+SUMMARY;LANGUAGE=fr:rech doc outils comm - Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : rech doc outils comm\nEnseignant : Vandenbussche\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+END:VCALENDAR

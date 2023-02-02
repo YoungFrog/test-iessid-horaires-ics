@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CB2A03 Stage/Atelier en archivistique - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CB2A03 Stage/Atelier en archivistique généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221208T094011Z
+UID:Cours-1812-35-StageAtelier_en_archivistique-Index-Education
+DTSTART:20230512T070000Z
+DTEND:20230512T143000Z
+SUMMARY;LANGUAGE=fr:Stage/Atelier en archivistique - Vandenbussche - BD2
+DESCRIPTION;LANGUAGE=fr:Matière : Stage/Atelier en archivistique\nEnseignant : Vandenbussche\nPromotion : BD2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221208T094011Z
+UID:Cours-1813-32-StageAtelier_en_archivistique-Index-Education
+DTSTART:20230421T070000Z
+DTEND:20230421T153000Z
+SUMMARY;LANGUAGE=fr:Stage/Atelier en archivistique - Vandenbussche - BD2
+DESCRIPTION;LANGUAGE=fr:Matière : Stage/Atelier en archivistique\nEnseignant : Vandenbussche\nPromotion : BD2\n
+END:VEVENT
+END:VCALENDAR

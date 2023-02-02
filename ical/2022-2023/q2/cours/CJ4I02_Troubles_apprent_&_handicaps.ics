@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CJ4I02 Troubles apprent & handicaps - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CJ4I02 Troubles apprent & handicaps généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20230127T110706Z
+UID:Cours-3030-32-Troubles_apprent_&_handicaps-Index-Education
+DTSTART:20230420T153000Z
+DTEND:20230420T193000Z
+SUMMARY;LANGUAGE=fr:Troubles apprent & handicaps - Giannakopoulos - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Troubles apprent & handicaps\nEnseignant : Giannakopoulos\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20230127T110706Z
+UID:Cours-3030-35-Troubles_apprent_&_handicaps-Index-Education
+DTSTART:20230511T153000Z
+DTEND:20230511T193000Z
+SUMMARY;LANGUAGE=fr:Troubles apprent & handicaps - Giannakopoulos - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Troubles apprent & handicaps\nEnseignant : Giannakopoulos\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20230127T110910Z
+UID:Cours-3131-32-Troubles_apprent_&_handicaps-Index-Education
+DTSTART:20230422T070000Z
+DTEND:20230422T110000Z
+SUMMARY;LANGUAGE=fr:Troubles apprent & handicaps - Giannakopoulos - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Troubles apprent & handicaps\nEnseignant : Giannakopoulos\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20230130T125019Z
+UID:Cours-3132-38-Troubles_apprent_&_handicaps-Index-Education
+DTSTART:20230603T070000Z
+DTEND:20230603T110000Z
+SUMMARY;LANGUAGE=fr:Troubles apprent & handicaps - Giannakopoulos - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Troubles apprent & handicaps\nEnseignant : Giannakopoulos\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+END:VCALENDAR

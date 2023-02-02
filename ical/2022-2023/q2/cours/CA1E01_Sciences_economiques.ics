@@ -1,0 +1,438 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA1E01 Sciences économiques - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA1E01 Sciences économiques généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-243-1-Sciences_economiques-Index-Education
+DTSTART:20220915T111500Z
+DTEND:20220915T131500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-245-1-Sciences_economiques-Index-Education
+DTSTART:20220915T081500Z
+DTEND:20220915T101500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-923-2-Sciences_economiques-Index-Education
+DTSTART:20220920T133000Z
+DTEND:20220920T153000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115\, 118
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 115\, 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-923-4-Sciences_economiques-Index-Education
+DTSTART:20221004T133000Z
+DTEND:20221004T153000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-923-5-Sciences_economiques-Index-Education
+DTSTART:20221011T133000Z
+DTEND:20221011T153000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-923-6-Sciences_economiques-Index-Education
+DTSTART:20221018T133000Z
+DTEND:20221018T153000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-923-7-Sciences_economiques-Index-Education
+DTSTART:20221025T133000Z
+DTEND:20221025T153000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-923-9-Sciences_economiques-Index-Education
+DTSTART:20221108T143000Z
+DTEND:20221108T163000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-923-10-Sciences_economiques-Index-Education
+DTSTART:20221115T143000Z
+DTEND:20221115T163000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-923-11-Sciences_economiques-Index-Education
+DTSTART:20221122T143000Z
+DTEND:20221122T163000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-924-3-Sciences_economiques-Index-Education
+DTSTART:20220928T081500Z
+DTEND:20220928T101500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-928-2-Sciences_economiques-Index-Education
+DTSTART:20220920T111500Z
+DTEND:20220920T131500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-928-4-Sciences_economiques-Index-Education
+DTSTART:20221004T111500Z
+DTEND:20221004T131500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-928-5-Sciences_economiques-Index-Education
+DTSTART:20221011T111500Z
+DTEND:20221011T131500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-928-6-Sciences_economiques-Index-Education
+DTSTART:20221018T111500Z
+DTEND:20221018T131500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-928-7-Sciences_economiques-Index-Education
+DTSTART:20221025T111500Z
+DTEND:20221025T131500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-928-9-Sciences_economiques-Index-Education
+DTSTART:20221108T121500Z
+DTEND:20221108T141500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-928-10-Sciences_economiques-Index-Education
+DTSTART:20221115T121500Z
+DTEND:20221115T141500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-928-11-Sciences_economiques-Index-Education
+DTSTART:20221122T121500Z
+DTEND:20221122T141500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-928-12-Sciences_economiques-Index-Education
+DTSTART:20221129T121500Z
+DTEND:20221129T141500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-929-12-Sciences_economiques-Index-Education
+DTSTART:20221129T143000Z
+DTEND:20221129T163000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115\, 118
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 115\, 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-930-7-Sciences_economiques-Index-Education
+DTSTART:20221026T111500Z
+DTEND:20221026T131500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-930-9-Sciences_economiques-Index-Education
+DTSTART:20221109T121500Z
+DTEND:20221109T141500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-930-10-Sciences_economiques-Index-Education
+DTSTART:20221116T121500Z
+DTEND:20221116T141500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-931-15-Sciences_economiques-Index-Education
+DTSTART:20221220T141500Z
+DTEND:20221220T161500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-932-11-Sciences_economiques-Index-Education
+DTSTART:20221121T121500Z
+DTEND:20221121T141500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-932-12-Sciences_economiques-Index-Education
+DTSTART:20221128T121500Z
+DTEND:20221128T141500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-932-15-Sciences_economiques-Index-Education
+DTSTART:20221219T121500Z
+DTEND:20221219T141500Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-933-7-Sciences_economiques-Index-Education
+DTSTART:20221026T133000Z
+DTEND:20221026T153000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1381-2-Sciences_economiques-Index-Education
+DTSTART:20220919T133000Z
+DTEND:20220919T153000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1381-4-Sciences_economiques-Index-Education
+DTSTART:20221003T133000Z
+DTEND:20221003T153000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1381-5-Sciences_economiques-Index-Education
+DTSTART:20221010T133000Z
+DTEND:20221010T153000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1381-6-Sciences_economiques-Index-Education
+DTSTART:20221017T133000Z
+DTEND:20221017T153000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1381-7-Sciences_economiques-Index-Education
+DTSTART:20221024T133000Z
+DTEND:20221024T153000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1381-9-Sciences_economiques-Index-Education
+DTSTART:20221107T143000Z
+DTEND:20221107T163000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1381-10-Sciences_economiques-Index-Education
+DTSTART:20221114T143000Z
+DTEND:20221114T163000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1381-11-Sciences_economiques-Index-Education
+DTSTART:20221121T143000Z
+DTEND:20221121T163000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1381-15-Sciences_economiques-Index-Education
+DTSTART:20221219T143000Z
+DTEND:20221219T163000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20230112T122336Z
+UID:Cours-1627-19-Sciences_economiques-Index-Education
+DTSTART:20230118T080000Z
+DTEND:20230118T100000Z
+SUMMARY;LANGUAGE=fr:Sciences économiques - Mendes Dias Ferreira - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:006\, 109\, 115
+DESCRIPTION;LANGUAGE=fr:Matière : Sciences économiques\nEnseignant : Mendes Dias Ferreira\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 006\, 109\, 115\n
+END:VEVENT
+END:VCALENDAR
