@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA3M09 Méthodo trav soc communautaire - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA3M09 Méthodo trav soc communautaire généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T133513Z
+UID:Cours-551-11-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221121T091500Z
+DTEND:20221121T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T133513Z
+UID:Cours-551-13-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221205T091500Z
+DTEND:20221205T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T133634Z
+UID:Cours-559-9-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221108T091500Z
+DTEND:20221108T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T113714Z
+UID:Cours-560-10-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221115T070000Z
+DTEND:20221115T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T113848Z
+UID:Cours-565-12-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221128T091500Z
+DTEND:20221128T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Maeyens\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T113848Z
+UID:Cours-565-14-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221212T091500Z
+DTEND:20221212T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Maeyens\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T113848Z
+UID:Cours-565-15-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221219T091500Z
+DTEND:20221219T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Maeyens\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T120639Z
+UID:Cours-572-14-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221212T121500Z
+DTEND:20221212T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Maeyens\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T120639Z
+UID:Cours-572-15-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221219T121500Z
+DTEND:20221219T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:004\, 118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Maeyens\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalles : 004\, 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T114338Z
+UID:Cours-576-12-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221129T070000Z
+DTEND:20221129T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Maeyens\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T133526Z
+UID:Cours-1395-13-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221205T121500Z
+DTEND:20221205T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220929T114426Z
+UID:Cours-1396-9-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20221107T070000Z
+DTEND:20221107T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221215T144218Z
+UID:Cours-1879-22-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230206T070000Z
+DTEND:20230206T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Maeyens
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Maeyens\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T123754Z
+UID:Cours-1881-23-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230214T070000Z
+DTEND:20230214T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Maeyens\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T123529Z
+UID:Cours-1882-22-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230207T070000Z
+DTEND:20230207T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T123718Z
+UID:Cours-2721-22-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230206T070000Z
+DTEND:20230206T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T155022Z
+UID:Cours-2722-26-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230307T121500Z
+DTEND:20230307T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T123742Z
+UID:Cours-3067-23-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230213T070000Z
+DTEND:20230213T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Maeyens\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T123748Z
+UID:Cours-3068-27-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230313T070000Z
+DTEND:20230313T111500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Maeyens - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Maeyens\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+END:VCALENDAR

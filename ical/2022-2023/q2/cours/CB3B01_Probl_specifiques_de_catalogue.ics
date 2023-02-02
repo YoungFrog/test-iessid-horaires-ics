@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CB3B01 Probl spécifiques de catalogue - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CB3B01 Probl spécifiques de catalogue généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083047Z
+UID:Cours-2249-36-Probl_specifiques_de_catalogue-Index-Education
+DTSTART:20230516T060000Z
+DTEND:20230516T080000Z
+SUMMARY;LANGUAGE=fr:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Probl spécifiques de catalogue\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083039Z
+UID:Cours-2250-22-Probl_specifiques_de_catalogue-Index-Education
+DTSTART:20230206T121500Z
+DTEND:20230206T141500Z
+SUMMARY;LANGUAGE=fr:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Probl spécifiques de catalogue\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083058Z
+UID:Cours-2251-35-Probl_specifiques_de_catalogue-Index-Education
+DTSTART:20230510T081500Z
+DTEND:20230510T101500Z
+SUMMARY;LANGUAGE=fr:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Probl spécifiques de catalogue\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083058Z
+UID:Cours-2251-36-Probl_specifiques_de_catalogue-Index-Education
+DTSTART:20230517T081500Z
+DTEND:20230517T101500Z
+SUMMARY;LANGUAGE=fr:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Probl spécifiques de catalogue\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083058Z
+UID:Cours-2252-35-Probl_specifiques_de_catalogue-Index-Education
+DTSTART:20230510T111500Z
+DTEND:20230510T131500Z
+SUMMARY;LANGUAGE=fr:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Probl spécifiques de catalogue\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083058Z
+UID:Cours-2252-36-Probl_specifiques_de_catalogue-Index-Education
+DTSTART:20230517T111500Z
+DTEND:20230517T131500Z
+SUMMARY;LANGUAGE=fr:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Probl spécifiques de catalogue\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+END:VCALENDAR

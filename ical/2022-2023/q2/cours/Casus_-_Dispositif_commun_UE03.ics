@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - Casus - Dispositif commun UE03 - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de Casus - Dispositif commun UE03 généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072513Z
+UID:Cours-1643-14-Casus_-_Dispositif_commun_UE03-Index-Education
+DTSTART:20221216T091500Z
+DTEND:20221216T111500Z
+SUMMARY;LANGUAGE=fr:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe C1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Casus - Dispositif commun UE03\nEnseignants : Bosquet\, Fonteneau\nPromotion : AS2 - Groupe C1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072508Z
+UID:Cours-1644-13-Casus_-_Dispositif_commun_UE03-Index-Education
+DTSTART:20221209T070000Z
+DTEND:20221209T090000Z
+SUMMARY;LANGUAGE=fr:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Casus - Dispositif commun UE03\nEnseignants : Bosquet\, Fonteneau\nPromotion : AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072459Z
+UID:Cours-1645-14-Casus_-_Dispositif_commun_UE03-Index-Education
+DTSTART:20221215T121500Z
+DTEND:20221215T141500Z
+SUMMARY;LANGUAGE=fr:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe D1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Casus - Dispositif commun UE03\nEnseignants : Bosquet\, Fonteneau\nPromotion : AS2 - Groupe D1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072508Z
+UID:Cours-1646-13-Casus_-_Dispositif_commun_UE03-Index-Education
+DTSTART:20221209T091500Z
+DTEND:20221209T111500Z
+SUMMARY;LANGUAGE=fr:Casus - Dispositif commun UE03 - Bosquet\, Fonteneau - AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Casus - Dispositif commun UE03\nEnseignants : Bosquet\, Fonteneau\nPromotion : AS2 - Groupe D2\nSalle : 005\n
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,359 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - AS2UE11 Méthodologies serv soc - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de AS2UE11 Méthodologies serv soc généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072851Z
+UID:Cours-303-4-Methodologies_serv_soc-Index-Education
+DTSTART:20221005T081500Z
+DTEND:20221005T101500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072851Z
+UID:Cours-303-5-Methodologies_serv_soc-Index-Education
+DTSTART:20221012T081500Z
+DTEND:20221012T101500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072851Z
+UID:Cours-303-6-Methodologies_serv_soc-Index-Education
+DTSTART:20221019T081500Z
+DTEND:20221019T101500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072851Z
+UID:Cours-303-7-Methodologies_serv_soc-Index-Education
+DTSTART:20221026T081500Z
+DTEND:20221026T101500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072851Z
+UID:Cours-303-11-Methodologies_serv_soc-Index-Education
+DTSTART:20221123T091500Z
+DTEND:20221123T111500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072851Z
+UID:Cours-303-12-Methodologies_serv_soc-Index-Education
+DTSTART:20221130T091500Z
+DTEND:20221130T111500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072851Z
+UID:Cours-303-14-Methodologies_serv_soc-Index-Education
+DTSTART:20221214T091500Z
+DTEND:20221214T111500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072851Z
+UID:Cours-303-15-Methodologies_serv_soc-Index-Education
+DTSTART:20221221T091500Z
+DTEND:20221221T111500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach - AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\nPromotion : AS2 - Groupe D2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072927Z
+UID:Cours-1332-15-Methodologies_serv_soc-Index-Education
+DTSTART:20221221T070000Z
+DTEND:20221221T090000Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C1\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100723Z
+UID:Cours-1335-6-Methodologies_serv_soc-Index-Education
+DTSTART:20221017T133000Z
+DTEND:20221017T153000Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1337-14-Methodologies_serv_soc-Index-Education
+DTSTART:20221214T121500Z
+DTEND:20221214T141500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100723Z
+UID:Cours-1339-14-Methodologies_serv_soc-Index-Education
+DTSTART:20221214T143000Z
+DTEND:20221214T163000Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100723Z
+UID:Cours-1421-15-Methodologies_serv_soc-Index-Education
+DTSTART:20221223T121500Z
+DTEND:20221223T141500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072919Z
+UID:Cours-1649-4-Methodologies_serv_soc-Index-Education
+DTSTART:20221006T111500Z
+DTEND:20221006T131500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072919Z
+UID:Cours-1649-5-Methodologies_serv_soc-Index-Education
+DTSTART:20221013T111500Z
+DTEND:20221013T131500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072919Z
+UID:Cours-1649-6-Methodologies_serv_soc-Index-Education
+DTSTART:20221020T111500Z
+DTEND:20221020T131500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072919Z
+UID:Cours-1649-7-Methodologies_serv_soc-Index-Education
+DTSTART:20221027T111500Z
+DTEND:20221027T131500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072919Z
+UID:Cours-1649-11-Methodologies_serv_soc-Index-Education
+DTSTART:20221124T121500Z
+DTEND:20221124T141500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T072919Z
+UID:Cours-1649-12-Methodologies_serv_soc-Index-Education
+DTSTART:20221201T121500Z
+DTEND:20221201T141500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100434Z
+UID:Cours-1650-4-Methodologies_serv_soc-Index-Education
+DTSTART:20221006T081500Z
+DTEND:20221006T101500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100434Z
+UID:Cours-1650-5-Methodologies_serv_soc-Index-Education
+DTSTART:20221013T081500Z
+DTEND:20221013T101500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100434Z
+UID:Cours-1650-6-Methodologies_serv_soc-Index-Education
+DTSTART:20221020T081500Z
+DTEND:20221020T101500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100434Z
+UID:Cours-1650-7-Methodologies_serv_soc-Index-Education
+DTSTART:20221027T081500Z
+DTEND:20221027T101500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100434Z
+UID:Cours-1650-11-Methodologies_serv_soc-Index-Education
+DTSTART:20221124T091500Z
+DTEND:20221124T111500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100434Z
+UID:Cours-1650-12-Methodologies_serv_soc-Index-Education
+DTSTART:20221201T091500Z
+DTEND:20221201T111500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100434Z
+UID:Cours-1650-14-Methodologies_serv_soc-Index-Education
+DTSTART:20221215T091500Z
+DTEND:20221215T111500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221222T070715Z
+UID:Cours-1651-15-Methodologies_serv_soc-Index-Education
+DTSTART:20221222T121500Z
+DTEND:20221222T141500Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C2
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe C2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100723Z
+UID:Cours-1652-5-Methodologies_serv_soc-Index-Education
+DTSTART:20221013T133000Z
+DTEND:20221013T153000Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100723Z
+UID:Cours-1652-6-Methodologies_serv_soc-Index-Education
+DTSTART:20221020T133000Z
+DTEND:20221020T153000Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100723Z
+UID:Cours-1652-7-Methodologies_serv_soc-Index-Education
+DTSTART:20221027T133000Z
+DTEND:20221027T153000Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100723Z
+UID:Cours-1652-11-Methodologies_serv_soc-Index-Education
+DTSTART:20221124T143000Z
+DTEND:20221124T163000Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221123T100723Z
+UID:Cours-1652-12-Methodologies_serv_soc-Index-Education
+DTSTART:20221201T143000Z
+DTEND:20221201T163000Z
+SUMMARY;LANGUAGE=fr:Méthodologies serv soc - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologies serv soc\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotion : AS2 - Groupe D1\nSalle : 005\n
+END:VEVENT
+END:VCALENDAR

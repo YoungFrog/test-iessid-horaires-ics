@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CJ4B01 Psycho des apprentissages - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CJ4B01 Psycho des apprentissages généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20230127T105233Z
+UID:Cours-3031-21-Psycho_des_apprentissages-Index-Education
+DTSTART:20230202T163000Z
+DTEND:20230202T203000Z
+SUMMARY;LANGUAGE=fr:Psycho des apprentissages - Van Langendonckt - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Psycho des apprentissages\nEnseignant : Van Langendonckt\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20230127T105233Z
+UID:Cours-3031-26-Psycho_des_apprentissages-Index-Education
+DTSTART:20230309T163000Z
+DTEND:20230309T203000Z
+SUMMARY;LANGUAGE=fr:Psycho des apprentissages - Van Langendonckt - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Psycho des apprentissages\nEnseignant : Van Langendonckt\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20230127T105233Z
+UID:Cours-3120-21-Psycho_des_apprentissages-Index-Education
+DTSTART:20230204T080000Z
+DTEND:20230204T120000Z
+SUMMARY;LANGUAGE=fr:Psycho des apprentissages - Van Langendonckt - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Psycho des apprentissages\nEnseignant : Van Langendonckt\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+END:VCALENDAR

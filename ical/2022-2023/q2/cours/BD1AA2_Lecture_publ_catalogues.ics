@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - BD1AA2 Lecture publ catalogues - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de BD1AA2 Lecture publ catalogues généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221110T115210Z
+UID:Cours-1051-10-Lecture_publ_catalogues-Index-Education
+DTSTART:20221115T143000Z
+DTEND:20221115T163000Z
+SUMMARY;LANGUAGE=fr:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture publ catalogues\nEnseignant : Fruzzetti\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221110T115205Z
+UID:Cours-1559-11-Lecture_publ_catalogues-Index-Education
+DTSTART:20221122T143000Z
+DTEND:20221122T163000Z
+SUMMARY;LANGUAGE=fr:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture publ catalogues\nEnseignant : Fruzzetti\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221110T115925Z
+UID:Cours-1568-12-Lecture_publ_catalogues-Index-Education
+DTSTART:20221129T143000Z
+DTEND:20221129T163000Z
+SUMMARY;LANGUAGE=fr:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture publ catalogues\nEnseignant : Fruzzetti\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221110T120208Z
+UID:Cours-1572-12-Lecture_publ_catalogues-Index-Education
+DTSTART:20221201T121500Z
+DTEND:20221201T163000Z
+SUMMARY;LANGUAGE=fr:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture publ catalogues\nEnseignant : Fruzzetti\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221201T071347Z
+UID:Cours-1670-13-Lecture_publ_catalogues-Index-Education
+DTSTART:20221206T121500Z
+DTEND:20221206T163000Z
+SUMMARY;LANGUAGE=fr:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture publ catalogues\nEnseignant : Fruzzetti\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221201T071633Z
+UID:Cours-1671-13-Lecture_publ_catalogues-Index-Education
+DTSTART:20221208T121500Z
+DTEND:20221208T163000Z
+SUMMARY;LANGUAGE=fr:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture publ catalogues\nEnseignant : Fruzzetti\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221201T071856Z
+UID:Cours-1674-14-Lecture_publ_catalogues-Index-Education
+DTSTART:20221213T121500Z
+DTEND:20221213T163000Z
+SUMMARY;LANGUAGE=fr:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture publ catalogues\nEnseignant : Fruzzetti\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221201T072148Z
+UID:Cours-1676-14-Lecture_publ_catalogues-Index-Education
+DTSTART:20221215T121500Z
+DTEND:20221215T163000Z
+SUMMARY;LANGUAGE=fr:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture publ catalogues\nEnseignant : Fruzzetti\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221201T072337Z
+UID:Cours-1678-15-Lecture_publ_catalogues-Index-Education
+DTSTART:20221220T121500Z
+DTEND:20221220T163000Z
+SUMMARY;LANGUAGE=fr:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture publ catalogues\nEnseignant : Fruzzetti\nPromotion : BD1\nSalle : 113 (salle info)\n
+END:VEVENT
+END:VCALENDAR

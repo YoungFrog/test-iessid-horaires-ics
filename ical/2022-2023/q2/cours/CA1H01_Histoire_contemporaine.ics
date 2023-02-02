@@ -1,0 +1,283 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA1H01 Histoire contemporaine - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA1H01 Histoire contemporaine généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221012T121300Z
+UID:Cours-254-9-Histoire_contemporaine-Index-Education
+DTSTART:20221108T070000Z
+DTEND:20221108T090000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221012T121300Z
+UID:Cours-936-6-Histoire_contemporaine-Index-Education
+DTSTART:20221018T060000Z
+DTEND:20221018T080000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221130T115222Z
+UID:Cours-938-12-Histoire_contemporaine-Index-Education
+DTSTART:20221130T121500Z
+DTEND:20221130T141500Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T170316Z
+UID:Cours-940-11-Histoire_contemporaine-Index-Education
+DTSTART:20221122T091500Z
+DTEND:20221122T111500Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221012T121300Z
+UID:Cours-941-12-Histoire_contemporaine-Index-Education
+DTSTART:20221128T091500Z
+DTEND:20221128T111500Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T172351Z
+UID:Cours-1165-11-Histoire_contemporaine-Index-Education
+DTSTART:20221123T143000Z
+DTEND:20221123T163000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T171905Z
+UID:Cours-1166-10-Histoire_contemporaine-Index-Education
+DTSTART:20221115T091500Z
+DTEND:20221115T111500Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221012T121300Z
+UID:Cours-1221-9-Histoire_contemporaine-Index-Education
+DTSTART:20221107T091500Z
+DTEND:20221107T111500Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221012T121300Z
+UID:Cours-1221-10-Histoire_contemporaine-Index-Education
+DTSTART:20221114T091500Z
+DTEND:20221114T111500Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T171942Z
+UID:Cours-1476-5-Histoire_contemporaine-Index-Education
+DTSTART:20221011T060000Z
+DTEND:20221011T080000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T172516Z
+UID:Cours-1477-5-Histoire_contemporaine-Index-Education
+DTSTART:20221012T060000Z
+DTEND:20221012T080000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T172516Z
+UID:Cours-1477-6-Histoire_contemporaine-Index-Education
+DTSTART:20221019T060000Z
+DTEND:20221019T080000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T172516Z
+UID:Cours-1477-11-Histoire_contemporaine-Index-Education
+DTSTART:20221123T070000Z
+DTEND:20221123T090000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T172516Z
+UID:Cours-1477-12-Histoire_contemporaine-Index-Education
+DTSTART:20221130T070000Z
+DTEND:20221130T090000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T172516Z
+UID:Cours-1477-15-Histoire_contemporaine-Index-Education
+DTSTART:20221221T070000Z
+DTEND:20221221T090000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T172524Z
+UID:Cours-1478-5-Histoire_contemporaine-Index-Education
+DTSTART:20221012T081500Z
+DTEND:20221012T101500Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T172524Z
+UID:Cours-1478-6-Histoire_contemporaine-Index-Education
+DTSTART:20221019T081500Z
+DTEND:20221019T101500Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T172524Z
+UID:Cours-1478-11-Histoire_contemporaine-Index-Education
+DTSTART:20221123T091500Z
+DTEND:20221123T111500Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T172524Z
+UID:Cours-1478-12-Histoire_contemporaine-Index-Education
+DTSTART:20221130T091500Z
+DTEND:20221130T111500Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221019T172524Z
+UID:Cours-1478-15-Histoire_contemporaine-Index-Education
+DTSTART:20221221T091500Z
+DTEND:20221221T111500Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230110T074340Z
+UID:Cours-1613-19-Histoire_contemporaine-Index-Education
+DTSTART:20230120T070000Z
+DTEND:20230120T163000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230109T160450Z
+UID:Cours-1614-20-Histoire_contemporaine-Index-Education
+DTSTART:20230123T070000Z
+DTEND:20230123T163000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230110T074331Z
+UID:Cours-1615-18-Histoire_contemporaine-Index-Education
+DTSTART:20230112T070000Z
+DTEND:20230112T163000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230109T160633Z
+UID:Cours-1618-18-Histoire_contemporaine-Index-Education
+DTSTART:20230110T070000Z
+DTEND:20230110T163000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230109T160639Z
+UID:Cours-1628-20-Histoire_contemporaine-Index-Education
+DTSTART:20230124T070000Z
+DTEND:20230124T163000Z
+SUMMARY;LANGUAGE=fr:Histoire contemporaine - Olcina - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Histoire contemporaine\nEnseignant : Olcina\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 007\n
+END:VEVENT
+END:VCALENDAR

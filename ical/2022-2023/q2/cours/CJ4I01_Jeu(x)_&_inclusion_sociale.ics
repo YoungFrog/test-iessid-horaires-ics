@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CJ4I01 Jeu(x) & inclusion sociale - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CJ4I01 Jeu(x) & inclusion sociale généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221215T100338Z
+UID:Cours-2591-37-Jeu(x)_&_inclusion_sociale-Index-Education
+DTSTART:20230522T153000Z
+DTEND:20230522T193000Z
+SUMMARY;LANGUAGE=fr:Jeu(x) & inclusion sociale - Van Langendonckt - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Jeu(x) & inclusion sociale\nEnseignant : Van Langendonckt\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T125406Z
+UID:Cours-2594-35-Jeu(x)_&_inclusion_sociale-Index-Education
+DTSTART:20230508T153000Z
+DTEND:20230508T193000Z
+SUMMARY;LANGUAGE=fr:Jeu(x) & inclusion sociale - Van Langendonckt - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Jeu(x) & inclusion sociale\nEnseignant : Van Langendonckt\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T125406Z
+UID:Cours-2594-36-Jeu(x)_&_inclusion_sociale-Index-Education
+DTSTART:20230515T153000Z
+DTEND:20230515T193000Z
+SUMMARY;LANGUAGE=fr:Jeu(x) & inclusion sociale - Van Langendonckt - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Jeu(x) & inclusion sociale\nEnseignant : Van Langendonckt\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+END:VCALENDAR

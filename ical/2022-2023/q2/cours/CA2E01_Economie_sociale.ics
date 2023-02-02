@@ -1,0 +1,382 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA2E01 Economie sociale - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA2E01 Economie sociale généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T113848Z
+UID:Cours-350-2-Economie_sociale-Index-Education
+DTSTART:20220919T111500Z
+DTEND:20220919T131500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T113848Z
+UID:Cours-350-5-Economie_sociale-Index-Education
+DTSTART:20221010T111500Z
+DTEND:20221010T131500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T113848Z
+UID:Cours-350-6-Economie_sociale-Index-Education
+DTSTART:20221017T111500Z
+DTEND:20221017T131500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T113848Z
+UID:Cours-350-7-Economie_sociale-Index-Education
+DTSTART:20221024T111500Z
+DTEND:20221024T131500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T113900Z
+UID:Cours-351-2-Economie_sociale-Index-Education
+DTSTART:20220919T081500Z
+DTEND:20220919T101500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T113900Z
+UID:Cours-351-3-Economie_sociale-Index-Education
+DTSTART:20220926T081500Z
+DTEND:20220926T101500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T113900Z
+UID:Cours-351-5-Economie_sociale-Index-Education
+DTSTART:20221010T081500Z
+DTEND:20221010T101500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T113900Z
+UID:Cours-351-6-Economie_sociale-Index-Education
+DTSTART:20221017T081500Z
+DTEND:20221017T101500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T113900Z
+UID:Cours-351-7-Economie_sociale-Index-Education
+DTSTART:20221024T081500Z
+DTEND:20221024T101500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-360-2-Economie_sociale-Index-Education
+DTSTART:20220922T081500Z
+DTEND:20220922T101500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221220T102116Z
+UID:Cours-361-1-Economie_sociale-Index-Education
+DTSTART:20220916T133000Z
+DTEND:20220916T153000Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221220T102116Z
+UID:Cours-361-2-Economie_sociale-Index-Education
+DTSTART:20220923T133000Z
+DTEND:20220923T153000Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221220T102116Z
+UID:Cours-361-3-Economie_sociale-Index-Education
+DTSTART:20220930T133000Z
+DTEND:20220930T153000Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221220T102116Z
+UID:Cours-361-4-Economie_sociale-Index-Education
+DTSTART:20221007T133000Z
+DTEND:20221007T153000Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221220T102116Z
+UID:Cours-361-5-Economie_sociale-Index-Education
+DTSTART:20221014T133000Z
+DTEND:20221014T153000Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221220T102116Z
+UID:Cours-361-6-Economie_sociale-Index-Education
+DTSTART:20221021T133000Z
+DTEND:20221021T153000Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221220T102116Z
+UID:Cours-361-7-Economie_sociale-Index-Education
+DTSTART:20221028T133000Z
+DTEND:20221028T153000Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221220T102116Z
+UID:Cours-361-11-Economie_sociale-Index-Education
+DTSTART:20221125T143000Z
+DTEND:20221125T163000Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221220T102116Z
+UID:Cours-361-12-Economie_sociale-Index-Education
+DTSTART:20221202T143000Z
+DTEND:20221202T163000Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221220T102116Z
+UID:Cours-361-13-Economie_sociale-Index-Education
+DTSTART:20221209T143000Z
+DTEND:20221209T163000Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221220T102116Z
+UID:Cours-361-14-Economie_sociale-Index-Education
+DTSTART:20221216T143000Z
+DTEND:20221216T163000Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-362-13-Economie_sociale-Index-Education
+DTSTART:20221207T121500Z
+DTEND:20221207T141500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1208-3-Economie_sociale-Index-Education
+DTSTART:20220928T111500Z
+DTEND:20220928T131500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1209-14-Economie_sociale-Index-Education
+DTSTART:20221215T121500Z
+DTEND:20221215T141500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1295-5-Economie_sociale-Index-Education
+DTSTART:20221013T111500Z
+DTEND:20221013T131500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1296-4-Economie_sociale-Index-Education
+DTSTART:20221006T111500Z
+DTEND:20221006T131500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1297-6-Economie_sociale-Index-Education
+DTSTART:20221020T111500Z
+DTEND:20221020T131500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1298-7-Economie_sociale-Index-Education
+DTSTART:20221027T111500Z
+DTEND:20221027T131500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1345-2-Economie_sociale-Index-Education
+DTSTART:20220921T081500Z
+DTEND:20220921T101500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1345-6-Economie_sociale-Index-Education
+DTSTART:20221019T081500Z
+DTEND:20221019T101500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1345-13-Economie_sociale-Index-Education
+DTSTART:20221207T091500Z
+DTEND:20221207T111500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1345-14-Economie_sociale-Index-Education
+DTSTART:20221214T091500Z
+DTEND:20221214T111500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1345-15-Economie_sociale-Index-Education
+DTSTART:20221221T091500Z
+DTEND:20221221T111500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230110T125543Z
+UID:Cours-1629-19-Economie_sociale-Index-Education
+DTSTART:20230120T121500Z
+DTEND:20230120T141500Z
+SUMMARY;LANGUAGE=fr:Economie sociale - Mendes Dias Ferreira - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:005\, 006\, 109
+DESCRIPTION;LANGUAGE=fr:Matière : Economie sociale\nEnseignant : Mendes Dias Ferreira\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\nSalles : 005\, 006\, 109\n
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,429 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA2A02 Formation pratique (stage) - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA2A02 Formation pratique (stage) généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T121120Z
+UID:Cours-63-9-Formation_pratique_(stage)-Index-Education
+DTSTART:20221108T070000Z
+DTEND:20221108T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T121120Z
+UID:Cours-63-10-Formation_pratique_(stage)-Index-Education
+DTSTART:20221115T070000Z
+DTEND:20221115T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T121120Z
+UID:Cours-63-21-Formation_pratique_(stage)-Index-Education
+DTSTART:20230131T070000Z
+DTEND:20230131T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T121120Z
+UID:Cours-63-22-Formation_pratique_(stage)-Index-Education
+DTSTART:20230207T070000Z
+DTEND:20230207T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T121120Z
+UID:Cours-64-9-Formation_pratique_(stage)-Index-Education
+DTSTART:20221107T070000Z
+DTEND:20221107T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T121120Z
+UID:Cours-64-10-Formation_pratique_(stage)-Index-Education
+DTSTART:20221114T070000Z
+DTEND:20221114T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T121120Z
+UID:Cours-64-21-Formation_pratique_(stage)-Index-Education
+DTSTART:20230130T070000Z
+DTEND:20230130T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T121120Z
+UID:Cours-64-22-Formation_pratique_(stage)-Index-Education
+DTSTART:20230206T070000Z
+DTEND:20230206T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T121120Z
+UID:Cours-65-9-Formation_pratique_(stage)-Index-Education
+DTSTART:20221109T070000Z
+DTEND:20221109T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T121120Z
+UID:Cours-65-10-Formation_pratique_(stage)-Index-Education
+DTSTART:20221116T070000Z
+DTEND:20221116T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T122503Z
+UID:Cours-66-9-Formation_pratique_(stage)-Index-Education
+DTSTART:20221110T070000Z
+DTEND:20221110T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T122503Z
+UID:Cours-66-10-Formation_pratique_(stage)-Index-Education
+DTSTART:20221117T070000Z
+DTEND:20221117T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T122503Z
+UID:Cours-66-21-Formation_pratique_(stage)-Index-Education
+DTSTART:20230202T070000Z
+DTEND:20230202T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T122503Z
+UID:Cours-66-22-Formation_pratique_(stage)-Index-Education
+DTSTART:20230209T070000Z
+DTEND:20230209T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T122503Z
+UID:Cours-67-9-Formation_pratique_(stage)-Index-Education
+DTSTART:20221111T070000Z
+DTEND:20221111T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T122503Z
+UID:Cours-67-10-Formation_pratique_(stage)-Index-Education
+DTSTART:20221118T070000Z
+DTEND:20221118T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T122503Z
+UID:Cours-67-21-Formation_pratique_(stage)-Index-Education
+DTSTART:20230203T070000Z
+DTEND:20230203T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T122503Z
+UID:Cours-67-22-Formation_pratique_(stage)-Index-Education
+DTSTART:20230210T070000Z
+DTEND:20230210T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-72-11-Formation_pratique_(stage)-Index-Education
+DTSTART:20221121T070000Z
+DTEND:20221121T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-73-11-Formation_pratique_(stage)-Index-Education
+DTSTART:20221122T070000Z
+DTEND:20221122T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-74-12-Formation_pratique_(stage)-Index-Education
+DTSTART:20221129T070000Z
+DTEND:20221129T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-75-12-Formation_pratique_(stage)-Index-Education
+DTSTART:20221128T070000Z
+DTEND:20221128T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-76-13-Formation_pratique_(stage)-Index-Education
+DTSTART:20221205T070000Z
+DTEND:20221205T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-77-13-Formation_pratique_(stage)-Index-Education
+DTSTART:20221206T070000Z
+DTEND:20221206T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-78-14-Formation_pratique_(stage)-Index-Education
+DTSTART:20221212T070000Z
+DTEND:20221212T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-79-14-Formation_pratique_(stage)-Index-Education
+DTSTART:20221213T070000Z
+DTEND:20221213T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-80-15-Formation_pratique_(stage)-Index-Education
+DTSTART:20221219T070000Z
+DTEND:20221219T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-81-15-Formation_pratique_(stage)-Index-Education
+DTSTART:20221220T070000Z
+DTEND:20221220T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T140540Z
+UID:Cours-82-23-Formation_pratique_(stage)-Index-Education
+DTSTART:20230213T070000Z
+DTEND:20230213T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T140534Z
+UID:Cours-83-23-Formation_pratique_(stage)-Index-Education
+DTSTART:20230214T070000Z
+DTEND:20230214T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T140711Z
+UID:Cours-2031-21-Formation_pratique_(stage)-Index-Education
+DTSTART:20230201T070000Z
+DTEND:20230201T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T140711Z
+UID:Cours-2032-22-Formation_pratique_(stage)-Index-Education
+DTSTART:20230208T070000Z
+DTEND:20230208T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T141503Z
+UID:Cours-2036-25-Formation_pratique_(stage)-Index-Education
+DTSTART:20230227T070000Z
+DTEND:20230227T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T141511Z
+UID:Cours-2037-26-Formation_pratique_(stage)-Index-Education
+DTSTART:20230306T070000Z
+DTEND:20230306T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T141527Z
+UID:Cours-2038-27-Formation_pratique_(stage)-Index-Education
+DTSTART:20230313T070000Z
+DTEND:20230313T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T141527Z
+UID:Cours-2039-28-Formation_pratique_(stage)-Index-Education
+DTSTART:20230320T070000Z
+DTEND:20230320T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T141527Z
+UID:Cours-2040-29-Formation_pratique_(stage)-Index-Education
+DTSTART:20230327T060000Z
+DTEND:20230327T140000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T141527Z
+UID:Cours-2041-25-Formation_pratique_(stage)-Index-Education
+DTSTART:20230228T070000Z
+DTEND:20230228T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T141527Z
+UID:Cours-2042-26-Formation_pratique_(stage)-Index-Education
+DTSTART:20230307T070000Z
+DTEND:20230307T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T141527Z
+UID:Cours-2043-27-Formation_pratique_(stage)-Index-Education
+DTSTART:20230314T070000Z
+DTEND:20230314T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T141527Z
+UID:Cours-2044-28-Formation_pratique_(stage)-Index-Education
+DTSTART:20230321T070000Z
+DTEND:20230321T150000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T141527Z
+UID:Cours-2045-29-Formation_pratique_(stage)-Index-Education
+DTSTART:20230328T060000Z
+DTEND:20230328T140000Z
+SUMMARY;LANGUAGE=fr:Formation pratique (stage) - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+DESCRIPTION;LANGUAGE=fr:Matière : Formation pratique (stage)\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\n
+END:VEVENT
+END:VCALENDAR

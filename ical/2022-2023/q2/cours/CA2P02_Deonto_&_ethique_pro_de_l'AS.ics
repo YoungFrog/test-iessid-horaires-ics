@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA2P02 Déonto & éthique pro de l'AS - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA2P02 Déonto & éthique pro de l'AS généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1309-4-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221005T133000Z
+DTEND:20221005T153000Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221012T064204Z
+UID:Cours-1316-4-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221005T111500Z
+DTEND:20221005T131500Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221012T064204Z
+UID:Cours-1316-6-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221019T111500Z
+DTEND:20221019T131500Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221012T064204Z
+UID:Cours-1316-7-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221026T111500Z
+DTEND:20221026T131500Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221012T064210Z
+UID:Cours-1320-6-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221019T133000Z
+DTEND:20221019T153000Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221012T064210Z
+UID:Cours-1320-7-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221026T133000Z
+DTEND:20221026T153000Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1331-11-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221123T121500Z
+DTEND:20221123T141500Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1331-12-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221130T121500Z
+DTEND:20221130T141500Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1331-13-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221207T121500Z
+DTEND:20221207T141500Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1334-11-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221123T143000Z
+DTEND:20221123T163000Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1334-12-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221130T143000Z
+DTEND:20221130T163000Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1334-13-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20221207T143000Z
+DTEND:20221207T163000Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignant : Bosquet\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221205T142715Z
+UID:Cours-1630-18-Deonto_&_ethique_pro_de_l'AS-Index-Education
+DTSTART:20230109T101500Z
+DTEND:20230109T111500Z
+SUMMARY;LANGUAGE=fr:Déonto & éthique pro de l'AS - Bosquet\, Fonteneau - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Déonto & éthique pro de l'AS\nEnseignants : Bosquet\, Fonteneau\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+END:VCALENDAR

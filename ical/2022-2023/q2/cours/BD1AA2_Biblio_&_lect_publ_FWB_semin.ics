@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - BD1AA2 Biblio & lect publ FWB sémin - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de BD1AA2 Biblio & lect publ FWB sémin généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230117T081212Z
+UID:Cours-1687-21-Biblio_&_lect_publ_FWB_semin-Index-Education
+DTSTART:20230202T080000Z
+DTEND:20230202T153000Z
+SUMMARY;LANGUAGE=fr:Biblio & lect publ FWB sémin - Deneulin\, Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:203
+DESCRIPTION;LANGUAGE=fr:Matière : Biblio & lect publ FWB sémin\nEnseignants : Deneulin\, Vandenbussche\nPromotion : BD1\nSalle : 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221205T072049Z
+UID:Cours-1688-21-Biblio_&_lect_publ_FWB_semin-Index-Education
+DTSTART:20230203T080000Z
+DTEND:20230203T153000Z
+SUMMARY;LANGUAGE=fr:Biblio & lect publ FWB sémin - Deneulin\, Vandenbussche - BD1
+LOCATION;LANGUAGE=fr:203
+DESCRIPTION;LANGUAGE=fr:Matière : Biblio & lect publ FWB sémin\nEnseignants : Deneulin\, Vandenbussche\nPromotion : BD1\nSalle : 203\n
+END:VEVENT
+END:VCALENDAR

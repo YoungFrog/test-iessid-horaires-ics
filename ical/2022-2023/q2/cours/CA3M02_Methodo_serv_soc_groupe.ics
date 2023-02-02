@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA3M02 Méthodo serv soc groupe - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA3M02 Méthodo serv soc groupe généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-513-3-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20220926T111500Z
+DTEND:20220926T131500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:204
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 204\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221128T120406Z
+UID:Cours-514-4-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20221003T133000Z
+DTEND:20221003T153000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221128T120406Z
+UID:Cours-514-10-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20221114T143000Z
+DTEND:20221114T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:204
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 204\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221128T120406Z
+UID:Cours-514-12-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20221128T143000Z
+DTEND:20221128T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:118\, 204
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalles : 118\, 204\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221128T120406Z
+UID:Cours-514-14-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20221212T143000Z
+DTEND:20221212T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:118\, 204
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalles : 118\, 204\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221128T120406Z
+UID:Cours-514-15-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20221219T143000Z
+DTEND:20221219T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:118\, 204
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalles : 118\, 204\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221128T120415Z
+UID:Cours-516-5-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20221010T111500Z
+DTEND:20221010T131500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221128T120415Z
+UID:Cours-516-10-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20221114T121500Z
+DTEND:20221114T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221128T120415Z
+UID:Cours-516-12-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20221128T121500Z
+DTEND:20221128T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:118\, 204
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalles : 118\, 204\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T133553Z
+UID:Cours-517-3-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20220926T133000Z
+DTEND:20220926T153000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:204
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 204\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T133553Z
+UID:Cours-517-11-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20221121T143000Z
+DTEND:20221121T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221003T133553Z
+UID:Cours-517-13-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20221205T143000Z
+DTEND:20221205T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:004\, 204
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalles : 004\, 204\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T154936Z
+UID:Cours-2824-22-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20230207T121500Z
+DTEND:20230207T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230127T115704Z
+UID:Cours-2825-32-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20230418T111500Z
+DTEND:20230418T151500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T123003Z
+UID:Cours-2828-25-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20230227T070000Z
+DTEND:20230227T090000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T123314Z
+UID:Cours-2842-23-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20230213T121500Z
+DTEND:20230213T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T123314Z
+UID:Cours-2842-27-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20230313T121500Z
+DTEND:20230313T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102557Z
+UID:Cours-2845-32-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20230418T060000Z
+DTEND:20230418T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102557Z
+UID:Cours-2845-35-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20230509T060000Z
+DTEND:20230509T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230127T115531Z
+UID:Cours-3135-35-Methodo_serv_soc_groupe-Index-Education
+DTSTART:20230508T060000Z
+DTEND:20230508T100000Z
+SUMMARY;LANGUAGE=fr:Méthodo serv soc groupe - Dejean - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo serv soc groupe\nEnseignant : Dejean\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 006\n
+END:VEVENT
+END:VCALENDAR

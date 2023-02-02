@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA2M09 Méthodo trav soc communautaire - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA2M09 Méthodo trav soc communautaire généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102226Z
+UID:Cours-2925-25-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230302T121500Z
+DTEND:20230302T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102226Z
+UID:Cours-2925-26-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230309T121500Z
+DTEND:20230309T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102226Z
+UID:Cours-2925-27-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230316T121500Z
+DTEND:20230316T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102226Z
+UID:Cours-2925-28-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230323T121500Z
+DTEND:20230323T141500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T102226Z
+UID:Cours-2925-29-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230330T111500Z
+DTEND:20230330T131500Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101250Z
+UID:Cours-2929-23-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230216T143000Z
+DTEND:20230216T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Bosquet\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\, AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101250Z
+UID:Cours-2929-25-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230302T143000Z
+DTEND:20230302T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Bosquet\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101250Z
+UID:Cours-2929-26-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230309T143000Z
+DTEND:20230309T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Bosquet\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101250Z
+UID:Cours-2929-27-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230316T143000Z
+DTEND:20230316T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Bosquet\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101250Z
+UID:Cours-2929-28-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230323T143000Z
+DTEND:20230323T163000Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Bosquet\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230201T101250Z
+UID:Cours-2929-29-Methodo_trav_soc_communautaire-Index-Education
+DTSTART:20230330T133000Z
+DTEND:20230330T153000Z
+SUMMARY;LANGUAGE=fr:Méthodo trav soc communautaire - Bosquet - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo trav soc communautaire\nEnseignant : Bosquet\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 006\n
+END:VEVENT
+END:VCALENDAR

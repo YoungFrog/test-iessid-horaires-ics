@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CI4O01 Lecture critique textes scienc - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CI4O01 Lecture critique textes scienc généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T094726Z
+UID:Cours-2416-22-Lecture_critique_textes_scienc-Index-Education
+DTSTART:20230207T183000Z
+DTEND:20230207T203000Z
+SUMMARY;LANGUAGE=fr:Lecture critique textes scienc - Beumier - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture critique textes scienc\nEnseignant : Beumier\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T094726Z
+UID:Cours-2416-29-Lecture_critique_textes_scienc-Index-Education
+DTSTART:20230328T173000Z
+DTEND:20230328T193000Z
+SUMMARY;LANGUAGE=fr:Lecture critique textes scienc - Beumier - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture critique textes scienc\nEnseignant : Beumier\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T094726Z
+UID:Cours-2417-25-Lecture_critique_textes_scienc-Index-Education
+DTSTART:20230228T163000Z
+DTEND:20230228T183000Z
+SUMMARY;LANGUAGE=fr:Lecture critique textes scienc - Beumier - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture critique textes scienc\nEnseignant : Beumier\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T094726Z
+UID:Cours-2417-27-Lecture_critique_textes_scienc-Index-Education
+DTSTART:20230314T163000Z
+DTEND:20230314T183000Z
+SUMMARY;LANGUAGE=fr:Lecture critique textes scienc - Beumier - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture critique textes scienc\nEnseignant : Beumier\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T094726Z
+UID:Cours-2417-32-Lecture_critique_textes_scienc-Index-Education
+DTSTART:20230418T153000Z
+DTEND:20230418T173000Z
+SUMMARY;LANGUAGE=fr:Lecture critique textes scienc - Beumier - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture critique textes scienc\nEnseignant : Beumier\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T094726Z
+UID:Cours-2417-33-Lecture_critique_textes_scienc-Index-Education
+DTSTART:20230425T153000Z
+DTEND:20230425T173000Z
+SUMMARY;LANGUAGE=fr:Lecture critique textes scienc - Beumier - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Lecture critique textes scienc\nEnseignant : Beumier\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+END:VCALENDAR

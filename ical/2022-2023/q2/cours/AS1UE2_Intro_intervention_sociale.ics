@@ -1,0 +1,316 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - AS1UE2 Intro intervention sociale - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de AS1UE2 Intro intervention sociale généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-296-1-Intro_intervention_sociale-Index-Education
+DTSTART:20220915T060000Z
+DTEND:20220915T080000Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-297-2-Intro_intervention_sociale-Index-Education
+DTSTART:20220920T081500Z
+DTEND:20220920T101500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-297-4-Intro_intervention_sociale-Index-Education
+DTSTART:20221004T081500Z
+DTEND:20221004T101500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:109\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 109\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-297-5-Intro_intervention_sociale-Index-Education
+DTSTART:20221011T081500Z
+DTEND:20221011T101500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 118\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-297-6-Intro_intervention_sociale-Index-Education
+DTSTART:20221018T081500Z
+DTEND:20221018T101500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:005\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 005\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-297-7-Intro_intervention_sociale-Index-Education
+DTSTART:20221025T081500Z
+DTEND:20221025T101500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:005\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 005\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-297-9-Intro_intervention_sociale-Index-Education
+DTSTART:20221108T091500Z
+DTEND:20221108T111500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:005\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 005\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-297-10-Intro_intervention_sociale-Index-Education
+DTSTART:20221115T091500Z
+DTEND:20221115T111500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 007\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-297-11-Intro_intervention_sociale-Index-Education
+DTSTART:20221122T091500Z
+DTEND:20221122T111500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 007\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-297-12-Intro_intervention_sociale-Index-Education
+DTSTART:20221129T091500Z
+DTEND:20221129T111500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 007\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-297-15-Intro_intervention_sociale-Index-Education
+DTSTART:20221220T091500Z
+DTEND:20221220T111500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 007\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-958-15-Intro_intervention_sociale-Index-Education
+DTSTART:20221221T091500Z
+DTEND:20221221T111500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007\, 115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 007\, 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-959-9-Intro_intervention_sociale-Index-Education
+DTSTART:20221109T070000Z
+DTEND:20221109T090000Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007\, 115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 007\, 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-960-10-Intro_intervention_sociale-Index-Education
+DTSTART:20221116T070000Z
+DTEND:20221116T090000Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-961-9-Intro_intervention_sociale-Index-Education
+DTSTART:20221109T091500Z
+DTEND:20221109T111500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:007\, 115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 007\, 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-962-2-Intro_intervention_sociale-Index-Education
+DTSTART:20220920T111500Z
+DTEND:20220920T131500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-962-4-Intro_intervention_sociale-Index-Education
+DTSTART:20221004T111500Z
+DTEND:20221004T131500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 118\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-962-5-Intro_intervention_sociale-Index-Education
+DTSTART:20221011T111500Z
+DTEND:20221011T131500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:118\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 118\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-962-6-Intro_intervention_sociale-Index-Education
+DTSTART:20221018T111500Z
+DTEND:20221018T131500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:005\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 005\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-962-7-Intro_intervention_sociale-Index-Education
+DTSTART:20221025T111500Z
+DTEND:20221025T131500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:005\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 005\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-962-9-Intro_intervention_sociale-Index-Education
+DTSTART:20221108T121500Z
+DTEND:20221108T141500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:005\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 005\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-962-10-Intro_intervention_sociale-Index-Education
+DTSTART:20221115T121500Z
+DTEND:20221115T141500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:007\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 007\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-962-11-Intro_intervention_sociale-Index-Education
+DTSTART:20221122T121500Z
+DTEND:20221122T141500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:007\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 007\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-962-12-Intro_intervention_sociale-Index-Education
+DTSTART:20221129T121500Z
+DTEND:20221129T141500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:007\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 007\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-962-15-Intro_intervention_sociale-Index-Education
+DTSTART:20221220T121500Z
+DTEND:20221220T141500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:007\, 203
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 007\, 203\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-963-10-Intro_intervention_sociale-Index-Education
+DTSTART:20221116T091500Z
+DTEND:20221116T111500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-964-15-Intro_intervention_sociale-Index-Education
+DTSTART:20221221T121500Z
+DTEND:20221221T141500Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:007\, 115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalles : 007\, 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230110T100849Z
+UID:Cours-1612-19-Intro_intervention_sociale-Index-Education
+DTSTART:20230117T080000Z
+DTEND:20230117T140000Z
+SUMMARY;LANGUAGE=fr:Intro intervention sociale - Meulemeester\, Simar - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Intro intervention sociale\nEnseignants : Meulemeester\, Simar\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 007\n
+END:VEVENT
+END:VCALENDAR

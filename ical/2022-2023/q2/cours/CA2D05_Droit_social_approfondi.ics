@@ -1,0 +1,317 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA2D05 Droit social approfondi - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA2D05 Droit social approfondi généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T143622Z
+UID:Cours-2280-23-Droit_social_approfondi-Index-Education
+DTSTART:20230215T121500Z
+DTEND:20230215T141500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T143622Z
+UID:Cours-2280-25-Droit_social_approfondi-Index-Education
+DTSTART:20230301T121500Z
+DTEND:20230301T141500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T143622Z
+UID:Cours-2280-26-Droit_social_approfondi-Index-Education
+DTSTART:20230308T121500Z
+DTEND:20230308T141500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T143622Z
+UID:Cours-2280-27-Droit_social_approfondi-Index-Education
+DTSTART:20230315T121500Z
+DTEND:20230315T141500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T143622Z
+UID:Cours-2280-28-Droit_social_approfondi-Index-Education
+DTSTART:20230322T121500Z
+DTEND:20230322T141500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T143622Z
+UID:Cours-2280-29-Droit_social_approfondi-Index-Education
+DTSTART:20230329T111500Z
+DTEND:20230329T131500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T143622Z
+UID:Cours-2291-32-Droit_social_approfondi-Index-Education
+DTSTART:20230419T111500Z
+DTEND:20230419T131500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151411Z
+UID:Cours-2293-23-Droit_social_approfondi-Index-Education
+DTSTART:20230215T143000Z
+DTEND:20230215T163000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151411Z
+UID:Cours-2293-25-Droit_social_approfondi-Index-Education
+DTSTART:20230301T143000Z
+DTEND:20230301T163000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151411Z
+UID:Cours-2293-26-Droit_social_approfondi-Index-Education
+DTSTART:20230308T143000Z
+DTEND:20230308T163000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151411Z
+UID:Cours-2293-27-Droit_social_approfondi-Index-Education
+DTSTART:20230315T143000Z
+DTEND:20230315T163000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151411Z
+UID:Cours-2293-28-Droit_social_approfondi-Index-Education
+DTSTART:20230322T143000Z
+DTEND:20230322T163000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151411Z
+UID:Cours-2293-29-Droit_social_approfondi-Index-Education
+DTSTART:20230329T133000Z
+DTEND:20230329T153000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T143730Z
+UID:Cours-2294-32-Droit_social_approfondi-Index-Education
+DTSTART:20230419T133000Z
+DTEND:20230419T153000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T144452Z
+UID:Cours-2903-23-Droit_social_approfondi-Index-Education
+DTSTART:20230217T143000Z
+DTEND:20230217T163000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T144452Z
+UID:Cours-2903-25-Droit_social_approfondi-Index-Education
+DTSTART:20230303T143000Z
+DTEND:20230303T163000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T144452Z
+UID:Cours-2903-26-Droit_social_approfondi-Index-Education
+DTSTART:20230310T143000Z
+DTEND:20230310T163000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T144452Z
+UID:Cours-2903-27-Droit_social_approfondi-Index-Education
+DTSTART:20230317T143000Z
+DTEND:20230317T163000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T144452Z
+UID:Cours-2903-28-Droit_social_approfondi-Index-Education
+DTSTART:20230324T143000Z
+DTEND:20230324T163000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T144452Z
+UID:Cours-2903-29-Droit_social_approfondi-Index-Education
+DTSTART:20230331T133000Z
+DTEND:20230331T153000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T144452Z
+UID:Cours-2903-32-Droit_social_approfondi-Index-Education
+DTSTART:20230421T133000Z
+DTEND:20230421T153000Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151249Z
+UID:Cours-2904-23-Droit_social_approfondi-Index-Education
+DTSTART:20230217T121500Z
+DTEND:20230217T141500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151249Z
+UID:Cours-2904-25-Droit_social_approfondi-Index-Education
+DTSTART:20230303T121500Z
+DTEND:20230303T141500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151249Z
+UID:Cours-2904-26-Droit_social_approfondi-Index-Education
+DTSTART:20230310T121500Z
+DTEND:20230310T141500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151249Z
+UID:Cours-2904-27-Droit_social_approfondi-Index-Education
+DTSTART:20230317T121500Z
+DTEND:20230317T141500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151249Z
+UID:Cours-2904-28-Droit_social_approfondi-Index-Education
+DTSTART:20230324T121500Z
+DTEND:20230324T141500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151249Z
+UID:Cours-2904-29-Droit_social_approfondi-Index-Education
+DTSTART:20230331T111500Z
+DTEND:20230331T131500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T151249Z
+UID:Cours-2904-32-Droit_social_approfondi-Index-Education
+DTSTART:20230421T111500Z
+DTEND:20230421T131500Z
+SUMMARY;LANGUAGE=fr:Droit social approfondi - Cassiers - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Droit social approfondi\nEnseignant : Cassiers\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 006\n
+END:VEVENT
+END:VCALENDAR

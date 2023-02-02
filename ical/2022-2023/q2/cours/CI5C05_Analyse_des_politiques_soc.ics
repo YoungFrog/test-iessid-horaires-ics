@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CI5C05 Analyse des politiques soc - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CI5C05 Analyse des politiques soc généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T085128Z
+UID:Cours-2422-22-Analyse_des_politiques_soc-Index-Education
+DTSTART:20230208T183000Z
+DTEND:20230208T203000Z
+SUMMARY;LANGUAGE=fr:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse des politiques soc\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T085128Z
+UID:Cours-2422-23-Analyse_des_politiques_soc-Index-Education
+DTSTART:20230215T183000Z
+DTEND:20230215T203000Z
+SUMMARY;LANGUAGE=fr:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse des politiques soc\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T085128Z
+UID:Cours-2422-25-Analyse_des_politiques_soc-Index-Education
+DTSTART:20230301T183000Z
+DTEND:20230301T203000Z
+SUMMARY;LANGUAGE=fr:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse des politiques soc\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T085128Z
+UID:Cours-2422-26-Analyse_des_politiques_soc-Index-Education
+DTSTART:20230308T183000Z
+DTEND:20230308T203000Z
+SUMMARY;LANGUAGE=fr:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse des politiques soc\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T085128Z
+UID:Cours-2422-27-Analyse_des_politiques_soc-Index-Education
+DTSTART:20230315T183000Z
+DTEND:20230315T203000Z
+SUMMARY;LANGUAGE=fr:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse des politiques soc\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T085128Z
+UID:Cours-2422-28-Analyse_des_politiques_soc-Index-Education
+DTSTART:20230322T183000Z
+DTEND:20230322T203000Z
+SUMMARY;LANGUAGE=fr:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse des politiques soc\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T085128Z
+UID:Cours-2422-29-Analyse_des_politiques_soc-Index-Education
+DTSTART:20230329T173000Z
+DTEND:20230329T193000Z
+SUMMARY;LANGUAGE=fr:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse des politiques soc\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T085128Z
+UID:Cours-2422-32-Analyse_des_politiques_soc-Index-Education
+DTSTART:20230419T173000Z
+DTEND:20230419T193000Z
+SUMMARY;LANGUAGE=fr:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse des politiques soc\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T085128Z
+UID:Cours-2422-33-Analyse_des_politiques_soc-Index-Education
+DTSTART:20230426T173000Z
+DTEND:20230426T193000Z
+SUMMARY;LANGUAGE=fr:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse des politiques soc\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T085128Z
+UID:Cours-2422-36-Analyse_des_politiques_soc-Index-Education
+DTSTART:20230517T173000Z
+DTEND:20230517T193000Z
+SUMMARY;LANGUAGE=fr:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse des politiques soc\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T085128Z
+UID:Cours-2422-37-Analyse_des_politiques_soc-Index-Education
+DTSTART:20230524T173000Z
+DTEND:20230524T193000Z
+SUMMARY;LANGUAGE=fr:Analyse des politiques soc - Mendes Dias Ferreira - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse des politiques soc\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+END:VCALENDAR

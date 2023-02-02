@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CB3H01 Recherche doc sciences hum - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CB3H01 Recherche doc sciences hum généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083453Z
+UID:Cours-2254-28-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230323T091500Z
+DTEND:20230323T111500Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083453Z
+UID:Cours-2254-35-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230511T081500Z
+DTEND:20230511T101500Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083453Z
+UID:Cours-2255-28-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230323T070000Z
+DTEND:20230323T090000Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083453Z
+UID:Cours-2255-35-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230511T060000Z
+DTEND:20230511T080000Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083440Z
+UID:Cours-2257-22-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230210T091500Z
+DTEND:20230210T111500Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083440Z
+UID:Cours-2257-23-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230217T091500Z
+DTEND:20230217T111500Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083440Z
+UID:Cours-2257-25-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230303T091500Z
+DTEND:20230303T111500Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083440Z
+UID:Cours-2257-28-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230324T091500Z
+DTEND:20230324T111500Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083440Z
+UID:Cours-2257-36-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230519T081500Z
+DTEND:20230519T101500Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083440Z
+UID:Cours-2258-22-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230210T070000Z
+DTEND:20230210T090000Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083440Z
+UID:Cours-2258-23-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230217T070000Z
+DTEND:20230217T090000Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T083440Z
+UID:Cours-2258-25-Recherche_doc_sciences_hum-Index-Education
+DTSTART:20230303T070000Z
+DTEND:20230303T090000Z
+SUMMARY;LANGUAGE=fr:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc sciences hum\nEnseignant : Vandenbussche\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+END:VCALENDAR

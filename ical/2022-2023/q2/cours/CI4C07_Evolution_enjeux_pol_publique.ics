@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CI4C07 Evolution, enjeux pol publique - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CI4C07 Evolution, enjeux pol publique généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221004T140910Z
+UID:Cours-1422-2-Evolution_enjeux_pol_publique-Index-Education
+DTSTART:20220919T153000Z
+DTEND:20220919T193000Z
+SUMMARY;LANGUAGE=fr:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Evolution\, enjeux pol publique\nEnseignants : NOËL\, Szoc\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221004T140910Z
+UID:Cours-1422-3-Evolution_enjeux_pol_publique-Index-Education
+DTSTART:20220926T153000Z
+DTEND:20220926T193000Z
+SUMMARY;LANGUAGE=fr:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Evolution\, enjeux pol publique\nEnseignants : NOËL\, Szoc\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221004T140910Z
+UID:Cours-1422-4-Evolution_enjeux_pol_publique-Index-Education
+DTSTART:20221003T153000Z
+DTEND:20221003T193000Z
+SUMMARY;LANGUAGE=fr:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Evolution\, enjeux pol publique\nEnseignants : NOËL\, Szoc\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221004T140910Z
+UID:Cours-1422-5-Evolution_enjeux_pol_publique-Index-Education
+DTSTART:20221010T153000Z
+DTEND:20221010T193000Z
+SUMMARY;LANGUAGE=fr:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Evolution\, enjeux pol publique\nEnseignants : NOËL\, Szoc\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221004T140910Z
+UID:Cours-1422-7-Evolution_enjeux_pol_publique-Index-Education
+DTSTART:20221024T153000Z
+DTEND:20221024T193000Z
+SUMMARY;LANGUAGE=fr:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Evolution\, enjeux pol publique\nEnseignants : NOËL\, Szoc\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221004T140910Z
+UID:Cours-1422-9-Evolution_enjeux_pol_publique-Index-Education
+DTSTART:20221107T163000Z
+DTEND:20221107T203000Z
+SUMMARY;LANGUAGE=fr:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Evolution\, enjeux pol publique\nEnseignants : NOËL\, Szoc\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221004T140910Z
+UID:Cours-1422-10-Evolution_enjeux_pol_publique-Index-Education
+DTSTART:20221114T163000Z
+DTEND:20221114T203000Z
+SUMMARY;LANGUAGE=fr:Evolution\, enjeux pol publique - NOËL\, Szoc - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Evolution\, enjeux pol publique\nEnseignants : NOËL\, Szoc\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+END:VCALENDAR

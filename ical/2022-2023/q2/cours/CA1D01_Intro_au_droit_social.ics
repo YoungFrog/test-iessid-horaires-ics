@@ -1,0 +1,405 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA1D01 Intro au droit social - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA1D01 Intro au droit social généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-1932-32-Intro_au_droit_social-Index-Education
+DTSTART:20230417T060000Z
+DTEND:20230417T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-1932-33-Intro_au_droit_social-Index-Education
+DTSTART:20230424T060000Z
+DTEND:20230424T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T191934Z
+UID:Cours-1934-35-Intro_au_droit_social-Index-Education
+DTSTART:20230508T060000Z
+DTEND:20230508T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-1935-36-Intro_au_droit_social-Index-Education
+DTSTART:20230515T060000Z
+DTEND:20230515T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221209T191945Z
+UID:Cours-1938-37-Intro_au_droit_social-Index-Education
+DTSTART:20230522T060000Z
+DTEND:20230522T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2740-32-Intro_au_droit_social-Index-Education
+DTSTART:20230417T081500Z
+DTEND:20230417T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2740-33-Intro_au_droit_social-Index-Education
+DTSTART:20230424T081500Z
+DTEND:20230424T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2740-35-Intro_au_droit_social-Index-Education
+DTSTART:20230508T081500Z
+DTEND:20230508T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2740-36-Intro_au_droit_social-Index-Education
+DTSTART:20230515T081500Z
+DTEND:20230515T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2740-37-Intro_au_droit_social-Index-Education
+DTSTART:20230522T081500Z
+DTEND:20230522T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093329Z
+UID:Cours-2745-32-Intro_au_droit_social-Index-Education
+DTSTART:20230418T060000Z
+DTEND:20230418T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093329Z
+UID:Cours-2745-33-Intro_au_droit_social-Index-Education
+DTSTART:20230425T060000Z
+DTEND:20230425T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093329Z
+UID:Cours-2745-35-Intro_au_droit_social-Index-Education
+DTSTART:20230509T060000Z
+DTEND:20230509T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093329Z
+UID:Cours-2745-37-Intro_au_droit_social-Index-Education
+DTSTART:20230523T060000Z
+DTEND:20230523T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093329Z
+UID:Cours-2745-38-Intro_au_droit_social-Index-Education
+DTSTART:20230530T060000Z
+DTEND:20230530T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2749-32-Intro_au_droit_social-Index-Education
+DTSTART:20230418T081500Z
+DTEND:20230418T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2749-33-Intro_au_droit_social-Index-Education
+DTSTART:20230425T081500Z
+DTEND:20230425T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2749-35-Intro_au_droit_social-Index-Education
+DTSTART:20230509T081500Z
+DTEND:20230509T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2749-37-Intro_au_droit_social-Index-Education
+DTSTART:20230523T081500Z
+DTEND:20230523T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2749-38-Intro_au_droit_social-Index-Education
+DTSTART:20230530T081500Z
+DTEND:20230530T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093618Z
+UID:Cours-2769-32-Intro_au_droit_social-Index-Education
+DTSTART:20230420T060000Z
+DTEND:20230420T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093618Z
+UID:Cours-2769-33-Intro_au_droit_social-Index-Education
+DTSTART:20230427T060000Z
+DTEND:20230427T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093618Z
+UID:Cours-2769-35-Intro_au_droit_social-Index-Education
+DTSTART:20230511T060000Z
+DTEND:20230511T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T093618Z
+UID:Cours-2769-37-Intro_au_droit_social-Index-Education
+DTSTART:20230525T060000Z
+DTEND:20230525T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094620Z
+UID:Cours-2774-32-Intro_au_droit_social-Index-Education
+DTSTART:20230420T081500Z
+DTEND:20230420T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:302
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094620Z
+UID:Cours-2774-33-Intro_au_droit_social-Index-Education
+DTSTART:20230427T081500Z
+DTEND:20230427T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:302
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094620Z
+UID:Cours-2774-35-Intro_au_droit_social-Index-Education
+DTSTART:20230511T081500Z
+DTEND:20230511T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:302
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 302\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094620Z
+UID:Cours-2774-37-Intro_au_droit_social-Index-Education
+DTSTART:20230525T081500Z
+DTEND:20230525T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2792-29-Intro_au_droit_social-Index-Education
+DTSTART:20230331T060000Z
+DTEND:20230331T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2792-32-Intro_au_droit_social-Index-Education
+DTSTART:20230421T060000Z
+DTEND:20230421T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2792-33-Intro_au_droit_social-Index-Education
+DTSTART:20230428T060000Z
+DTEND:20230428T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2792-35-Intro_au_droit_social-Index-Education
+DTSTART:20230512T060000Z
+DTEND:20230512T080000Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2793-29-Intro_au_droit_social-Index-Education
+DTSTART:20230331T081500Z
+DTEND:20230331T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2793-32-Intro_au_droit_social-Index-Education
+DTSTART:20230421T081500Z
+DTEND:20230421T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2793-33-Intro_au_droit_social-Index-Education
+DTSTART:20230428T081500Z
+DTEND:20230428T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2793-35-Intro_au_droit_social-Index-Education
+DTSTART:20230512T081500Z
+DTEND:20230512T101500Z
+SUMMARY;LANGUAGE=fr:Intro au droit social - Van Keerberghen - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Intro au droit social\nEnseignant : Van Keerberghen\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+END:VCALENDAR

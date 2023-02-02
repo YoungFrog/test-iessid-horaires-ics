@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA3M08 Tech & ex anim et cond réunion - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA3M08 Tech & ex anim et cond réunion généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221020T145457Z
+UID:Cours-1457-9-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221107T091500Z
+DTEND:20221107T111500Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe E2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221027T112644Z
+UID:Cours-1458-10-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221114T070000Z
+DTEND:20221114T090000Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe E2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221020T145530Z
+UID:Cours-1459-11-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221121T121500Z
+DTEND:20221121T141500Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe E2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221020T145629Z
+UID:Cours-1460-12-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221129T143000Z
+DTEND:20221129T163000Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221017T123829Z
+UID:Cours-1461-13-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221205T121500Z
+DTEND:20221205T141500Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E2
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe E2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221020T145543Z
+UID:Cours-1462-9-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221107T143000Z
+DTEND:20221107T163000Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe E1\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221020T145555Z
+UID:Cours-1464-11-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221121T143000Z
+DTEND:20221121T163000Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe E1\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221017T123834Z
+UID:Cours-1466-13-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221205T143000Z
+DTEND:20221205T163000Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe E1\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221020T145605Z
+UID:Cours-1467-9-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221108T091500Z
+DTEND:20221108T111500Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe F1\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221027T114805Z
+UID:Cours-1468-10-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221114T091500Z
+DTEND:20221114T111500Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:004\, 115
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalles : 004\, 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221020T145621Z
+UID:Cours-1469-12-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221129T121500Z
+DTEND:20221129T141500Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe F1\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221020T145641Z
+UID:Cours-1470-13-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221206T121500Z
+DTEND:20221206T141500Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe F1\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221027T114856Z
+UID:Cours-1471-14-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221212T091500Z
+DTEND:20221212T111500Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:005\, 006
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalles : 005\, 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221020T145647Z
+UID:Cours-1472-13-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221206T070000Z
+DTEND:20221206T090000Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe F2\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221017T122916Z
+UID:Cours-1473-15-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221219T091500Z
+DTEND:20221219T111500Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F2
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe F2\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221020T145522Z
+UID:Cours-1475-9-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221107T121500Z
+DTEND:20221107T141500Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotion : AS3 - Groupe F2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221121T115125Z
+UID:Cours-1536-13-Tech_&_ex_anim_et_cond_reunion-Index-Education
+DTSTART:20221206T143000Z
+DTEND:20221206T163000Z
+SUMMARY;LANGUAGE=fr:Tech & ex anim et cond réunion - Jamaoui - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Tech & ex anim et cond réunion\nEnseignant : Jamaoui\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 004\n
+END:VEVENT
+END:VCALENDAR

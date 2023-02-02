@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CJ4I03 Jeu(x) & fragilisation(s) - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CJ4I03 Jeu(x) & fragilisation(s) généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230127T110212Z
+UID:Cours-3080-35-Jeu(x)_&_fragilisation(s)-Index-Education
+DTSTART:20230510T173000Z
+DTEND:20230510T193000Z
+SUMMARY;LANGUAGE=fr:Jeu(x) & fragilisation(s) - Van Langendonckt - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Jeu(x) & fragilisation(s)\nEnseignant : Van Langendonckt\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230127T110212Z
+UID:Cours-3080-37-Jeu(x)_&_fragilisation(s)-Index-Education
+DTSTART:20230524T173000Z
+DTEND:20230524T193000Z
+SUMMARY;LANGUAGE=fr:Jeu(x) & fragilisation(s) - Van Langendonckt - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Jeu(x) & fragilisation(s)\nEnseignant : Van Langendonckt\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230130T124819Z
+UID:Cours-3128-37-Jeu(x)_&_fragilisation(s)-Index-Education
+DTSTART:20230527T070000Z
+DTEND:20230527T150000Z
+SUMMARY;LANGUAGE=fr:Jeu(x) & fragilisation(s) - Van Langendonckt - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Jeu(x) & fragilisation(s)\nEnseignant : Van Langendonckt\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CI4R02 Pratiques et écologie sociales - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CI4R02 Pratiques et écologie sociales généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221025T142139Z
+UID:Cours-1502-10-Pratiques_et_ecologie_sociales-Index-Education
+DTSTART:20221116T183000Z
+DTEND:20221116T203000Z
+SUMMARY;LANGUAGE=fr:Pratiques et écologie sociales - Mendes Dias Ferreira - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Pratiques et écologie sociales\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221025T142139Z
+UID:Cours-1502-14-Pratiques_et_ecologie_sociales-Index-Education
+DTSTART:20221214T183000Z
+DTEND:20221214T203000Z
+SUMMARY;LANGUAGE=fr:Pratiques et écologie sociales - Mendes Dias Ferreira - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Pratiques et écologie sociales\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221025T142139Z
+UID:Cours-1504-7-Pratiques_et_ecologie_sociales-Index-Education
+DTSTART:20221026T153000Z
+DTEND:20221026T173000Z
+SUMMARY;LANGUAGE=fr:Pratiques et écologie sociales - Mendes Dias Ferreira - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Pratiques et écologie sociales\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221025T142139Z
+UID:Cours-1504-9-Pratiques_et_ecologie_sociales-Index-Education
+DTSTART:20221109T163000Z
+DTEND:20221109T183000Z
+SUMMARY;LANGUAGE=fr:Pratiques et écologie sociales - Mendes Dias Ferreira - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Pratiques et écologie sociales\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221025T142139Z
+UID:Cours-1504-11-Pratiques_et_ecologie_sociales-Index-Education
+DTSTART:20221123T163000Z
+DTEND:20221123T183000Z
+SUMMARY;LANGUAGE=fr:Pratiques et écologie sociales - Mendes Dias Ferreira - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Pratiques et écologie sociales\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221025T142139Z
+UID:Cours-1504-12-Pratiques_et_ecologie_sociales-Index-Education
+DTSTART:20221130T163000Z
+DTEND:20221130T183000Z
+SUMMARY;LANGUAGE=fr:Pratiques et écologie sociales - Mendes Dias Ferreira - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Pratiques et écologie sociales\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221025T142139Z
+UID:Cours-1504-13-Pratiques_et_ecologie_sociales-Index-Education
+DTSTART:20221207T163000Z
+DTEND:20221207T183000Z
+SUMMARY;LANGUAGE=fr:Pratiques et écologie sociales - Mendes Dias Ferreira - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Pratiques et écologie sociales\nEnseignant : Mendes Dias Ferreira\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+END:VCALENDAR

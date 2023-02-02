@@ -1,0 +1,925 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:Cours-1012-4-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220903T111500Z
+DTEND:20220903T131500Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1013-3-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220826T060000Z
+DTEND:20220826T080000Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1013-4-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220903T060000Z
+DTEND:20220903T080000Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1013-5-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220910T060000Z
+DTEND:20220910T080000Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1013-6-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220917T060000Z
+DTEND:20220917T080000Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1013-7-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220924T060000Z
+DTEND:20220924T080000Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1016-3-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220829T081500Z
+DTEND:20220829T101500Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1017-4-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220907T060000Z
+DTEND:20220907T080000Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1397-3-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220826T081500Z
+DTEND:20220826T101500Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1397-5-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220910T081500Z
+DTEND:20220910T101500Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1397-6-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220917T081500Z
+DTEND:20220917T101500Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1397-7-Fondements_rech_doc_pratique-Index-Education
+SUMMARY:Fondements rech doc pratique - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220924T081500Z
+DTEND:20220924T101500Z
+DESCRIPTION:Fondements rech doc pratique - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1023-2-Rech_doc_SISH-Index-Education
+SUMMARY:Rech doc SISH - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220819T133000Z
+DTEND:20220819T153000Z
+DESCRIPTION:Rech doc SISH - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1025-2-Rech_doc_SISH-Index-Education
+SUMMARY:Rech doc SISH - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220821T081500Z
+DTEND:20220821T101500Z
+DESCRIPTION:Rech doc SISH - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1027-3-Rech_doc_SISH-Index-Education
+SUMMARY:Rech doc SISH - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220828T133000Z
+DTEND:20220828T153000Z
+DESCRIPTION:Rech doc SISH - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1027-5-Rech_doc_SISH-Index-Education
+SUMMARY:Rech doc SISH - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220912T133000Z
+DTEND:20220912T153000Z
+DESCRIPTION:Rech doc SISH - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1027-6-Rech_doc_SISH-Index-Education
+SUMMARY:Rech doc SISH - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220919T133000Z
+DTEND:20220919T153000Z
+DESCRIPTION:Rech doc SISH - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1019-6-rech_doc_outils_comm-Index-Education
+SUMMARY:rech doc outils comm - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220921T060000Z
+DTEND:20220921T080000Z
+DESCRIPTION:rech doc outils comm - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1020-3-rech_doc_outils_comm-Index-Education
+SUMMARY:rech doc outils comm - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220830T081500Z
+DTEND:20220830T101500Z
+DESCRIPTION:rech doc outils comm - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1020-4-rech_doc_outils_comm-Index-Education
+SUMMARY:rech doc outils comm - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220907T081500Z
+DTEND:20220907T101500Z
+DESCRIPTION:rech doc outils comm - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1020-5-rech_doc_outils_comm-Index-Education
+SUMMARY:rech doc outils comm - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220914T081500Z
+DTEND:20220914T101500Z
+DESCRIPTION:rech doc outils comm - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1020-6-rech_doc_outils_comm-Index-Education
+SUMMARY:rech doc outils comm - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220921T081500Z
+DTEND:20220921T101500Z
+DESCRIPTION:rech doc outils comm - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1021-3-rech_doc_outils_comm-Index-Education
+SUMMARY:rech doc outils comm - Vandenbussche - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20220828T081500Z
+DTEND:20220828T101500Z
+DESCRIPTION:rech doc outils comm - Vandenbussche - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1051-10-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221015T143000Z
+DTEND:20221015T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1559-11-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221022T143000Z
+DTEND:20221022T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1568-12-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221029T143000Z
+DTEND:20221029T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1572-12-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221101T121500Z
+DTEND:20221101T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1670-13-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221106T121500Z
+DTEND:20221106T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1671-13-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221108T121500Z
+DTEND:20221108T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1674-14-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221113T121500Z
+DTEND:20221113T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1676-14-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221115T121500Z
+DTEND:20221115T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1678-15-Lecture_publ_catalogues-Index-Education
+SUMMARY:Lecture publ catalogues - Fruzzetti - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221120T121500Z
+DTEND:20221120T163000Z
+DESCRIPTION:Lecture publ catalogues - Fruzzetti - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1554-11-Lecture_publique_pratique-Index-Education
+SUMMARY:Lecture publique pratique - Francq - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221021T070000Z
+DTEND:20221021T143000Z
+DESCRIPTION:Lecture publique pratique - Francq - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1661-13-Lecture_publique_pratique-Index-Education
+SUMMARY:Lecture publique pratique - Francq - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221105T080000Z
+DTEND:20221105T151500Z
+DESCRIPTION:Lecture publique pratique - Francq - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1677-15-Lecture_publique_pratique-Index-Education
+SUMMARY:Lecture publique pratique - Francq - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221120T070000Z
+DTEND:20221120T111500Z
+DESCRIPTION:Lecture publique pratique - Francq - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1556-14-Lecture_publique_theorie-Index-Education
+SUMMARY:Lecture publique théorie - Dessicy - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221112T080000Z
+DTEND:20221112T153000Z
+DESCRIPTION:Lecture publique théorie - Dessicy - BD1
+LOCATION:113 (salle info)\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1668-15-Lecture_publique_theorie-Index-Education
+SUMMARY:Lecture publique théorie - Dessicy - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221119T080000Z
+DTEND:20221119T153000Z
+DESCRIPTION:Lecture publique théorie - Dessicy - BD1
+LOCATION:113 (salle info)\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1672-13-Lecture_publique_theorie-Index-Education
+SUMMARY:Lecture publique théorie - Dessicy - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20221109T080000Z
+DTEND:20221109T153000Z
+DESCRIPTION:Lecture publique théorie - Dessicy - BD1
+LOCATION:113 (salle info)\, 203
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1713-27-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230215T121500Z
+DTEND:20230215T141500Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1714-29-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230227T131500Z
+DTEND:20230227T151500Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1722-22-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230107T070000Z
+DTEND:20230107T090000Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1722-23-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230114T070000Z
+DTEND:20230114T090000Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1722-25-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230128T070000Z
+DTEND:20230128T090000Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1722-26-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230207T070000Z
+DTEND:20230207T090000Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1722-27-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230214T070000Z
+DTEND:20230214T090000Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1722-28-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230221T070000Z
+DTEND:20230221T090000Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1722-29-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230228T060000Z
+DTEND:20230228T080000Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1729-22-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230107T091500Z
+DTEND:20230107T111500Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1729-23-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230114T091500Z
+DTEND:20230114T111500Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1729-25-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230128T091500Z
+DTEND:20230128T111500Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1729-26-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230207T091500Z
+DTEND:20230207T111500Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1729-27-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230214T091500Z
+DTEND:20230214T111500Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1729-28-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230221T091500Z
+DTEND:20230221T111500Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1729-29-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230228T081500Z
+DTEND:20230228T101500Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1731-29-Serv_docs_-_outils_comm-Index-Education
+SUMMARY:Serv docs - outils comm - BD1
+DTSTAMP:20230202T091900Z
+DTSTART:20230227T110000Z
+DTEND:20230227T130000Z
+DESCRIPTION:Serv docs - outils comm - BD1
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-523-4-Psycho_dynamique-Index-Education
+SUMMARY:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+DTSTAMP:20230202T091900Z
+DTSTART:20220906T133000Z
+DTEND:20220906T153000Z
+DESCRIPTION:Psycho dynamique - Didier - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-717-6-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220920T111500Z
+DTEND:20220920T131500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1112-5-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220913T111500Z
+DTEND:20220913T131500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1116-6-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220920T081500Z
+DTEND:20220920T101500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1120-7-TP_visites_&_seminaires_3-Index-Education
+SUMMARY:TP\, visites & séminaires 3 - Wallez - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220925T111500Z
+DTEND:20220925T131500Z
+DESCRIPTION:TP\, visites & séminaires 3 - Wallez - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2249-36-Probl_specifiques_de_catalogue-Index-Education
+SUMMARY:Probl spécifiques de catalogue - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230416T060000Z
+DTEND:20230416T080000Z
+DESCRIPTION:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2250-22-Probl_specifiques_de_catalogue-Index-Education
+SUMMARY:Probl spécifiques de catalogue - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230106T121500Z
+DTEND:20230106T141500Z
+DESCRIPTION:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2251-35-Probl_specifiques_de_catalogue-Index-Education
+SUMMARY:Probl spécifiques de catalogue - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230410T081500Z
+DTEND:20230410T101500Z
+DESCRIPTION:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2251-36-Probl_specifiques_de_catalogue-Index-Education
+SUMMARY:Probl spécifiques de catalogue - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230417T081500Z
+DTEND:20230417T101500Z
+DESCRIPTION:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2252-35-Probl_specifiques_de_catalogue-Index-Education
+SUMMARY:Probl spécifiques de catalogue - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230410T111500Z
+DTEND:20230410T131500Z
+DESCRIPTION:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2252-36-Probl_specifiques_de_catalogue-Index-Education
+SUMMARY:Probl spécifiques de catalogue - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230417T111500Z
+DTEND:20230417T131500Z
+DESCRIPTION:Probl spécifiques de catalogue - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2246-28-Langages_d'indexation-Index-Education
+SUMMARY:Langages d'indexation - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230222T091500Z
+DTEND:20230222T111500Z
+DESCRIPTION:Langages d'indexation - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2246-29-Langages_d'indexation-Index-Education
+SUMMARY:Langages d'indexation - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230301T081500Z
+DTEND:20230301T101500Z
+DESCRIPTION:Langages d'indexation - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2247-22-Langages_d'indexation-Index-Education
+SUMMARY:Langages d'indexation - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230106T091500Z
+DTEND:20230106T111500Z
+DESCRIPTION:Langages d'indexation - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2977-22-Langages_d'indexation-Index-Education
+SUMMARY:Langages d'indexation - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230106T070000Z
+DTEND:20230106T090000Z
+DESCRIPTION:Langages d'indexation - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2977-25-Langages_d'indexation-Index-Education
+SUMMARY:Langages d'indexation - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230127T070000Z
+DTEND:20230127T090000Z
+DESCRIPTION:Langages d'indexation - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2977-36-Langages_d'indexation-Index-Education
+SUMMARY:Langages d'indexation - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230415T060000Z
+DTEND:20230415T080000Z
+DESCRIPTION:Langages d'indexation - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1122-7-Informatisation_des_serv_doc-Index-Education
+SUMMARY:Informatisation des serv doc - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220928T111500Z
+DTEND:20220928T131500Z
+DESCRIPTION:Informatisation des serv doc - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1123-7-Informatisation_des_serv_doc-Index-Education
+SUMMARY:Informatisation des serv doc - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220928T081500Z
+DTEND:20220928T101500Z
+DESCRIPTION:Informatisation des serv doc - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2254-28-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230223T091500Z
+DTEND:20230223T111500Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2254-35-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230411T081500Z
+DTEND:20230411T101500Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2255-28-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230223T070000Z
+DTEND:20230223T090000Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2255-35-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230411T060000Z
+DTEND:20230411T080000Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2257-22-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230110T091500Z
+DTEND:20230110T111500Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2257-23-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230117T091500Z
+DTEND:20230117T111500Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2257-25-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230203T091500Z
+DTEND:20230203T111500Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2257-28-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230224T091500Z
+DTEND:20230224T111500Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2257-36-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230419T081500Z
+DTEND:20230419T101500Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2258-22-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230110T070000Z
+DTEND:20230110T090000Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2258-23-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230117T070000Z
+DTEND:20230117T090000Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2258-25-Recherche_doc_sciences_hum-Index-Education
+SUMMARY:Recherche doc sciences hum - Vandenbussche - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230203T070000Z
+DTEND:20230203T090000Z
+DESCRIPTION:Recherche doc sciences hum - Vandenbussche - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-728-7-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220927T081500Z
+DTEND:20220927T101500Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-728-10-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20221017T091500Z
+DTEND:20221017T111500Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-793-3-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220828T060000Z
+DTEND:20220828T080000Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-794-2-Gestion_num_des_connaissances-Index-Education
+SUMMARY:Gestion num des connaissances - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220823T060000Z
+DTEND:20220823T080000Z
+DESCRIPTION:Gestion num des connaissances - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-706-5-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220912T081500Z
+DTEND:20220912T101500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-735-2-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220820T060000Z
+DTEND:20220820T080000Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-789-6-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220918T111500Z
+DTEND:20220918T131500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-790-7-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220926T081500Z
+DTEND:20220926T101500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-792-2-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220821T060000Z
+DTEND:20220821T080000Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-792-4-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220905T060000Z
+DTEND:20220905T080000Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-792-10-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20221016T070000Z
+DTEND:20221016T090000Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1105-5-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220911T081500Z
+DTEND:20220911T101500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1105-7-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220925T081500Z
+DTEND:20220925T101500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1105-10-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20221015T091500Z
+DTEND:20221015T111500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-1108-6-Veille_strategique-Index-Education
+SUMMARY:Veille stratégique - Borry - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20220919T111500Z
+DTEND:20220919T131500Z
+DESCRIPTION:Veille stratégique - Borry - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+BEGIN:VEVENT
+UID:Cours-2244-35-Recherche_doc_science_&_tech-Index-Education
+SUMMARY:Recherche doc science & tech - Mievis - BD3
+DTSTAMP:20230202T091900Z
+DTSTART:20230409T060000Z
+DTEND:20230409T101500Z
+DESCRIPTION:Recherche doc science & tech - Mievis - BD3
+LOCATION:113 (salle info)
+END:VEVENT
+END:VCALENDAR

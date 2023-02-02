@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CJ4E04 Centres ludopédagogiques - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CJ4E04 Centres ludopédagogiques généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230127T105726Z
+UID:Cours-3126-28-Centres_ludopedagogiques-Index-Education
+DTSTART:20230325T080000Z
+DTEND:20230325T160000Z
+SUMMARY;LANGUAGE=fr:Centres ludopédagogiques - Van Langendonckt - BSP STJ
+LOCATION;LANGUAGE=fr:004
+DESCRIPTION;LANGUAGE=fr:Matière : Centres ludopédagogiques\nEnseignant : Van Langendonckt\nPromotion : BSP STJ\nSalle : 004\n
+END:VEVENT
+END:VCALENDAR

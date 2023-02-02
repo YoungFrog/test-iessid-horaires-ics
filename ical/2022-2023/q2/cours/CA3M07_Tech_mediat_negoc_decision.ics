@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA3M07 Tech médiat, négoc, décision - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA3M07 Tech médiat, négoc, décision généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1201-4-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221004T133000Z
+DTEND:20221004T153000Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1201-5-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221011T133000Z
+DTEND:20221011T153000Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1201-9-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221108T143000Z
+DTEND:20221108T163000Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1201-10-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221115T143000Z
+DTEND:20221115T163000Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1201-11-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221122T143000Z
+DTEND:20221122T163000Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1201-12-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221129T143000Z
+DTEND:20221129T163000Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1201-13-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221206T143000Z
+DTEND:20221206T163000Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1201-14-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221213T143000Z
+DTEND:20221213T163000Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1201-15-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221220T143000Z
+DTEND:20221220T163000Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1203-4-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221004T111500Z
+DTEND:20221004T131500Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1203-5-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221011T111500Z
+DTEND:20221011T131500Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1203-9-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221108T121500Z
+DTEND:20221108T141500Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1203-10-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221115T121500Z
+DTEND:20221115T141500Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1203-11-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221122T121500Z
+DTEND:20221122T141500Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1203-12-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221129T121500Z
+DTEND:20221129T141500Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1203-13-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221206T121500Z
+DTEND:20221206T141500Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1203-14-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221213T121500Z
+DTEND:20221213T141500Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1203-15-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20221220T121500Z
+DTEND:20221220T141500Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20230112T132416Z
+UID:Cours-1624-18-Tech_mediat_negoc_decision-Index-Education
+DTSTART:20230113T073000Z
+DTEND:20230113T093000Z
+SUMMARY;LANGUAGE=fr:Tech médiat\, négoc\, décision - Philippart - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Tech médiat\, négoc\, décision\nEnseignant : Philippart\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 109\n
+END:VEVENT
+END:VCALENDAR

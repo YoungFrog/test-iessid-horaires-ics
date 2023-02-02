@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA2M11 Méthodo intégrée - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA2M11 Méthodo intégrée généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T120843Z
+UID:Cours-1826-32-Methodo_integree-Index-Education
+DTSTART:20230420T111500Z
+DTEND:20230420T153000Z
+SUMMARY;LANGUAGE=fr:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo intégrée\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T121029Z
+UID:Cours-1831-32-Methodo_integree-Index-Education
+DTSTART:20230421T060000Z
+DTEND:20230421T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:004\, 005
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo intégrée\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalles : 004\, 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T120850Z
+UID:Cours-1837-33-Methodo_integree-Index-Education
+DTSTART:20230427T111500Z
+DTEND:20230427T153000Z
+SUMMARY;LANGUAGE=fr:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo intégrée\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T121041Z
+UID:Cours-1839-33-Methodo_integree-Index-Education
+DTSTART:20230428T060000Z
+DTEND:20230428T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo intégrée\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T094922Z
+UID:Cours-1841-36-Methodo_integree-Index-Education
+DTSTART:20230515T070000Z
+DTEND:20230515T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo intégrée\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230131T095032Z
+UID:Cours-1843-36-Methodo_integree-Index-Education
+DTSTART:20230515T111500Z
+DTEND:20230515T143000Z
+SUMMARY;LANGUAGE=fr:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo intégrée\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T120902Z
+UID:Cours-1844-37-Methodo_integree-Index-Education
+DTSTART:20230525T111500Z
+DTEND:20230525T153000Z
+SUMMARY;LANGUAGE=fr:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe C1\, AS2 - Groupe C2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo intégrée\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotions : AS2 - Groupe C1\, AS2 - Groupe C2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20230124T121046Z
+UID:Cours-1846-37-Methodo_integree-Index-Education
+DTSTART:20230526T060000Z
+DTEND:20230526T101500Z
+SUMMARY;LANGUAGE=fr:Méthodo intégrée - Bosquet\, Kharkhach\, Meulemeester - AS2 - Groupe D1\, AS2 - Groupe D2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodo intégrée\nEnseignants : Bosquet\, Kharkhach\, Meulemeester\nPromotions : AS2 - Groupe D1\, AS2 - Groupe D2\nSalle : 109\n
+END:VEVENT
+END:VCALENDAR

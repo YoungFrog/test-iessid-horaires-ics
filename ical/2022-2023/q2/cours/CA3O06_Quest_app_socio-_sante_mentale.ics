@@ -1,0 +1,218 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA3O06 Quest app socio- santé mentale - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA3O06 Quest app socio- santé mentale généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-543-3-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20220930T111500Z
+DTEND:20220930T131500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-544-2-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20220921T081500Z
+DTEND:20220921T101500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-546-1-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20220916T081500Z
+DTEND:20220916T101500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-546-2-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20220923T081500Z
+DTEND:20220923T101500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-546-3-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20220930T081500Z
+DTEND:20220930T101500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-547-2-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20220919T081500Z
+DTEND:20220919T101500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:005
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 005\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-548-11-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20221121T121500Z
+DTEND:20221121T141500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-550-4-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20221004T081500Z
+DTEND:20221004T101500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-898-3-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20220928T081500Z
+DTEND:20220928T101500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1186-4-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20221007T081500Z
+DTEND:20221007T101500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220929T075709Z
+UID:Cours-1189-15-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20221219T121500Z
+DTEND:20221219T141500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221006T113125Z
+UID:Cours-1190-4-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20221006T111500Z
+DTEND:20221006T131500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1196-4-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20221007T111500Z
+DTEND:20221007T131500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1253-2-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20220923T111500Z
+DTEND:20220923T131500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1288-3-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20220928T111500Z
+DTEND:20220928T131500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220928T141203Z
+UID:Cours-1289-5-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20221011T133000Z
+DTEND:20221011T153000Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220929T075235Z
+UID:Cours-1391-9-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20221108T121500Z
+DTEND:20221108T141500Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:118
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe F1\, AS3 - Groupe F2\nSalle : 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20220929T075551Z
+UID:Cours-1392-9-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20221108T143000Z
+DTEND:20221108T163000Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Groupe E2
+LOCATION;LANGUAGE=fr:007
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\nSalle : 007\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20230110T125646Z
+UID:Cours-1606-18-Quest_app_socio-_sante_mentale-Index-Education
+DTSTART:20230109T080000Z
+DTEND:20230109T100000Z
+SUMMARY;LANGUAGE=fr:Quest app socio- santé mentale - Guida - AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2
+LOCATION;LANGUAGE=fr:006\, 109
+DESCRIPTION;LANGUAGE=fr:Matière : Quest app socio- santé mentale\nEnseignant : Guida\nPromotions : AS3 - Groupe E1\, AS3 - Groupe E2\, AS3 - Groupe F1\, AS3 - Groupe F2\nSalles : 006\, 109\n
+END:VEVENT
+END:VCALENDAR

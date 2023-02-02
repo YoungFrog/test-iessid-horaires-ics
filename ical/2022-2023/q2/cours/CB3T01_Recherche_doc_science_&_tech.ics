@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CB3T01 Recherche doc science & tech - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CB3T01 Recherche doc science & tech généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T082451Z
+UID:Cours-2244-22-Recherche_doc_science_&_tech-Index-Education
+DTSTART:20230207T070000Z
+DTEND:20230207T111500Z
+SUMMARY;LANGUAGE=fr:Recherche doc science & tech - Mievis - BD3
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc science & tech\nEnseignant : Mievis\nPromotion : BD3\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T082451Z
+UID:Cours-2244-23-Recherche_doc_science_&_tech-Index-Education
+DTSTART:20230214T070000Z
+DTEND:20230214T111500Z
+SUMMARY;LANGUAGE=fr:Recherche doc science & tech - Mievis - BD3
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc science & tech\nEnseignant : Mievis\nPromotion : BD3\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T082451Z
+UID:Cours-2244-25-Recherche_doc_science_&_tech-Index-Education
+DTSTART:20230228T070000Z
+DTEND:20230228T111500Z
+SUMMARY;LANGUAGE=fr:Recherche doc science & tech - Mievis - BD3
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc science & tech\nEnseignant : Mievis\nPromotion : BD3\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T082451Z
+UID:Cours-2244-28-Recherche_doc_science_&_tech-Index-Education
+DTSTART:20230321T070000Z
+DTEND:20230321T111500Z
+SUMMARY;LANGUAGE=fr:Recherche doc science & tech - Mievis - BD3
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc science & tech\nEnseignant : Mievis\nPromotion : BD3\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T082451Z
+UID:Cours-2244-29-Recherche_doc_science_&_tech-Index-Education
+DTSTART:20230328T060000Z
+DTEND:20230328T101500Z
+SUMMARY;LANGUAGE=fr:Recherche doc science & tech - Mievis - BD3
+LOCATION;LANGUAGE=fr:208
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc science & tech\nEnseignant : Mievis\nPromotion : BD3\nSalle : 208\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221212T082451Z
+UID:Cours-2244-35-Recherche_doc_science_&_tech-Index-Education
+DTSTART:20230509T060000Z
+DTEND:20230509T101500Z
+SUMMARY;LANGUAGE=fr:Recherche doc science & tech - Mievis - BD3
+LOCATION;LANGUAGE=fr:113 (salle info)
+DESCRIPTION;LANGUAGE=fr:Matière : Recherche doc science & tech\nEnseignant : Mievis\nPromotion : BD3\nSalle : 113 (salle info)\n
+END:VEVENT
+END:VCALENDAR

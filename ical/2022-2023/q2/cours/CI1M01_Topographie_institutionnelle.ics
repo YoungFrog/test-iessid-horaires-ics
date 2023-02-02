@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CI1M01 Topographie institutionnelle - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CI1M01 Topographie institutionnelle généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221025T135853Z
+UID:Cours-1497-7-Topographie_institutionnelle-Index-Education
+DTSTART:20221025T153000Z
+DTEND:20221025T193000Z
+SUMMARY;LANGUAGE=fr:Topographie institutionnelle - Isimba - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Topographie institutionnelle\nEnseignant : Isimba\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221025T135902Z
+UID:Cours-1498-9-Topographie_institutionnelle-Index-Education
+DTSTART:20221108T163000Z
+DTEND:20221108T203000Z
+SUMMARY;LANGUAGE=fr:Topographie institutionnelle - Isimba - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Topographie institutionnelle\nEnseignant : Isimba\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221025T135954Z
+UID:Cours-1499-13-Topographie_institutionnelle-Index-Education
+DTSTART:20221206T163000Z
+DTEND:20221206T203000Z
+SUMMARY;LANGUAGE=fr:Topographie institutionnelle - Isimba - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Topographie institutionnelle\nEnseignant : Isimba\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104943Z
+LAST-MODIFIED:20221025T140055Z
+UID:Cours-1500-14-Topographie_institutionnelle-Index-Education
+DTSTART:20221213T163000Z
+DTEND:20221213T203000Z
+SUMMARY;LANGUAGE=fr:Topographie institutionnelle - Isimba - MIAS 1
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Topographie institutionnelle\nEnseignant : Isimba\nPromotion : MIAS 1\nSalle : 109\n
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,394 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CA1S01 Approches sociologiques - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CA1S01 Approches sociologiques généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063048Z
+UID:Cours-212-2-Approches_sociologiques-Index-Education
+DTSTART:20220921T081500Z
+DTEND:20220921T101500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063048Z
+UID:Cours-212-3-Approches_sociologiques-Index-Education
+DTSTART:20220928T081500Z
+DTEND:20220928T101500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063048Z
+UID:Cours-212-5-Approches_sociologiques-Index-Education
+DTSTART:20221012T081500Z
+DTEND:20221012T101500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063048Z
+UID:Cours-212-6-Approches_sociologiques-Index-Education
+DTSTART:20221019T081500Z
+DTEND:20221019T101500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063048Z
+UID:Cours-212-7-Approches_sociologiques-Index-Education
+DTSTART:20221026T081500Z
+DTEND:20221026T101500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063048Z
+UID:Cours-212-9-Approches_sociologiques-Index-Education
+DTSTART:20221109T091500Z
+DTEND:20221109T111500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063048Z
+UID:Cours-212-10-Approches_sociologiques-Index-Education
+DTSTART:20221116T091500Z
+DTEND:20221116T111500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063048Z
+UID:Cours-212-11-Approches_sociologiques-Index-Education
+DTSTART:20221123T091500Z
+DTEND:20221123T111500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063039Z
+UID:Cours-213-2-Approches_sociologiques-Index-Education
+DTSTART:20220921T060000Z
+DTEND:20220921T080000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063039Z
+UID:Cours-213-3-Approches_sociologiques-Index-Education
+DTSTART:20220928T060000Z
+DTEND:20220928T080000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063039Z
+UID:Cours-213-5-Approches_sociologiques-Index-Education
+DTSTART:20221012T060000Z
+DTEND:20221012T080000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063039Z
+UID:Cours-213-6-Approches_sociologiques-Index-Education
+DTSTART:20221019T060000Z
+DTEND:20221019T080000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063039Z
+UID:Cours-213-7-Approches_sociologiques-Index-Education
+DTSTART:20221026T060000Z
+DTEND:20221026T080000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063039Z
+UID:Cours-213-9-Approches_sociologiques-Index-Education
+DTSTART:20221109T070000Z
+DTEND:20221109T090000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063039Z
+UID:Cours-213-10-Approches_sociologiques-Index-Education
+DTSTART:20221116T070000Z
+DTEND:20221116T090000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221005T063039Z
+UID:Cours-213-11-Approches_sociologiques-Index-Education
+DTSTART:20221123T070000Z
+DTEND:20221123T090000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:109
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 109\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221205T142650Z
+UID:Cours-1617-18-Approches_sociologiques-Index-Education
+DTSTART:20230113T080000Z
+DTEND:20230113T100000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:006\, 115\, 118
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\, AS1 - Groupe B1\, AS1 - Groupe B2\nSalles : 006\, 115\, 118\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2753-22-Approches_sociologiques-Index-Education
+DTSTART:20230207T121500Z
+DTEND:20230207T141500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2753-23-Approches_sociologiques-Index-Education
+DTSTART:20230214T121500Z
+DTEND:20230214T141500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2753-27-Approches_sociologiques-Index-Education
+DTSTART:20230314T121500Z
+DTEND:20230314T141500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2753-29-Approches_sociologiques-Index-Education
+DTSTART:20230328T111500Z
+DTEND:20230328T131500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2753-32-Approches_sociologiques-Index-Education
+DTSTART:20230418T111500Z
+DTEND:20230418T131500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2753-33-Approches_sociologiques-Index-Education
+DTSTART:20230425T111500Z
+DTEND:20230425T131500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2753-35-Approches_sociologiques-Index-Education
+DTSTART:20230509T111500Z
+DTEND:20230509T131500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2753-37-Approches_sociologiques-Index-Education
+DTSTART:20230523T111500Z
+DTEND:20230523T131500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092736Z
+UID:Cours-2753-38-Approches_sociologiques-Index-Education
+DTSTART:20230530T111500Z
+DTEND:20230530T131500Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe A1\, AS1 - Groupe A2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe A1\, AS1 - Groupe A2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2754-22-Approches_sociologiques-Index-Education
+DTSTART:20230207T143000Z
+DTEND:20230207T163000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2754-23-Approches_sociologiques-Index-Education
+DTSTART:20230214T143000Z
+DTEND:20230214T163000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2754-27-Approches_sociologiques-Index-Education
+DTSTART:20230314T143000Z
+DTEND:20230314T163000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2754-29-Approches_sociologiques-Index-Education
+DTSTART:20230328T133000Z
+DTEND:20230328T153000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2754-32-Approches_sociologiques-Index-Education
+DTSTART:20230418T133000Z
+DTEND:20230418T153000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2754-33-Approches_sociologiques-Index-Education
+DTSTART:20230425T133000Z
+DTEND:20230425T153000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2754-35-Approches_sociologiques-Index-Education
+DTSTART:20230509T133000Z
+DTEND:20230509T153000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2754-37-Approches_sociologiques-Index-Education
+DTSTART:20230523T133000Z
+DTEND:20230523T153000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221219T092834Z
+UID:Cours-2754-38-Approches_sociologiques-Index-Education
+DTSTART:20230530T133000Z
+DTEND:20230530T153000Z
+SUMMARY;LANGUAGE=fr:Approches sociologiques - Delforge - AS1 - Groupe B1\, AS1 - Groupe B2
+LOCATION;LANGUAGE=fr:115
+DESCRIPTION;LANGUAGE=fr:Matière : Approches sociologiques\nEnseignant : Delforge\nPromotions : AS1 - Groupe B1\, AS1 - Groupe B2\nSalle : 115\n
+END:VEVENT
+END:VCALENDAR

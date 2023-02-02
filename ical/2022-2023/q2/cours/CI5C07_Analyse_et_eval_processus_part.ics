@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2023
+METHOD:PUBLISH
+X-CALSTART:20220912T000000Z
+X-CALEND:20230909T000000Z
+X-WR-CALNAME;LANGUAGE=fr:HYP - CI5C07 Analyse et éval processus part - du 12 septembre 2022 au 09 septembre 2023
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de CI5C07 Analyse et éval processus part généré par le logiciel HP (©INDEX ÉDUCATION) le 01 févr. 2023 - INDEX EDUCATION MARSEILLE - valable sur la période du 12 septembre 2022 au 09 septembre 2023 - Semaines : semaine 37 - 36
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T134455Z
+UID:Cours-2459-27-Analyse_et_eval_processus_part-Index-Education
+DTSTART:20230318T080000Z
+DTEND:20230318T163000Z
+SUMMARY;LANGUAGE=fr:Analyse et éval processus part - TOUZRI - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse et éval processus part\nEnseignant : TOUZRI\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HYPERPLANNING
+DTSTAMP:20230201T104942Z
+LAST-MODIFIED:20221213T134455Z
+UID:Cours-2459-35-Analyse_et_eval_processus_part-Index-Education
+DTSTART:20230513T070000Z
+DTEND:20230513T153000Z
+SUMMARY;LANGUAGE=fr:Analyse et éval processus part - TOUZRI - MIAS 2
+LOCATION;LANGUAGE=fr:006
+DESCRIPTION;LANGUAGE=fr:Matière : Analyse et éval processus part\nEnseignant : TOUZRI\nPromotion : MIAS 2\nSalle : 006\n
+END:VEVENT
+END:VCALENDAR
